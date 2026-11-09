@@ -1,4 +1,4 @@
-# AXEOM PULSE: data engine (Phase 1), analysis (Phase 2) and the owner's app (Phase 3)
+# AXEOM PULSE: data engine , analysis and the owner's app
 
 Connects Axeom's separate files into one source of truth. It loads leads, bookings, invoices, payments, the
 production board, messages, team and costs. It then finds out which records belong to the same client, and
@@ -148,7 +148,7 @@ No message is ever sent: reminders and calls are listed for the owner to approve
 | **Leads** | leads and referrals nobody answered, clients asking about more work, channels compared |
 | **Add files** | upload, see per file what was inserted / updated / skipped / rejected and which headline numbers changed; undo the last upload or go back to the original pack; download answers.json, the evidence ledger and the owner's answers |
 
-**Suggest, never act.** Each suggestion asks a question ("INV-1094 from Stonebridge Realty Group is 42 days late
+**Suggest** Each suggestion asks a question ("INV-1094 from Stonebridge Realty Group is 42 days late
 (1,500). Send a reminder?") with Yes / No / Later (or Refund / Keep as credit / No, or Same client / Different).
 "Yes" saves the answer and shows a drafted email, which the owner can copy or open in his own email app
 (a `mailto:` link). The app has no way to send anything: no mail or HTTP library is imported, and a test
@@ -159,29 +159,4 @@ pack through the Phase 1 engine, so the same file twice changes nothing, a recor
 and every change is in the history. A file the engine cannot read is not kept. If a saved upload ever made the
 rebuild fail, the app offers to remove it. The state folder can be moved with `AXEOM_STATE_DIR`.
 
-## Put it online (free, no login): Streamlit Community Cloud
 
-1. Create a GitHub repository and upload the contents of this folder (keep `data/original/`; `.gitignore`
-   already leaves out `data/state/`). A public repository is simplest.
-2. Go to https://share.streamlit.io, sign in with GitHub, choose **Create app** -> **Deploy a public app from
-   GitHub**. Repository: yours; branch: `main`; main file path: `app.py`.
-3. **App URL**: type a hard-to-guess subdomain, for example `axeom-pulse-` followed by 6 random letters and
-   digits (the data is fake, but the link should not be guessable).
-4. **Advanced settings**: Python 3.12. Deploy. The first start installs the libraries (a few minutes).
-5. Open the link on a phone, in a private window, to check it works without a login. Put it in
-   `answers.json` -> `live_link`.
-
-Free-hosting limits: an app nobody opens for a while goes to sleep and shows a "wake up" button (about 30
-seconds); a restart resets `data/state/` (uploads and answers), while the original pack is always there.
-
-## Checking the app
-
-`tests/test_app.py` runs `app.py` itself against a recording stand-in for Streamlit and taps through it
-(answer a reminder, upload a payment, upload the same file again, undo, merge two clients).
-`tests/tools/check_streamlit_api.py` compares every Streamlit call in `app.py` with Streamlit's own source
-code. Neither shows how the pages look: after deploying, check on a phone that
-
-- [ ] the first screen shows "Do this first" with Juniper Wealth Partners, without scrolling sideways
-- [ ] tapping **Yes** under a reminder shows the draft and an "Open in my email app" button, and sends nothing
-- [ ] on **Add files**, uploading a payments CSV changes the overdue total, and **Undo the last upload** brings it back
-- [ ] the Money and Edits charts fit the screen
