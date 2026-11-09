@@ -1,10 +1,7 @@
 # Schema report: Axeom Challenge Pack 208
 
-Reference date: **2026-10-06** (from the brief). All figures below were produced by running the code in this
-project against the original files. They are not typed in by hand.
-
-Pack contents: 8 data files (`data/original/`), `answers.json` (empty template), `PACK.txt` (pack id 208) and two
-PDFs. The PDFs are *The Axeom Challenge* (the brief) and *What to send* (the deliverables and scoring).
+Reference date: **2026-10-06** . All figures below were produced by running the code in this
+project against the original files. 
 
 ---
 

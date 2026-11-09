@@ -65,7 +65,7 @@ not make yet.
     browser session. `DataStore.save()` / `load()` exist for local use. Where to keep data permanently for
     free is decided **(Phase 2)**.
 
-## Questions for the owner (for the review list)
+## Questions for the owner 
 
 * Is Kindred Creative your client, or only the payer for Sunset Pediatrics and Luna Physical Therapy?
 * Are Pecan Gym and Pecan Athletics one account?
