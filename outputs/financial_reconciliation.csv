@@ -1,0 +1,323 @@
+section,invoice_no,payment_ids,booking_id,client,amount,received,balance,days_late,tool_status,true_status,status,confidence,method,explanation
+invoice_settled_or_void,INV-1001,P5003,,Juniper Wealth Partners,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-01, due 2026-04-15; memo 'Monthly retainer April'"
+invoice_settled_or_void,INV-1002,P5001,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-02, due 2026-04-16; memo ''"
+invoice_settled_or_void,INV-1003,P5002,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-04-07, due 2026-04-21; memo 'Podcast Studio 2hr 4/7'"
+invoice_settled_or_void,INV-1004,P5008,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-11, due 2026-04-25; memo ''"
+invoice_settled_or_void,INV-1005,P5005,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-12, due 2026-04-26; memo 'B004 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1006,P5009,,Hale Dental,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-14, due 2026-04-28; memo ''"
+invoice_settled_or_void,INV-1007,P5007,,Cedar Builders,1500.0,1500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-04-16, due 2026-04-30; memo 'B006 Content Day'"
+invoice_settled_or_void,INV-1008,P5013,,Jared's Roofing,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-04-18, due 2026-05-02; memo 'Reels Pack 4/17'"
+invoice_settled_or_void,INV-1009,P5004,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-21, due 2026-05-05; memo 'Podcast Studio 2hr 4/20'"
+invoice_settled_or_void,INV-1010,P5016,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-04-21, due 2026-05-05; memo 'Podcast Studio 2hr 4/20'"
+invoice_settled_or_void,INV-1011,P5006,,Apex Medspa,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-23, due 2026-05-07; memo 'B010 Content Day'"
+invoice_settled_or_void,INV-1012,P5017,,Elevate Bridal Boutique,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-26, due 2026-05-10; memo 'B011 Reels Pack'"
+invoice_settled_or_void,INV-1013,P5014,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-04-27, due 2026-05-11; memo 'Podcast Studio 2hr 4/27'"
+invoice_settled_or_void,INV-1014,P5011,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-04-28, due 2026-05-12; memo 'Podcast Studio 4hr 4/27'"
+invoice_settled_or_void,INV-1015,P5012,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-04-29, due 2026-05-13; memo 'Podcast Studio 2hr 4/28'"
+invoice_settled_or_void,INV-1016,P5019,,Maple Chiropractic,2500.0,2500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-05-01, due 2026-05-15; memo 'Monthly retainer May'"
+invoice_settled_or_void,INV-1017,P5010,,Juniper Wealth Partners,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-01, due 2026-05-15; memo 'Monthly retainer May'"
+invoice_settled_or_void,INV-1018,P5021,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-08, due 2026-05-22; memo 'Podcast Studio 2hr 5/7'"
+invoice_settled_or_void,INV-1019,P5022,,Northpoint Fitness,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-09, due 2026-05-23; memo ''"
+invoice_settled_or_void,INV-1020,P5015,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-09, due 2026-05-23; memo 'B017 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1021,P5031,,Oak Lane,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-15, due 2026-05-29; memo ''"
+invoice_settled_or_void,INV-1022,P5026,,Jared's Roofing,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-05-15, due 2026-05-29; memo ''"
+invoice_settled_or_void,INV-1023,P5018,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-05-15, due 2026-05-29; memo 'B022 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1024,P5024,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-17, due 2026-05-31; memo 'B024 Podcast Studio 4hr'"
+invoice_settled_or_void,INV-1025,P5027,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-05-19, due 2026-06-02; memo 'B028 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1026,P5020,,Elevate Bridal Boutique,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-19, due 2026-06-02; memo ''"
+invoice_settled_or_void,INV-1027,P5036,,Riverbend Barbershop,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-21, due 2026-06-04; memo 'B029 Reels Pack'"
+invoice_settled_or_void,INV-1028,P5033,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-21, due 2026-06-04; memo ''"
+invoice_settled_or_void,INV-1029,P5023,,Cedar Builders,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-05-26, due 2026-06-09; memo 'B031 Content Day'"
+invoice_settled_or_void,INV-1030,P5030,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-05-28, due 2026-06-11; memo 'Podcast Studio 4hr 5/27'"
+invoice_settled_or_void,INV-1031,P5025,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-05-28, due 2026-06-11; memo 'Podcast Studio 2hr 5/25'"
+invoice_settled_or_void,INV-1032,P5032,,Haddad Insurance Group,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-01, due 2026-06-15; memo 'Monthly retainer June'"
+invoice_settled_or_void,INV-1033,P5028,,Maple Chiropractic,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-01, due 2026-06-15; memo 'Monthly retainer June'"
+invoice_settled_or_void,INV-1034,P5044,,Stone Bridge Realty,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-01, due 2026-06-15; memo 'B034 Content Day'"
+invoice_settled_or_void,INV-1035,P5047,,Walsh Law Firm,2500.0,2500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-01, due 2026-06-15; memo 'Monthly retainer June'"
+invoice_settled_or_void,INV-1036,P5029,,Juniper Wealth Partners,2500.0,2500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-01, due 2026-06-15; memo 'Monthly retainer June'"
+invoice_settled_or_void,INV-1037,P5041,,Apex Medspa,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-02, due 2026-06-16; memo 'Content Day 6/1'"
+invoice_settled_or_void,INV-1038,P5034,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-02, due 2026-06-16; memo 'Podcast Studio 2hr 6/1'"
+invoice_settled_or_void,INV-1039,P5037,,Trinity Dental,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-04, due 2026-06-18; memo ''"
+invoice_settled_or_void,INV-1040,P5035,,Northpoint Fitness,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-05, due 2026-06-19; memo 'Reels Pack 6/5'"
+invoice_settled_or_void,INV-1041,P5039,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-05, due 2026-06-19; memo 'B037 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1042,P5046,,Hale Dental,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-10, due 2026-06-24; memo 'B040 Content Day'"
+invoice_settled_or_void,INV-1043,P5043,,Silverleaf Church,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-11, due 2026-06-25; memo 'B043 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1044,P5038,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-11, due 2026-06-25; memo 'B047 Podcast Studio 4hr'"
+invoice_settled_or_void,INV-1045,P5042,,Jared's Roofing,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-11, due 2026-06-25; memo 'Reels Pack 6/10'"
+invoice_settled_or_void,INV-1046,P5054,,Kindred Creative,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-12, due 2026-06-26; memo ''"
+invoice_settled_or_void,INV-1047,P5040,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-13, due 2026-06-27; memo 'B044 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1048,P5055,,Elevate Bridal Boutique,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-15, due 2026-06-29; memo ''"
+invoice_settled_or_void,INV-1049,P5051,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-16, due 2026-06-30; memo 'B053 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1050,P5056,,Hale Family Law PLLC,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-16, due 2026-06-30; memo ''"
+invoice_settled_or_void,INV-1051,P5052,,Riverbend Barbershop,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-17, due 2026-07-01; memo ''"
+invoice_settled_or_void,INV-1052,P5045,,Lakeside Roasters,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-20, due 2026-07-04; memo 'Reels Pack 6/19'"
+invoice_settled_or_void,INV-1053,P5049,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-23, due 2026-07-07; memo 'Podcast Studio 2hr 6/23'"
+invoice_settled_or_void,INV-1054,P5048,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-23, due 2026-07-07; memo 'B057 Podcast Studio 4hr'"
+invoice_settled_or_void,INV-1055,P5050,,Glow Builders,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-06-25, due 2026-07-09; memo ''"
+invoice_settled_or_void,INV-1056,P5059,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-06-25, due 2026-07-09; memo 'Podcast Studio 2hr 6/25'"
+invoice_settled_or_void,INV-1057,P5068,,Juniper Wealth Partners,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-01, due 2026-07-15; memo 'Monthly retainer July'"
+invoice_settled_or_void,INV-1058,P5067,,Haddad Insurance Group,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-01, due 2026-07-15; memo 'Monthly retainer July'"
+invoice_settled_or_void,INV-1059,P5060,,Maple Chiropractic,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-01, due 2026-07-15; memo 'Monthly retainer July'"
+invoice_settled_or_void,INV-1060,P5053,,Walsh Law Firm,2000.0,2000.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-01, due 2026-07-15; memo 'Monthly retainer July'"
+invoice_settled_or_void,INV-1061,P5080,,Kindred Creative,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-02, due 2026-07-16; memo ''"
+invoice_settled_or_void,INV-1062,P5066,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-03, due 2026-07-17; memo ''"
+invoice_settled_or_void,INV-1063,P5075,,Cedar Builders,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-06, due 2026-07-20; memo 'B063 Content Day'"
+invoice_settled_or_void,INV-1064,P5079,,Calm and Collected,300.0,300.0,0.0,0.0,unpaid,paid,inferred,,inferred,"issued 2026-07-06, due 2026-07-20; memo 'Podcast Studio 2hr 7/6'"
+invoice_settled_or_void,INV-1065,P5057,,Apex Medspa,1500.0,1500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-06, due 2026-07-20; memo 'Content Day 7/6'"
+invoice_settled_or_void,INV-1066,P5058,,Oak Lane,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-08, due 2026-07-22; memo ''"
+invoice_settled_or_void,INV-1067,P5071,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-09, due 2026-07-23; memo 'B067 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1068,P5073,,Pecan Athletics,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-09, due 2026-07-23; memo ''"
+invoice_settled_or_void,INV-1069,P5062,,Jared's Roofing,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-10, due 2026-07-24; memo ''"
+invoice_settled_or_void,INV-1070,P5074,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-10, due 2026-07-24; memo 'Podcast Studio 4hr 7/10'"
+invoice_settled_or_void,INV-1071,P5079,,Calm and Collected,300.0,300.0,0.0,0.0,unpaid,paid,inferred,,inferred,"issued 2026-07-13, due 2026-07-27; memo 'Podcast Studio 2hr 7/13'"
+invoice_settled_or_void,INV-1072,P5064,,Northpoint Fitness,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-14, due 2026-07-28; memo 'B075 Reels Pack'"
+invoice_settled_or_void,INV-1073,P5063,,Horizon Family Therapy,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-15, due 2026-07-29; memo ''"
+invoice_settled_or_void,INV-1074,P5078,,The Parkside Lab,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-16, due 2026-07-30; memo ''"
+invoice_settled_or_void,INV-1075,P5061,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-16, due 2026-07-30; memo 'B080 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1076,P5070,,Hale Family Law PLLC,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-17, due 2026-07-31; memo 'B076 Reels Pack'"
+invoice_settled_or_void,INV-1077,P5081,,Malik's Auto Spa,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-19, due 2026-08-02; memo 'B079 Reels Pack'"
+invoice_settled_or_void,INV-1078,P5080,,Kindred Creative,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-20, due 2026-08-03; memo ''"
+invoice_settled_or_void,INV-1079,P5069,,Stone Bridge Realty,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-21, due 2026-08-04; memo 'B082 Content Day'"
+invoice_settled_or_void,INV-1080,P5072,,Riverbend Barbershop,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-22, due 2026-08-05; memo ''"
+invoice_settled_or_void,INV-1081,P5084,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-23, due 2026-08-06; memo 'B086 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1082,P5077,,Hale Dental,1500.0,1500.0,0.0,0.0,unpaid,paid,confirmed,,confirmed,"issued 2026-07-24, due 2026-08-07; memo 'B085 Content Day'"
+invoice_settled_or_void,INV-1083,P5085,,Elevate Bridal Boutique,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-07-24, due 2026-08-07; memo 'B087 Reels Pack'"
+invoice_settled_or_void,INV-1084,P5079,,Calm and Collected,300.0,300.0,0.0,0.0,unpaid,paid,inferred,,inferred,"issued 2026-07-28, due 2026-08-11; memo ''"
+invoice_settled_or_void,INV-1085,P5090,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-07-29, due 2026-08-12; memo 'B089 Podcast Studio 4hr'"
+invoice_settled_or_void,INV-1086,P5082,,Walsh Law Firm,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-01, due 2026-08-15; memo 'Monthly retainer August'"
+invoice_settled_or_void,INV-1087,P5083,,Haddad Insurance Group,2500.0,2500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-01, due 2026-08-15; memo 'Monthly retainer August'"
+invoice_settled_or_void,INV-1088,P5093,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-01, due 2026-08-15; memo 'B090 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1089,P5092,,Juniper Wealth Partners,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-01, due 2026-08-15; memo 'Monthly retainer August'"
+invoice_settled_or_void,INV-1090,P5088,,Trinity Dental,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-04, due 2026-08-18; memo 'Content Day 8/3'"
+invoice_settled_or_void,INV-1091,P5103,,Kindred Creative,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-06, due 2026-08-20; memo 'B094 Reels Pack'"
+invoice_settled_or_void,INV-1092,P5086,,Bloom Roofing Co,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-07, due 2026-08-21; memo 'B092 Reels Pack'"
+invoice_settled_or_void,INV-1093,P5087,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-08, due 2026-08-22; memo 'B095 Podcast Studio 2hr'"
+overdue,INV-1094,,,Stonebridge Realty Group,1500.0,0.0,1500.0,42.0,unpaid,unpaid,confirmed,,none,"issued 2026-08-11, due 2026-08-25; memo ''"
+invoice_settled_or_void,INV-1095,P5089,,Oak Lane,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-11, due 2026-08-25; memo 'B100 Reels Pack'"
+invoice_settled_or_void,INV-1096,P5096,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-11, due 2026-08-25; memo 'Podcast Studio 4hr 8/10'"
+invoice_settled_or_void,INV-1097,P5091,,Malik's Auto Spa,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-11, due 2026-08-25; memo 'Reels Pack 8/10'"
+invoice_settled_or_void,INV-1098,P5101,,The Parkside Lab,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-11, due 2026-08-25; memo 'B101 Reels Pack'"
+overdue,INV-1099,,,Jared's Roofing,900.0,0.0,900.0,39.0,paid,unpaid,confirmed,,none,"issued 2026-08-14, due 2026-08-28; memo 'B102 Reels Pack'"
+invoice_settled_or_void,INV-1100,P5094,,Elevate Bridal Boutique,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-17, due 2026-08-31; memo 'Reels Pack 8/17'"
+invoice_settled_or_void,INV-1101,P5100,,Lakeside Roasters,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-17, due 2026-08-31; memo 'Reels Pack 8/17'"
+invoice_settled_or_void,INV-1102,P5107,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-18, due 2026-09-01; memo 'B106 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1103,P5102,,Glow Builders,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-18, due 2026-09-01; memo ''"
+invoice_settled_or_void,INV-1104,P5113,,Hale Family Law PLLC,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-19, due 2026-09-02; memo 'B105 Reels Pack'"
+invoice_settled_or_void,INV-1105,P5095,,Pecan Athletics,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-19, due 2026-09-02; memo 'B110 Reels Pack'"
+invoice_settled_or_void,INV-1106,P5097,,Northpoint Fitness,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-20, due 2026-09-03; memo 'B111 Reels Pack'"
+invoice_settled_or_void,INV-1107,P5098,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-21, due 2026-09-04; memo 'Podcast Studio 2hr 8/20'"
+invoice_settled_or_void,INV-1108,P5115,,Riverbend Barbershop,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-22, due 2026-09-05; memo ''"
+overdue,INV-1109,,,North Texas Founders,550.0,0.0,550.0,29.0,unpaid,unpaid,confirmed,,none,"issued 2026-08-24, due 2026-09-07; memo 'B115 Podcast Studio 4hr'"
+invoice_settled_or_void,INV-1110,P5103,,Kindred Creative,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-24, due 2026-09-07; memo 'B117 Reels Pack'"
+overdue,INV-1111,,,Cedar Builders,1500.0,0.0,1500.0,28.0,unpaid,unpaid,confirmed,,none,"issued 2026-08-25, due 2026-09-08; memo 'Content Day 8/24'"
+invoice_settled_or_void,INV-1112,P5111,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-25, due 2026-09-08; memo 'B114 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1113,P5109,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-27, due 2026-09-10; memo 'Podcast Studio 2hr 8/27'"
+invoice_settled_or_void,INV-1114,P5099,,Apex Medspa,1500.0,1500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-08-27, due 2026-09-10; memo ''"
+invoice_settled_or_void,INV-1115,P5106,,Castillo's Auto Spa,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-08-28, due 2026-09-11; memo 'B120 Reels Pack'"
+invoice_settled_or_void,INV-1116,P5120,,Walsh Law Firm,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-01, due 2026-09-15; memo 'Monthly retainer September'"
+invoice_settled_or_void,INV-1117,P5105,,Haddad Insurance Group,2500.0,2500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-01, due 2026-09-15; memo 'Monthly retainer September'"
+overdue,INV-1118,,,TLC Homecare,1500.0,0.0,1500.0,21.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-01, due 2026-09-15; memo ''"
+overdue,INV-1119,,,Juniper Wealth Partners,2500.0,0.0,2500.0,21.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-01, due 2026-09-15; memo 'Monthly retainer September'"
+invoice_settled_or_void,INV-1120,P5104,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-01, due 2026-09-15; memo 'B121 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1121,P5112,,Hale Dental,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-02, due 2026-09-16; memo 'B124 Content Day'"
+invoice_settled_or_void,INV-1122,P5108,,Jared's Roofing,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-04, due 2026-09-18; memo 'B126 Reels Pack'"
+overdue,INV-1123,P5114,,Bloom Roofing Co,900.0,450.0,450.0,18.0,partial,partial,inferred,,inferred,"issued 2026-09-04, due 2026-09-18; memo 'Reels Pack 9/1'"
+overdue,INV-1124,,,The Parkside Lab,900.0,0.0,900.0,17.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-05, due 2026-09-19; memo 'Reels Pack 9/3'"
+invoice_settled_or_void,INV-1125,P5126,,Horizon Family Therapy,1500.0,1500.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-07, due 2026-09-21; memo 'B130 Content Day'"
+invoice_settled_or_void,INV-1126,P5110,,Stone Bridge Realty,1500.0,1500.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-07, due 2026-09-21; memo 'B127 Content Day'"
+invoice_settled_or_void,INV-1127,P5129,,Silverleaf Church,225.0,225.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-09, due 2026-09-23; memo 'B128 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1128,P5117,,Lakeside Roasters,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-10, due 2026-09-24; memo ''"
+invoice_settled_or_void,INV-1129,P5116,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-10, due 2026-09-24; memo ''"
+invoice_settled_or_void,INV-1130,P5132,,Oak Lane,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-14, due 2026-09-28; memo 'B136 Reels Pack'"
+invoice_settled_or_void,INV-1131,P5131,,Kindred Creative,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-15, due 2026-09-29; memo 'B139 Reels Pack'"
+invoice_settled_or_void,INV-1132,P5119,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-15, due 2026-09-29; memo ''"
+invoice_settled_or_void,INV-1133,P5118,,Malik's Auto Spa,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-16, due 2026-09-30; memo ''"
+invoice_settled_or_void,INV-1134,P5124,,Silverleaf Church,225.0,225.0,0.0,0.0,unpaid,paid,confirmed,,confirmed,"issued 2026-09-17, due 2026-10-01; memo 'B140 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1135,P5123,,Northpoint Fitness,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-17, due 2026-10-01; memo ''"
+invoice_settled_or_void,INV-1136,P5130,,Elevate Bridal Boutique,900.0,900.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-17, due 2026-10-01; memo ''"
+invoice_settled_or_void,INV-1137,,,Stone Bridge Realty,1500.0,0.0,0.0,0.0,paid,billed_cancelled_booking,confirmed,,none,"issued 2026-09-18, due 2026-10-02; memo 'B148 Content Day'"
+receivable_not_yet_due,INV-1138,,,Hale Family Law PLLC,900.0,0.0,900.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-22, due 2026-10-06; memo 'B142 Reels Pack'"
+invoice_settled_or_void,INV-1139,P5121,,North Texas Founders,550.0,550.0,0.0,0.0,paid,paid,inferred,,inferred,"issued 2026-09-22, due 2026-10-06; memo 'Podcast Studio 4hr 9/22'"
+receivable_not_yet_due,INV-1140,,,Silverleaf Church,225.0,0.0,225.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-23, due 2026-10-07; memo 'B146 Podcast Studio 2hr'"
+invoice_settled_or_void,INV-1141,P5125,,Calm and Collected,300.0,300.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-23, due 2026-10-07; memo ''"
+invoice_settled_or_void,INV-1142,P5127,,Riverbend Barbershop,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-24, due 2026-10-08; memo 'B143 Reels Pack'"
+receivable_not_yet_due,INV-1143,,,Kindred Creative,900.0,0.0,900.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-24, due 2026-10-08; memo ''"
+invoice_settled_or_void,INV-1144,P5128,,Pecan Athletics,900.0,900.0,0.0,0.0,paid,paid,confirmed,,confirmed,"issued 2026-09-26, due 2026-10-10; memo ''"
+invoice_settled_or_void,INV-1145,P5122,,Stone Bridge Realty,1500.0,1500.0,0.0,0.0,unpaid,paid,inferred,,inferred,"issued 2026-09-28, due 2026-10-12; memo ''"
+receivable_not_yet_due,INV-1146,,,Stonebridge Realty Group,1500.0,0.0,1500.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-29, due 2026-10-13; memo ''"
+receivable_not_yet_due,INV-1147,,,Trinity Dental,1500.0,0.0,1500.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-30, due 2026-10-14; memo 'Content Day 9/28'"
+receivable_not_yet_due,INV-1148,,,Castillo's Auto Spa,900.0,0.0,900.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-09-30, due 2026-10-14; memo 'B152 Reels Pack'"
+receivable_not_yet_due,INV-1149,,,Juniper Wealth Partners,2500.0,0.0,2500.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-10-01, due 2026-10-15; memo 'Monthly retainer October'"
+receivable_not_yet_due,INV-1150,,,Walsh Law Firm,2500.0,0.0,2500.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-10-01, due 2026-10-15; memo 'Monthly retainer October'"
+receivable_not_yet_due,INV-1151,,,Haddad Insurance Group,2500.0,0.0,2500.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-10-01, due 2026-10-15; memo 'Monthly retainer October'"
+receivable_not_yet_due,INV-1152,,,Bloom Roofing Co,900.0,0.0,900.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-10-05, due 2026-10-19; memo 'B154 Reels Pack'"
+receivable_not_yet_due,INV-1153,,,Silverleaf Church,225.0,0.0,225.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-10-05, due 2026-10-19; memo 'Podcast Studio 2hr 10/2'"
+receivable_not_yet_due,INV-1154,,,Calm and Collected,300.0,0.0,300.0,0.0,unpaid,unpaid,confirmed,,none,"issued 2026-10-06, due 2026-10-20; memo ''"
+invoice_settled_or_void,INV-1155,,,Apex Medspa,1500.0,0.0,0.0,0.0,void,void,confirmed,,none,"issued 2026-07-06, due 2026-07-20; memo 'Content Day 7/6'"
+payment_allocation,INV-1002,P5001,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1002
+payment_allocation,INV-1001,P5003,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1001
+payment_allocation,INV-1009,P5004,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1009
+payment_allocation,INV-1005,P5005,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1005
+payment_allocation,INV-1011,P5006,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1011
+payment_allocation,INV-1004,P5008,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1004
+payment_allocation,INV-1006,P5009,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1006
+payment_allocation,INV-1017,P5010,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1017
+payment_allocation,INV-1014,P5011,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1014
+payment_allocation,INV-1020,P5015,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1020
+payment_allocation,INV-1012,P5017,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1012
+payment_allocation,INV-1026,P5020,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1026
+payment_allocation,INV-1018,P5021,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1018
+payment_allocation,INV-1019,P5022,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1019
+payment_allocation,INV-1029,P5023,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1029
+payment_allocation,INV-1024,P5024,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1024
+payment_allocation,INV-1033,P5028,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1033
+payment_allocation,INV-1021,P5031,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1021
+payment_allocation,INV-1032,P5032,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1032
+payment_allocation,INV-1028,P5033,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1028
+payment_allocation,INV-1040,P5035,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1040
+payment_allocation,INV-1027,P5036,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1027
+payment_allocation,INV-1039,P5037,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1039
+payment_allocation,INV-1041,P5039,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1041
+payment_allocation,INV-1047,P5040,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1047
+payment_allocation,INV-1037,P5041,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1037
+payment_allocation,INV-1043,P5043,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1043
+payment_allocation,INV-1034,P5044,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1034
+payment_allocation,INV-1042,P5046,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1042
+payment_allocation,INV-1054,P5048,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1054
+payment_allocation,INV-1053,P5049,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1053
+payment_allocation,INV-1055,P5050,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1055
+payment_allocation,INV-1049,P5051,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1049
+payment_allocation,INV-1051,P5052,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1051
+payment_allocation,INV-1060,P5053,,,2000.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1060
+payment_allocation,INV-1059,P5060,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1059
+payment_allocation,INV-1075,P5061,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1075
+payment_allocation,INV-1069,P5062,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1069
+payment_allocation,INV-1073,P5063,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1073
+payment_allocation,INV-1072,P5064,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1072
+payment_allocation,INV-1062,P5066,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1062
+payment_allocation,INV-1058,P5067,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1058
+payment_allocation,INV-1057,P5068,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1057
+payment_allocation,INV-1079,P5069,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1079
+payment_allocation,INV-1076,P5070,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1076
+payment_allocation,INV-1067,P5071,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1067
+payment_allocation,INV-1080,P5072,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1080
+payment_allocation,INV-1068,P5073,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1068
+payment_allocation,INV-1063,P5075,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1063
+payment_allocation,INV-1082,P5077,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1082
+payment_allocation,INV-1074,P5078,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1074
+payment_allocation,INV-1086,P5082,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1086
+payment_allocation,INV-1081,P5084,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1081
+payment_allocation,INV-1090,P5088,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1090
+payment_allocation,INV-1095,P5089,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1095
+payment_allocation,INV-1085,P5090,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1085
+payment_allocation,INV-1097,P5091,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1097
+payment_allocation,INV-1089,P5092,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1089
+payment_allocation,INV-1088,P5093,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1088
+payment_allocation,INV-1100,P5094,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1100
+payment_allocation,INV-1105,P5095,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1105
+payment_allocation,INV-1096,P5096,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1096
+payment_allocation,INV-1107,P5098,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1107
+payment_allocation,INV-1101,P5100,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1101
+payment_allocation,INV-1098,P5101,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1098
+payment_allocation,INV-1103,P5102,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1103
+payment_allocation,INV-1117,P5105,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1117
+payment_allocation,INV-1115,P5106,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1115
+payment_allocation,INV-1122,P5108,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1122
+payment_allocation,INV-1113,P5109,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1113
+payment_allocation,INV-1112,P5111,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1112
+payment_allocation,INV-1121,P5112,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1121
+payment_allocation,INV-1104,P5113,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1104
+payment_allocation,INV-1129,P5116,,,550.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1129
+payment_allocation,INV-1128,P5117,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1128
+payment_allocation,INV-1132,P5119,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1132
+payment_allocation,INV-1116,P5120,,,2500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1116
+payment_allocation,INV-1134,P5124,,,225.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1134
+payment_allocation,INV-1141,P5125,,,300.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1141
+payment_allocation,INV-1125,P5126,,,1500.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1125
+payment_allocation,INV-1142,P5127,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1142
+payment_allocation,INV-1144,P5128,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1144
+payment_allocation,INV-1130,P5132,,,900.0,,,,,,confirmed,high,explicit_reference,payment reference is INV-1130
+payment_allocation,INV-1046,P5054,,,900.0,,,,,,inferred,high,reference_month,reference 'Kindred Jun invoices' names June 2026; open invoices of this payer in that month total 900.00
+payment_allocation,INV-1064,P5079,,,300.0,,,,,,inferred,high,reference_month,reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00
+payment_allocation,INV-1071,P5079,,,300.0,,,,,,inferred,high,reference_month,reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00
+payment_allocation,INV-1084,P5079,,,300.0,,,,,,inferred,high,reference_month,reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00
+payment_allocation,INV-1061,P5080,,,900.0,,,,,,inferred,high,reference_month,reference 'Kindred Jul invoices' names July 2026; open invoices of this payer in that month total 1800.00
+payment_allocation,INV-1078,P5080,,,900.0,,,,,,inferred,high,reference_month,reference 'Kindred Jul invoices' names July 2026; open invoices of this payer in that month total 1800.00
+payment_allocation,INV-1091,P5103,,,900.0,,,,,,inferred,high,reference_month,reference 'Kindred Aug invoices' names August 2026; open invoices of this payer in that month total 1800.00
+payment_allocation,INV-1110,P5103,,,900.0,,,,,,inferred,high,reference_month,reference 'Kindred Aug invoices' names August 2026; open invoices of this payer in that month total 1800.00
+payment_allocation,INV-1131,P5131,,,900.0,,,,,,inferred,medium,reference_month,reference 'Kindred Sep invoices' names September 2026; open invoices of this payer in that month total 1800.00 (not an exact match)
+payment_allocation,INV-1003,P5002,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 2 days before it; billing tool status 'paid'"
+payment_allocation,INV-1007,P5007,,,1500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 1500.00 equals the payment, issued 12 days before it; billing tool status 'paid'"
+payment_allocation,INV-1015,P5012,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 9 days before it; billing tool status 'paid'"
+payment_allocation,INV-1008,P5013,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 22 days before it; billing tool status 'paid'"
+payment_allocation,INV-1013,P5014,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 15 days before it; billing tool status 'paid'; 1 other open invoice(s) of the same amount existed"
+payment_allocation,INV-1010,P5016,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 22 days before it; billing tool status 'paid'"
+payment_allocation,INV-1023,P5018,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 1 days before it; billing tool status 'paid'"
+payment_allocation,INV-1016,P5019,,,2500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 2500.00 equals the payment, issued 18 days before it; billing tool status 'paid'"
+payment_allocation,INV-1031,P5025,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 2 days before it; billing tool status 'paid'"
+payment_allocation,INV-1022,P5026,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 15 days before it; billing tool status 'paid'"
+payment_allocation,INV-1025,P5027,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 12 days before it; billing tool status 'paid'"
+payment_allocation,INV-1036,P5029,,,2500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 2500.00 equals the payment, issued 2 days before it; billing tool status 'paid'"
+payment_allocation,INV-1030,P5030,,,550.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 550.00 equals the payment, issued 9 days before it; billing tool status 'paid'"
+payment_allocation,INV-1038,P5034,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 9 days before it; billing tool status 'paid'"
+payment_allocation,INV-1044,P5038,,,550.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 550.00 equals the payment, issued 3 days before it; billing tool status 'paid'"
+payment_allocation,INV-1045,P5042,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 5 days before it; billing tool status 'paid'"
+payment_allocation,INV-1052,P5045,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 2 days before it; billing tool status 'paid'"
+payment_allocation,INV-1035,P5047,,,2500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 2500.00 equals the payment, issued 22 days before it; billing tool status 'paid'"
+payment_allocation,INV-1048,P5055,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 22 days before it; billing tool status 'paid'"
+payment_allocation,INV-1050,P5056,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 22 days before it; billing tool status 'paid'"
+payment_allocation,INV-1065,P5057,,,1500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 1500.00 equals the payment, issued 2 days before it; billing tool status 'paid'"
+payment_allocation,INV-1066,P5058,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 1 days before it; billing tool status 'paid'"
+payment_allocation,INV-1056,P5059,,,225.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 225.00 equals the payment, issued 15 days before it; billing tool status 'paid'"
+payment_allocation,INV-1070,P5074,,,550.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 550.00 equals the payment, issued 18 days before it; billing tool status 'paid'"
+payment_allocation,INV-1077,P5081,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 15 days before it; billing tool status 'paid'"
+payment_allocation,INV-1087,P5083,,,2500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 2500.00 equals the payment, issued 5 days before it; billing tool status 'paid'"
+payment_allocation,INV-1083,P5085,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 15 days before it; billing tool status 'paid'"
+payment_allocation,INV-1092,P5086,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 5 days before it; billing tool status 'paid'"
+payment_allocation,INV-1093,P5087,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 5 days before it; billing tool status 'paid'"
+payment_allocation,INV-1106,P5097,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 7 days before it; billing tool status 'paid'"
+payment_allocation,INV-1114,P5099,,,1500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 1500.00 equals the payment, issued 1 days before it; billing tool status 'paid'"
+payment_allocation,INV-1120,P5104,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 3 days before it; billing tool status 'paid'; 1 other open invoice(s) of the same amount existed"
+payment_allocation,INV-1102,P5107,,,300.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 300.00 equals the payment, issued 18 days before it; billing tool status 'paid'"
+payment_allocation,INV-1126,P5110,,,1500.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 1500.00 equals the payment, issued 2 days before it; billing tool status 'paid'"
+payment_allocation,INV-1108,P5115,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 22 days before it; billing tool status 'paid'"
+payment_allocation,INV-1133,P5118,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 3 days before it; billing tool status 'paid'"
+payment_allocation,INV-1139,P5121,,,550.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 550.00 equals the payment, issued 1 days before it; billing tool status 'paid'; 1 other open invoice(s) of the same amount existed"
+payment_allocation,INV-1145,P5122,,,1500.0,,,,,,inferred,high,moved_with_reschedule,"paid for B148 via INV-1137; B148 was cancelled and the shoot moved to B155 (2026-10-02), which INV-1145 bills (client message: cancel and move, already paid)"
+payment_allocation,INV-1135,P5123,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 7 days before it; billing tool status 'paid'"
+payment_allocation,INV-1127,P5129,,,225.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 225.00 equals the payment, issued 22 days before it; billing tool status 'paid'; 1 other open invoice(s) of the same amount existed"
+payment_allocation,INV-1136,P5130,,,900.0,,,,,,inferred,medium,client_amount_date,"no invoice number; same client, open balance 900.00 equals the payment, issued 15 days before it; billing tool status 'paid'"
+payment_allocation,INV-1123,P5114,,,450.0,,,,,,inferred,medium,partial_text,reference 'half now half later' says part payment; INV-1123 is the only larger open invoice of this client before the payment
+unallocated_payment,,P5076,,Riverbend Barbershop,900.0,,,,,,unresolved,,,payment 900.00 ref 'INV-1080': 900.00 not matched to any open invoice
+we_owe,INV-1080,"P5076, P5072",,Riverbend Barbershop,900.0,,,,,,confirmed,high,,"INV-1080 was paid twice (P5076 also references INV-1080, already settled by P5072)"
+we_owe,INV-1043,,,Silverleaf Church,75.0,,,,,,confirmed,high,,INV-1043 charged 300.00 but the booking price was 225.00 (booking B043 price); the client paid the higher amount
+never_billed,,,B019,Walsh Law Firm,2500.0,,,,,,inferred,medium,2026-05,"Retainer Shoot B019 on 2026-05-11 was completed and 3 video(s) made, but there is no 'Monthly retainer May' invoice. Amount = this client's usual retainer invoice"
+never_billed,,,B032,Haddad Insurance Group,2500.0,,,,,,inferred,medium,2026-05,"Retainer Shoot B032 on 2026-05-26 was completed and 3 video(s) made, but there is no 'Monthly retainer May' invoice. Amount = this client's usual retainer invoice"
+never_billed,,,B041,Oak Lane,900.0,,,,,,inferred,medium,B041,"completed Reels Pack on 2026-06-08 with 2 video(s) delivered; no invoice references it, names it in the memo, or matches its client, price and date"
+never_billed,,,B081,Lakeside Roasters,900.0,,,,,,inferred,medium,B081,"completed Reels Pack on 2026-07-16 with 2 video(s) delivered; no invoice references it, names it in the memo, or matches its client, price and date"
+never_billed,,,B098,Silverleaf Church,225.0,,,,,,inferred,medium,B098,"completed Podcast Studio 2hr on 2026-08-10; no invoice references it, names it in the memo, or matches its client, price and date"
+billing_tool_status_wrong_unpaid,INV-1064,,,Calm and Collected,300.0,,,,unpaid,paid,inferred,high,,bank payment(s) P5079 (300.00) cover it: reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00
+billing_tool_status_wrong_unpaid,INV-1071,,,Calm and Collected,300.0,,,,unpaid,paid,inferred,high,,bank payment(s) P5079 (300.00) cover it: reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00
+billing_tool_status_wrong_unpaid,INV-1082,,,Hale Dental,1500.0,,,,unpaid,paid,confirmed,high,,bank payment(s) P5077 (1500.00) reference this invoice
+billing_tool_status_wrong_unpaid,INV-1084,,,Calm and Collected,300.0,,,,unpaid,paid,inferred,high,,bank payment(s) P5079 (300.00) cover it: reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00
+billing_tool_status_wrong_paid,INV-1099,,,Jared's Roofing,900.0,,,,paid,unpaid (900.00 not received),inferred,medium,,"no bank payment references it, and every unreferenced payment from this client is already matched to another invoice"
+billing_tool_status_wrong_unpaid,INV-1134,,,Silverleaf Church,225.0,,,,unpaid,paid,confirmed,high,,bank payment(s) P5124 (225.00) reference this invoice
+billing_tool_status_wrong_unpaid,INV-1145,,,Stone Bridge Realty,1500.0,,,,unpaid,paid,inferred,medium,,"bank payment(s) P5122 (1500.00) cover it: paid for B148 via INV-1137; B148 was cancelled and the shoot moved to B155 (2026-10-02), which INV-1145 bills (client message: cancel and move, already paid)"
+billing_tool_paid_twice,INV-1080,,,Riverbend Barbershop,900.0,,,,paid (900.00),paid 1800.00: overpaid by 900.00,confirmed,high,,"P5076 also references INV-1080, already settled by P5072"
+billing_tool_duplicate_invoice,INV-1155,,,Apex Medspa,0.0,,,,"2 invoices: INV-1065 (paid), INV-1155 (void)",one job billed twice; the copy was voided,confirmed,high,,"same email, issue date, amount and memo"
+billing_tool_amount_differs_from_booking,INV-1043,,,Silverleaf Church,75.0,,,,300.00,225.00 (booking B043 price),confirmed,high,,the invoice is linked to B043 by memo_booking_id; booking price 225.00; client paid 300.00
+billing_tool_invoice_for_cancelled_booking,INV-1137,,,Stone Bridge Realty,0.0,,,,paid,"bills cancelled booking B148; the 1500.00 paid (P5122) belongs to the rescheduled shoot B155, which INV-1145 bills again",confirmed,high,,"memo cites B148, whose status is cancelled"
+billing_tool_retainer_amount_differs,INV-1060,,,Walsh Law Firm,-500.0,,,,2000.00,unclear: this client's other retainer invoices are 2500.00,unresolved,low,,no message or memo explains the different amount
+cost_incurred_estimate,editor time: Ali,,,,17153.5,,,,,,estimate (not a recorded obligation),,490.1 editor_hours on 130 videos x $35/hour,Ali joined 2024-03-01; no record of what was already paid
+cost_incurred_estimate,editor time: Dev,,,,1996.0,,,,,,estimate (not a recorded obligation),,49.9 editor_hours on 14 videos x $40/hour,Dev joined 2026-09-01; no record of what was already paid
+cost_incurred_estimate,editor time: Nico,,,,6512.0,,,,,,estimate (not a recorded obligation),,296.0 editor_hours on 48 videos x $22/hour,Nico joined 2026-08-17; no record of what was already paid
+cost_incurred_estimate,editor time: Rita,,,,20376.0,,,,,,estimate (not a recorded obligation),,679.2 editor_hours on 156 videos x $30/hour,Rita joined 2025-01-15; no record of what was already paid
+cost_incurred_estimate,studio time,,,,21280.0,,,,,,estimate (not a recorded obligation),,532 studio hours on 155 completed bookings x $40/hour (hours per service from costs.csv),own studio cost per hour; not a bill from a supplier
+summary,overdue_total,,,,9800.0,,,,,,,,,
+summary,overdue_confirmed_total,,,,8900.0,,,,,,,,,
+summary,receivable_not_yet_due,,,,14850.0,,,,,,,,,
+summary,never_billed_total,,,,7025.0,,,,,,,,,
+summary,we_owe_total,,,,975.0,,,,,,,,,
+summary,unallocated_payments_total,,,,900.0,,,,,,,,,
+summary,invoiced_total_excl_void,,,,156450.0,,,,,,,,,
+summary,collected_total,,,,131200.0,,,,,,,,,

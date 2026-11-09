@@ -1,0 +1,975 @@
+{
+  "pack_id": "208",
+  "your_name": "",
+  "your_email": "",
+  "live_link": "",
+  "video_link": "",
+  "code_or_files_link": "",
+  "client_count": 30,
+  "clients": [
+    {
+      "name": "Apex Medspa",
+      "other_names_used_in_the_data": [
+        "Apex",
+        "Apex Med Spa",
+        "Apex Med Spa - Frisco",
+        "Apex Med Spa - Plano",
+        "BROOKE BECKER",
+        "Brooke",
+        "Brooke Becker"
+      ],
+      "emails": [
+        "brooke@apexmedspa.com",
+        "frisco@apexmedspa.com"
+      ],
+      "phones": [
+        "214-555-0121",
+        "817-555-0132"
+      ]
+    },
+    {
+      "name": "Bloom Roofing Co",
+      "other_names_used_in_the_data": [
+        "Bloom Roofing",
+        "LUIS FOSTER",
+        "Luis",
+        "Luis Foster"
+      ],
+      "emails": [
+        "luis@bloomroofingco.com"
+      ],
+      "phones": [
+        "214-555-0142"
+      ]
+    },
+    {
+      "name": "Calm and Collected",
+      "other_names_used_in_the_data": [
+        "AISHA CHEN",
+        "Aisha",
+        "Aisha Chen",
+        "C&C PODCAST",
+        "C&C Podcast",
+        "CALM & COLLECTED PODCAST",
+        "Calm & Collected",
+        "Calm & Collected Podcast"
+      ],
+      "emails": [
+        "aisha.chen.mail@gmail.com",
+        "aisha@calmandcollected.fm"
+      ],
+      "phones": [
+        "469-555-0152"
+      ]
+    },
+    {
+      "name": "Castillo's Auto Spa",
+      "other_names_used_in_the_data": [
+        "Castillo's Auto",
+        "Castillos Auto",
+        "WILL CASTILLO",
+        "Will",
+        "Will Castillo"
+      ],
+      "emails": [
+        "will@castillosautospa.com"
+      ],
+      "phones": [
+        "972-555-0191"
+      ]
+    },
+    {
+      "name": "Cedar Builders",
+      "other_names_used_in_the_data": [
+        "CEDAR BUILDERS LLC",
+        "Cedar",
+        "Cedar & Co Builders",
+        "Cedar Builders LLC",
+        "Greg",
+        "Greg Patel"
+      ],
+      "emails": [
+        "greg@cedar.build"
+      ],
+      "phones": [
+        "214-555-0170"
+      ]
+    },
+    {
+      "name": "Elevate Bridal Boutique",
+      "other_names_used_in_the_data": [
+        "ELEVATE BRIDAL BOUTIQUE",
+        "Elevate Bridal",
+        "Kelsey",
+        "Kelsey Lee"
+      ],
+      "emails": [
+        "kelsey@elevatebridal.com"
+      ],
+      "phones": [
+        "214-555-0158"
+      ]
+    },
+    {
+      "name": "Glow Builders",
+      "other_names_used_in_the_data": [
+        "Dana",
+        "Dana Kim",
+        "Glow",
+        "Glow & Co Builders",
+        "Glow Builders LLC"
+      ],
+      "emails": [
+        "dana@glow.build"
+      ],
+      "phones": [
+        "214-555-0168"
+      ]
+    },
+    {
+      "name": "Haddad Insurance Group",
+      "other_names_used_in_the_data": [
+        "HADDAD INSURANCE",
+        "HADDAD INSURANCE GROUP",
+        "Haddad Ins",
+        "Haddad Insurance",
+        "IMRAN HADDAD",
+        "Imran",
+        "Imran Haddad"
+      ],
+      "emails": [
+        "imran@haddadinsures.com"
+      ],
+      "phones": [
+        "214-555-0176"
+      ]
+    },
+    {
+      "name": "Hale Dental",
+      "other_names_used_in_the_data": [
+        "ALANA HALE",
+        "Alana",
+        "Alana Hale",
+        "Alana Hale DDS",
+        "Dr Hale",
+        "Dr. Alana Hale",
+        "HALE DENTAL",
+        "Hale Dental PLLC"
+      ],
+      "emails": [
+        "hello@haledental.com",
+        "hello@haledental.con"
+      ],
+      "phones": [
+        "817-555-0160"
+      ]
+    },
+    {
+      "name": "Hale Family Law PLLC",
+      "other_names_used_in_the_data": [
+        "Hale Family Law",
+        "Hale Law",
+        "KELSEY HALE",
+        "Kelsey",
+        "Kelsey Hale"
+      ],
+      "emails": [
+        "khale@halefamilylaw.com"
+      ],
+      "phones": [
+        "469-555-0105"
+      ]
+    },
+    {
+      "name": "Horizon Family Therapy",
+      "other_names_used_in_the_data": [
+        "Dr. Jen Carter",
+        "Horizon Therapy",
+        "JEN CARTER",
+        "Jen",
+        "Jen Carter"
+      ],
+      "emails": [
+        "jcarter@horizonfamilytherapy.com"
+      ],
+      "phones": [
+        "972-555-0132"
+      ]
+    },
+    {
+      "name": "Jared's Roofing",
+      "other_names_used_in_the_data": [
+        "JARED KHAN",
+        "JAREDS ROOFING",
+        "Jared",
+        "Jared Khan",
+        "Jared's Roofing LLC",
+        "Jareds Roofing"
+      ],
+      "emails": [
+        "jared@jaredsroofingtx.com"
+      ],
+      "phones": [
+        "972-555-0110"
+      ]
+    },
+    {
+      "name": "Juniper Wealth Partners",
+      "other_names_used_in_the_data": [
+        "JUNIPER WEALTH PARTNERS",
+        "Juniper WP",
+        "Juniper Wealth",
+        "Simone Ramirez",
+        "Simone Ramirez, Juniper Wealth Partners",
+        "Victor",
+        "Victor Ramirez"
+      ],
+      "emails": [
+        "simone@juniperwp.com",
+        "vramirez@juniperwp.com"
+      ],
+      "phones": [
+        "469-555-0183",
+        "972-555-0136"
+      ]
+    },
+    {
+      "name": "Lakeside Roasters",
+      "other_names_used_in_the_data": [
+        "LAKESIDE COFFEE",
+        "Lakeside Coffee",
+        "Lakeside Coffee Roasters",
+        "Sofia",
+        "Sofia Khan"
+      ],
+      "emails": [
+        "sofia@lakesidecoffee.com"
+      ],
+      "phones": [
+        "469-555-0199"
+      ]
+    },
+    {
+      "name": "Luna Physical Therapy",
+      "other_names_used_in_the_data": [
+        "Jen",
+        "Jen Rivera",
+        "Kindred - Luna",
+        "Luna PT",
+        "Luna PT Dallas"
+      ],
+      "emails": [
+        "jrivera@lunaptdallas.com"
+      ],
+      "phones": [
+        "817-555-0170"
+      ]
+    },
+    {
+      "name": "Malik's Auto Spa",
+      "other_names_used_in_the_data": [
+        "LUCIA MALIK",
+        "Lucia",
+        "Lucia Malik",
+        "MALIK'S AUTO SPA",
+        "Malik's Auto",
+        "Maliks Auto"
+      ],
+      "emails": [
+        "lucia@maliksautospa.com"
+      ],
+      "phones": [
+        "972-555-0121"
+      ]
+    },
+    {
+      "name": "Maple Chiropractic",
+      "other_names_used_in_the_data": [
+        "Dr. Novak",
+        "MAPLE CHIROPRACTIC",
+        "Maple Chiro",
+        "Mike",
+        "Mike Novak"
+      ],
+      "emails": [
+        "drnovak@maplechiro.com"
+      ],
+      "phones": [
+        "469-555-0120"
+      ]
+    },
+    {
+      "name": "North Texas Founders",
+      "other_names_used_in_the_data": [
+        "ANDRE CHEN",
+        "Andre",
+        "Andre Chen",
+        "NORTH TEXAS FOUNDERS",
+        "NTX FOUNDERS",
+        "NTX Founders"
+      ],
+      "emails": [
+        "andre@ntxfounders.fm"
+      ],
+      "phones": [
+        "817-555-0141"
+      ]
+    },
+    {
+      "name": "Northpoint Fitness",
+      "other_names_used_in_the_data": [
+        "Hannah",
+        "Hannah Becker",
+        "NORTHPOINT",
+        "NORTHPOINT FITNESS",
+        "Northpoint",
+        "Northpoint Fit"
+      ],
+      "emails": [
+        "hannah@northpointfit.co"
+      ],
+      "phones": [
+        "817-555-0137"
+      ]
+    },
+    {
+      "name": "Oak Lane",
+      "other_names_used_in_the_data": [
+        "Leah",
+        "Leah Rivera",
+        "OAK LANE MED SPA",
+        "OAK LANE MEDSPA",
+        "Oak Lane Med Spa",
+        "Oak Lane Med Spa - Frisco",
+        "Oak Lane Med Spa - Plano",
+        "Oak Lane Medspa"
+      ],
+      "emails": [
+        "leah@oaklanemedspa.com"
+      ],
+      "phones": [
+        "972-555-0112"
+      ]
+    },
+    {
+      "name": "Pecan Athletics",
+      "other_names_used_in_the_data": [
+        "PECAN",
+        "Pecan",
+        "Pecan Gym",
+        "Pecan Gym TX",
+        "Trent",
+        "Trent Haddad"
+      ],
+      "emails": [
+        "trent@pecanathletics.com",
+        "trent@pecangym.co"
+      ],
+      "phones": [
+        "817-555-0123"
+      ]
+    },
+    {
+      "name": "Riverbend Barbershop",
+      "other_names_used_in_the_data": [
+        "MATEO LEE",
+        "Mateo",
+        "Mateo Lee",
+        "Riverbend Barbers"
+      ],
+      "emails": [
+        "mateo@riverbendbarbers.com"
+      ],
+      "phones": [
+        "214-555-0106"
+      ]
+    },
+    {
+      "name": "Silverleaf Church",
+      "other_names_used_in_the_data": [
+        "NOLAN IBARRA",
+        "Nolan",
+        "Nolan Ibarra",
+        "PASTOR NOLAN IBARRA",
+        "SILVERLEAF CHURCH",
+        "SILVERLEAF DFW",
+        "Silverleaf DFW",
+        "Silverleaf Media Team"
+      ],
+      "emails": [
+        "media@silverleafdfw.org"
+      ],
+      "phones": [
+        "972-555-0186"
+      ]
+    },
+    {
+      "name": "Stone Bridge Realty",
+      "other_names_used_in_the_data": [
+        "NADIA HASSAN",
+        "Nadia",
+        "Nadia Hassan",
+        "STONE BRIDGE REALTY",
+        "Stone Bridge Realty LLC"
+      ],
+      "emails": [
+        "nadia@stonebridgerealty.com"
+      ],
+      "phones": [
+        "469-555-0150"
+      ]
+    },
+    {
+      "name": "Stonebridge Realty Group",
+      "other_names_used_in_the_data": [
+        "Nolan",
+        "Nolan Hassan",
+        "Stonebridge RG"
+      ],
+      "emails": [
+        "nolan@stonebridgerg.com"
+      ],
+      "phones": [
+        "817-555-0188"
+      ]
+    },
+    {
+      "name": "Sunset Pediatrics",
+      "other_names_used_in_the_data": [
+        "Kindred - Sunset",
+        "Quinn",
+        "Quinn Cho",
+        "Sunset Peds"
+      ],
+      "emails": [
+        "qcho@sunsetpeds.com"
+      ],
+      "phones": [
+        "817-555-0187"
+      ]
+    },
+    {
+      "name": "TLC Homecare",
+      "other_names_used_in_the_data": [
+        "Dana Khan",
+        "TLC Home Care"
+      ],
+      "emails": [
+        "dana@tlchomecare.com"
+      ],
+      "phones": [
+        "214-555-0124"
+      ]
+    },
+    {
+      "name": "The Parkside Lab",
+      "other_names_used_in_the_data": [
+        "Dana",
+        "Dana Green",
+        "Parkside Lab",
+        "Parksidelab Coffee",
+        "THE PARKSIDE LAB"
+      ],
+      "emails": [
+        "dana@theparksidelab.coffee"
+      ],
+      "phones": [
+        "817-555-0100"
+      ]
+    },
+    {
+      "name": "Trinity Dental",
+      "other_names_used_in_the_data": [
+        "ANGELA HASSAN",
+        "Angela",
+        "Angela Hassan",
+        "Angela Hassan DDS",
+        "Dr. Angela Hassan",
+        "TRINITY DENTAL"
+      ],
+      "emails": [
+        "office@trinitydental.com"
+      ],
+      "phones": [
+        "214-555-0112"
+      ]
+    },
+    {
+      "name": "Walsh Law Firm",
+      "other_names_used_in_the_data": [
+        "Jared",
+        "Jared Walsh",
+        "WALSH LAW",
+        "Walsh",
+        "Walsh Law",
+        "Walsh Law Firm PLLC"
+      ],
+      "emails": [
+        "info@walshlaw.com"
+      ],
+      "phones": [
+        "214-555-0109"
+      ]
+    }
+  ],
+  "payers_who_are_not_clients": [
+    {
+      "name": "Kindred Creative",
+      "pays_for": [
+        "Luna Physical Therapy",
+        "Sunset Pediatrics"
+      ]
+    }
+  ],
+  "overdue": [
+    {
+      "client": "Stonebridge Realty Group",
+      "invoice": "INV-1094",
+      "amount_owed": 1500,
+      "days_late": 42
+    },
+    {
+      "client": "Jared's Roofing",
+      "invoice": "INV-1099",
+      "amount_owed": 900,
+      "days_late": 39
+    },
+    {
+      "client": "North Texas Founders",
+      "invoice": "INV-1109",
+      "amount_owed": 550,
+      "days_late": 29
+    },
+    {
+      "client": "Cedar Builders",
+      "invoice": "INV-1111",
+      "amount_owed": 1500,
+      "days_late": 28
+    },
+    {
+      "client": "TLC Homecare",
+      "invoice": "INV-1118",
+      "amount_owed": 1500,
+      "days_late": 21
+    },
+    {
+      "client": "Juniper Wealth Partners",
+      "invoice": "INV-1119",
+      "amount_owed": 2500,
+      "days_late": 21
+    },
+    {
+      "client": "Bloom Roofing Co",
+      "invoice": "INV-1123",
+      "amount_owed": 450,
+      "days_late": 18
+    },
+    {
+      "client": "The Parkside Lab",
+      "invoice": "INV-1124",
+      "amount_owed": 900,
+      "days_late": 17
+    }
+  ],
+  "overdue_total": 9800,
+  "we_owe": [
+    {
+      "client": "Riverbend Barbershop",
+      "amount": 900,
+      "why": "INV-1080 was paid twice (P5076 also references INV-1080, already settled by P5072)"
+    },
+    {
+      "client": "Silverleaf Church",
+      "amount": 75,
+      "why": "INV-1043 charged 300.00 but the booking price was 225.00 (booking B043 price); the client paid the higher amount"
+    }
+  ],
+  "never_billed": [
+    {
+      "client": "Walsh Law Firm",
+      "booking_id_or_month": "2026-05",
+      "amount": 2500
+    },
+    {
+      "client": "Haddad Insurance Group",
+      "booking_id_or_month": "2026-05",
+      "amount": 2500
+    },
+    {
+      "client": "Oak Lane",
+      "booking_id_or_month": "B041",
+      "amount": 900
+    },
+    {
+      "client": "Lakeside Roasters",
+      "booking_id_or_month": "B081",
+      "amount": 900
+    },
+    {
+      "client": "Silverleaf Church",
+      "booking_id_or_month": "B098",
+      "amount": 225
+    }
+  ],
+  "never_billed_total": 7025,
+  "billing_tool_is_wrong": [
+    {
+      "invoice": "INV-1064",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "bank payment(s) P5079 (300.00) cover it: reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00"
+    },
+    {
+      "invoice": "INV-1071",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "bank payment(s) P5079 (300.00) cover it: reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00"
+    },
+    {
+      "invoice": "INV-1082",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "bank payment(s) P5077 (1500.00) reference this invoice"
+    },
+    {
+      "invoice": "INV-1084",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "bank payment(s) P5079 (300.00) cover it: reference 'july sessions' names July 2026; open invoices of this payer in that month total 900.00"
+    },
+    {
+      "invoice": "INV-1099",
+      "tool_says": "paid",
+      "truth": "unpaid (900.00 not received)",
+      "how_you_know": "no bank payment references it, and every unreferenced payment from this client is already matched to another invoice"
+    },
+    {
+      "invoice": "INV-1134",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "bank payment(s) P5124 (225.00) reference this invoice"
+    },
+    {
+      "invoice": "INV-1145",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "bank payment(s) P5122 (1500.00) cover it: paid for B148 via INV-1137; B148 was cancelled and the shoot moved to B155 (2026-10-02), which INV-1145 bills (client message: cancel and move, already paid)"
+    },
+    {
+      "invoice": "INV-1080",
+      "tool_says": "paid (900.00)",
+      "truth": "paid 1800.00: overpaid by 900.00",
+      "how_you_know": "P5076 also references INV-1080, already settled by P5072"
+    },
+    {
+      "invoice": "INV-1043",
+      "tool_says": "300.00",
+      "truth": "225.00 (booking B043 price)",
+      "how_you_know": "the invoice is linked to B043 by memo_booking_id; booking price 225.00; client paid 300.00"
+    },
+    {
+      "invoice": "INV-1137",
+      "tool_says": "paid",
+      "truth": "bills cancelled booking B148; the 1500.00 paid (P5122) belongs to the rescheduled shoot B155, which INV-1145 bills again",
+      "how_you_know": "memo cites B148, whose status is cancelled"
+    }
+  ],
+  "lost_requests": [
+    {
+      "video_id": "V019",
+      "request_date": "2026-05-02",
+      "came_by": "instagram",
+      "why_it_was_lost": "sent by Instagram DM; never copied onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V027",
+      "request_date": "2026-05-29",
+      "came_by": "email",
+      "why_it_was_lost": "the message named no video ('the one we shot last week'); the video was delivered without the change; the client chased it on 2026-06-10"
+    },
+    {
+      "video_id": "V081",
+      "request_date": "2026-06-16",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V107",
+      "request_date": "2026-07-02",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V097",
+      "request_date": "2026-07-03",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V113",
+      "request_date": "2026-07-04",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V114",
+      "request_date": "2026-07-07",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V133",
+      "request_date": "2026-07-13",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-07-21"
+    },
+    {
+      "video_id": "V131",
+      "request_date": "2026-07-14",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-07-26"
+    },
+    {
+      "video_id": "V123",
+      "request_date": "2026-07-16",
+      "came_by": "email",
+      "why_it_was_lost": "the message named no video ('the one we shot last week'); the video was delivered without the change; the client chased it on 2026-07-23"
+    },
+    {
+      "video_id": "V151",
+      "request_date": "2026-07-19",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-07-29"
+    },
+    {
+      "video_id": "V129",
+      "request_date": "2026-07-19",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V128",
+      "request_date": "2026-07-24",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-08-03"
+    },
+    {
+      "video_id": "V135",
+      "request_date": "2026-07-25",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V173",
+      "request_date": "2026-08-02",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-08-11"
+    },
+    {
+      "video_id": "V178",
+      "request_date": "2026-08-02",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V189",
+      "request_date": "2026-08-02",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V200",
+      "request_date": "2026-08-16",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-08-21"
+    },
+    {
+      "video_id": "V224",
+      "request_date": "2026-08-18",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-08-28"
+    },
+    {
+      "video_id": "V200",
+      "request_date": "2026-08-19",
+      "came_by": "email",
+      "why_it_was_lost": "the message named no video ('the one we shot last week'); the video was delivered without the change; the client chased it on 2026-08-21"
+    },
+    {
+      "video_id": "V210",
+      "request_date": "2026-08-24",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-08-31"
+    },
+    {
+      "video_id": "V214",
+      "request_date": "2026-08-25",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V204",
+      "request_date": "2026-08-25",
+      "came_by": "email",
+      "why_it_was_lost": "the message named no video ('the one we shot last week'); the video was delivered without the change; the client chased it on 2026-09-06"
+    },
+    {
+      "video_id": "V237",
+      "request_date": "2026-08-26",
+      "came_by": "instagram",
+      "why_it_was_lost": "sent by Instagram DM; never copied onto the board; the video was delivered without the change; the client chased it on 2026-09-08"
+    },
+    {
+      "video_id": "V204",
+      "request_date": "2026-08-28",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-09-06"
+    },
+    {
+      "video_id": "V242",
+      "request_date": "2026-08-30",
+      "came_by": "instagram",
+      "why_it_was_lost": "sent by Instagram DM; never copied onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V248",
+      "request_date": "2026-09-01",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V296",
+      "request_date": "2026-09-01",
+      "came_by": "voice note",
+      "why_it_was_lost": "standing instruction sent by voice note; none of the 4 videos made afterwards (V296, V297, V298, V299) carries it on the board; the client complained on 2026-09-09"
+    },
+    {
+      "video_id": "V251",
+      "request_date": "2026-09-05",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V260",
+      "request_date": "2026-09-09",
+      "came_by": "whatsapp",
+      "why_it_was_lost": "sent by whatsapp but never added to the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V252",
+      "request_date": "2026-09-11",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V290",
+      "request_date": "2026-09-13",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V280",
+      "request_date": "2026-09-16",
+      "came_by": "instagram",
+      "why_it_was_lost": "sent by Instagram DM; never copied onto the board; the video was delivered without the change; the client chased it on 2026-09-23"
+    },
+    {
+      "video_id": "V282",
+      "request_date": "2026-09-19",
+      "came_by": "email",
+      "why_it_was_lost": "the message named no video ('the one we shot last week'); the video was delivered without the change; the client chased it on 2026-09-28"
+    },
+    {
+      "video_id": "V272",
+      "request_date": "2026-09-19",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-10-03"
+    },
+    {
+      "video_id": "V282",
+      "request_date": "2026-09-23",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change; the client chased it on 2026-09-28"
+    },
+    {
+      "video_id": "V281",
+      "request_date": "2026-09-25",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V301",
+      "request_date": "2026-09-28",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    },
+    {
+      "video_id": "V305",
+      "request_date": "2026-09-29",
+      "came_by": "voice note",
+      "why_it_was_lost": "sent as a voice note; nothing was written onto the board; the video was delivered without the change"
+    }
+  ],
+  "lost_requests_root_causes": [
+    "Voice notes never reach the production board: 31 of 31 voice-note requests are missing from it (29 on videos already delivered). Axeom itself told clients on 2026-07-02 to 'just send edit notes as a voice note'",
+    "7 requests only say 'the one we shot last week'; 3 of them did not end as completed",
+    "4 of 4 Instagram requests lost; 0 could not be tied to a client/video",
+    "6 email/WhatsApp requests never made it to the board either: there is no single intake step"
+  ],
+  "lost_requests_started_getting_worse_in": "2026-07",
+  "never_replied_leads": [
+    "L022",
+    "L028",
+    "L030",
+    "L033",
+    "L055",
+    "L062",
+    "L067",
+    "L073",
+    "L074",
+    "L076",
+    "L080",
+    "L087",
+    "L088",
+    "L089",
+    "L091",
+    "L098"
+  ],
+  "most_likely_to_leave": {
+    "client": "Juniper Wealth Partners",
+    "evidence": [
+      "2026-05-02 19:42: 'use the outside shot' on V019 never reached the board",
+      "2026-07-02 20:57: 'remove the prices part' on V107 never reached the board",
+      "2026-07-10 20:57: \"This is the second time I ask. meet the advisor is still wrong.\"",
+      "2026-08-18 14:40: 'fix name spelling' on V224 never reached the board",
+      "2026-08-28 22:40: \"Did anyone see my message about retirement myths? It's not fixed.\"",
+      "2026-09-01 21:42: 'use the full business name (all videos)' on V296 never reached the board",
+      "2026-09-09 14:43: \"The videos say \"Juniper WP\" again. I asked for the full name. Not happy.\"",
+      "INV-1119: 2500.00 21 days late",
+      "2026-09-28 10:20: \"We would like to talk about our contract and whether we continue.\"",
+      "2026-09-28 20:41: wrote via Website form (L098) and never got a reply",
+      "2026-10-03 14:37: \"Following up. We need to talk about the contract this week.\""
+    ],
+    "what_to_do_this_week": "Today: call Simone Ramirez back about the contract (their messages since 2026-09-28 are unanswered) and book a meeting this week. Before the meeting, fix and re-deliver their 4 missed edits (V019 use the outside shot; V107 remove the prices part; V224 fix name spelling; V296 use the full business name (all videos)). Do not chase INV-1119 before the call; raise it calmly in the meeting. Offer one written channel for edit notes, with the owner confirming each note within a day."
+  },
+  "best_marketing_channel": {
+    "channel": "Referral",
+    "why": "Referral brought 7 clients from 11 prospects (64%), 51,000 invoiced and 38,700 collected; estimated margin after studio and editor time 33,055, the highest of all channels, and also the most per prospect (3,005). Ad spend and referral costs are not in the data, so this is the best channel by margin after delivery cost, not proven profit"
+  },
+  "what_this_data_cannot_tell_us": [
+    "No marketing spend per channel (ad budgets, referral rewards, time on Instagram), so channel profit cannot be calculated.",
+    "Delivery cost is an estimate: studio hours per service from costs.csv and editor hours x hourly rate; owner time, equipment and overheads are not in the data.",
+    "Whether anyone replied to client messages: messages.txt holds only 3 outbound message(s) out of 193, so response times to clients cannot be measured.",
+    "What Axeom owes its team or suppliers: there are no payroll, bill or bank-out records, only pay rates and hours (an incurred-cost estimate is given, not a debt).",
+    "Which invoice each of the 47 payments without an invoice number was meant for: they are matched by client, reference text, amount and date, which is strong but not proof.",
+    "Why INV-1060 (Walsh Law Firm) is 2000.00 when this client's other retainer invoices are 2500.00: no message or memo explains the different amount.",
+    "Whether records sharing a name but not contact details are one account (kept separate): Alana Hale, Sofia Khan.",
+    "Which video 3 request(s) were about: they say only 'the one we shot last week' and no card from that shoot carries the change.",
+    "Who sent 1 message(s) that cannot be tied to any client (@instasupportteam)."
+  ],
+  "monday_top_3": [
+    "1. Call Juniper Wealth Partners today and agree a meeting this week; fix their missed edits first. Why: the client set a deadline ('this week') to decide whether to continue, nobody has replied, and it is the highest-risk client (26 points vs 11). Benefit: keeps about 2,500 a month of revenue (last 90 days invoiced 7,500).",
+    "2. Stop losing edit requests: from today every voice note, WhatsApp, DM and email edit request is written onto the production board the same day (one person owns it), and the 39 lost requests on delivered videos are re-opened. Why: it is still happening every week and it is the reason clients complain and leave (one client already paused citing missed notes). Benefit: protects all 30 clients; 2 recent request(s) can still be saved before delivery; voice notes alone are 31 of 119 requests.",
+    "3. Money: approve reminders for 8 overdue invoices (9,800), bill the 5 jobs never invoiced (7,025), correct the billing tool, and settle the 975 we owe clients. Why: cash that is already earned; the longest overdue is 42 days late; paying back what we owe first avoids chasing a client who has a credit with us. Benefit: up to 16,825 collected or billed."
+  ]
+}

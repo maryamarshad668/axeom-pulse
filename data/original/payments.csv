@@ -1,0 +1,132 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,05/04/2026,Silverleaf Media Team,media@silverleafdfw.org,300.00,Zelle,INV-1002
+P5002,09/04/2026,AISHA CHEN,aisha@calmandcollected.fm,300.00,Zelle,
+P5003,10/04/2026,JUNIPER WEALTH PARTNERS,vramirez@juniperwp.com,2500.00,card,INV-1001
+P5004,24/04/2026,Silverleaf Media Team,media@silverleafdfw.org,300.00,Zelle,INV-1009
+P5005,27/04/2026,NOLAN IBARRA,media@silverleafdfw.org,300.00,card,INV-1005
+P5006,28/04/2026,BROOKE BECKER,brooke@apexmedspa.com,1500.00,card,INV-1011
+P5007,28/04/2026,CEDAR BUILDERS LLC,greg@cedar.build,1500.00,ACH,
+P5008,29/04/2026,NTX FOUNDERS,andre@ntxfounders.fm,550.00,Zelle,INV-1004
+P5009,29/04/2026,HALE DENTAL,hello@haledental.com,1500.00,card,INV-1006
+P5010,02/05/2026,Juniper Wealth Partners,vramirez@juniperwp.com,2500.00,card,INV-1017
+P5011,07/05/2026,Andre Chen,andre@ntxfounders.fm,550.00,Zelle,INV-1014
+P5012,08/05/2026,Silverleaf Church,media@silverleafdfw.org,300.00,ACH,
+P5013,10/05/2026,Jared Khan,jared@jaredsroofingtx.com,900.00,card,
+P5014,12/05/2026,C&C PODCAST,aisha@calmandcollected.fm,300.00,card,
+P5015,12/05/2026,Silverleaf Church,media@silverleafdfw.org,300.00,Zelle,INV-1020
+P5016,13/05/2026,CALM & COLLECTED PODCAST,aisha@calmandcollected.fm,300.00,card,
+P5017,14/05/2026,Elevate Bridal,kelsey@elevatebridal.com,900.00,ACH,INV-1012
+P5018,16/05/2026,Aisha Chen,aisha@calmandcollected.fm,300.00,card,
+P5019,19/05/2026,Maple Chiropractic,drnovak@maplechiro.com,2500.00,ACH,
+P5020,22/05/2026,Kelsey Lee,kelsey@elevatebridal.com,900.00,ACH,INV-1026
+P5021,23/05/2026,Calm & Collected,aisha@calmandcollected.fm,300.00,card,INV-1018
+P5022,24/05/2026,Hannah Becker,hannah@northpointfit.co,900.00,card,INV-1019
+P5023,28/05/2026,Cedar & Co Builders,greg@cedar.build,1500.00,card,INV-1029
+P5024,29/05/2026,NTX FOUNDERS,andre@ntxfounders.fm,550.00,ACH,INV-1024
+P5025,30/05/2026,SILVERLEAF CHURCH,media@silverleafdfw.org,300.00,card,
+P5026,30/05/2026,JAREDS ROOFING,jared@jaredsroofingtx.com,900.00,card,
+P5027,31/05/2026,Calm & Collected Podcast,aisha@calmandcollected.fm,300.00,card,
+P5028,02/06/2026,MAPLE CHIROPRACTIC,drnovak@maplechiro.com,2500.00,ACH,INV-1033
+P5029,03/06/2026,Juniper Wealth,vramirez@juniperwp.com,2500.00,card,
+P5030,06/06/2026,North Texas Founders,andre@ntxfounders.fm,550.00,card,
+P5031,06/06/2026,Oak Lane Med Spa - Plano,leah@oaklanemedspa.com,900.00,card,INV-1021
+P5032,06/06/2026,HADDAD INSURANCE,imran@haddadinsures.com,2500.00,card,INV-1032
+P5033,08/06/2026,Silverleaf Media Team,media@silverleafdfw.org,300.00,card,INV-1028
+P5034,11/06/2026,C&C PODCAST,aisha@calmandcollected.fm,300.00,ACH,
+P5035,12/06/2026,Hannah Becker,hannah@northpointfit.co,900.00,card,INV-1040
+P5036,12/06/2026,MATEO LEE,mateo@riverbendbarbers.com,900.00,Zelle,INV-1027
+P5037,13/06/2026,ANGELA HASSAN,office@trinitydental.com,1500.00,card,INV-1039
+P5038,14/06/2026,Andre Chen,andre@ntxfounders.fm,550.00,card,
+P5039,14/06/2026,Silverleaf Church,media@silverleafdfw.org,225.00,card,INV-1041
+P5040,14/06/2026,C&C Podcast,aisha@calmandcollected.fm,300.00,Zelle,INV-1047
+P5041,14/06/2026,BROOKE BECKER,brooke@apexmedspa.com,1500.00,Zelle,INV-1037
+P5042,16/06/2026,Jareds Roofing,jared@jaredsroofingtx.com,900.00,card,
+P5043,18/06/2026,Silverleaf Church,media@silverleafdfw.org,300.00,ACH,INV-1043
+P5044,19/06/2026,Stone Bridge Realty,nadia@stonebridgerealty.com,1500.00,ACH,INV-1034
+P5045,22/06/2026,LAKESIDE COFFEE,sofia@lakesidecoffee.com,900.00,ACH,
+P5046,22/06/2026,Hale Dental PLLC,hello@haledental.com,1500.00,ACH,INV-1042
+P5047,23/06/2026,Walsh Law,info@walshlaw.com,2500.00,Zelle,
+P5048,26/06/2026,NORTH TEXAS FOUNDERS,andre@ntxfounders.fm,550.00,card,INV-1054
+P5049,26/06/2026,AISHA CHEN,aisha@calmandcollected.fm,300.00,Zelle,INV-1053
+P5050,30/06/2026,Glow,dana@glow.build,1500.00,card,INV-1055
+P5051,01/07/2026,SILVERLEAF DFW,media@silverleafdfw.org,225.00,ACH,INV-1049
+P5052,02/07/2026,Mateo Lee,mateo@riverbendbarbers.com,900.00,card,INV-1051
+P5053,02/07/2026,WALSH LAW,info@walshlaw.com,2000.00,card,INV-1060
+P5054,03/07/2026,KINDRED CREATIVE LLC,alana@kindredmktg.com,900.00,ACH,Kindred Jun invoices
+P5055,07/07/2026,Elevate Bridal Boutique,kelsey@elevatebridal.com,900.00,ACH,
+P5056,08/07/2026,Kelsey Hale,khale@halefamilylaw.com,900.00,card,
+P5057,08/07/2026,Apex Med Spa - Plano,brooke@apexmedspa.com,1500.00,card,
+P5058,09/07/2026,OAK LANE MED SPA,leah@oaklanemedspa.com,900.00,Zelle,
+P5059,10/07/2026,NOLAN IBARRA,media@silverleafdfw.org,225.00,ACH,
+P5060,13/07/2026,Maple Chiropractic,drnovak@maplechiro.com,2500.00,ACH,INV-1059
+P5061,17/07/2026,PASTOR NOLAN IBARRA,media@silverleafdfw.org,225.00,ACH,INV-1075
+P5062,17/07/2026,Jared's Roofing LLC,jared@jaredsroofingtx.com,900.00,card,INV-1069
+P5063,20/07/2026,Horizon Family Therapy,jcarter@horizonfamilytherapy.com,1500.00,Zelle,INV-1073
+P5064,21/07/2026,NORTHPOINT FITNESS,hannah@northpointfit.co,900.00,card,INV-1072
+P5066,21/07/2026,NOLAN IBARRA,media@silverleafdfw.org,225.00,card,INV-1062
+P5067,23/07/2026,Haddad Insurance Group,imran@haddadinsures.com,2500.00,ACH,INV-1058
+P5068,23/07/2026,Juniper WP,vramirez@juniperwp.com,2500.00,card,INV-1057
+P5069,23/07/2026,STONE BRIDGE REALTY,nadia@stonebridgerealty.com,1500.00,card,INV-1079
+P5070,24/07/2026,KELSEY HALE,khale@halefamilylaw.com,900.00,ACH,INV-1076
+P5071,24/07/2026,Silverleaf DFW,media@silverleafdfw.org,225.00,Zelle,INV-1067
+P5072,27/07/2026,Mateo Lee,mateo@riverbendbarbers.com,900.00,ACH,INV-1080
+P5073,27/07/2026,Pecan Gym TX,trent@pecangym.co,900.00,card,INV-1068
+P5074,28/07/2026,NTX FOUNDERS,andre@ntxfounders.fm,550.00,card,
+P5075,28/07/2026,Cedar Builders,greg@cedar.build,1500.00,card,INV-1063
+P5076,28/07/2026,Mateo Lee,mateo@riverbendbarbers.com,900.00,Zelle,INV-1080
+P5077,29/07/2026,Dr Hale,hello@haledental.com,1500.00,Zelle,INV-1082
+P5078,31/07/2026,Parksidelab Coffee,dana@theparksidelab.coffee,900.00,card,INV-1074
+P5079,02/08/2026,AISHA CHEN,,900.00,Zelle,july sessions
+P5080,03/08/2026,KINDRED CREATIVE LLC,alana@kindredmktg.com,1800.00,ACH,Kindred Jul invoices
+P5081,03/08/2026,LUCIA MALIK,lucia@maliksautospa.com,900.00,card,
+P5082,06/08/2026,Walsh Law,info@walshlaw.com,2500.00,ACH,INV-1086
+P5083,06/08/2026,HADDAD INSURANCE GROUP,imran@haddadinsures.com,2500.00,card,
+P5084,07/08/2026,SILVERLEAF DFW,media@silverleafdfw.org,225.00,card,INV-1081
+P5085,08/08/2026,ELEVATE BRIDAL BOUTIQUE,kelsey@elevatebridal.com,900.00,card,
+P5086,12/08/2026,LUIS FOSTER,luis@bloomroofingco.com,900.00,card,
+P5087,13/08/2026,CALM & COLLECTED PODCAST,aisha@calmandcollected.fm,300.00,Zelle,
+P5088,16/08/2026,TRINITY DENTAL,office@trinitydental.com,1500.00,ACH,INV-1090
+P5089,16/08/2026,Oak Lane Medspa,leah@oaklanemedspa.com,900.00,card,INV-1095
+P5090,16/08/2026,NTX FOUNDERS,andre@ntxfounders.fm,550.00,card,INV-1085
+P5091,18/08/2026,Malik's Auto Spa,lucia@maliksautospa.com,900.00,card,INV-1097
+P5092,19/08/2026,Juniper Wealth,vramirez@juniperwp.com,2500.00,card,INV-1089
+P5093,23/08/2026,Silverleaf DFW,media@silverleafdfw.org,225.00,Zelle,INV-1088
+P5094,24/08/2026,Kelsey Lee,kelsey@elevatebridal.com,900.00,ACH,INV-1100
+P5095,26/08/2026,Pecan,trent@pecanathletics.com,900.00,card,INV-1105
+P5096,26/08/2026,ANDRE CHEN,andre@ntxfounders.fm,550.00,card,INV-1096
+P5097,27/08/2026,Northpoint,hannah@northpointfit.co,900.00,card,
+P5098,28/08/2026,Silverleaf Church,media@silverleafdfw.org,225.00,Zelle,INV-1107
+P5099,28/08/2026,Apex Medspa,brooke@apexmedspa.com,1500.00,card,
+P5100,29/08/2026,Lakeside Roasters,sofia@lakesidecoffee.com,900.00,card,INV-1101
+P5101,02/09/2026,THE PARKSIDE LAB,dana@theparksidelab.coffee,900.00,ACH,INV-1098
+P5102,02/09/2026,Glow Builders,dana@glow.build,1500.00,ACH,INV-1103
+P5103,03/09/2026,KINDRED CREATIVE LLC,alana@kindredmktg.com,1800.00,ACH,Kindred Aug invoices
+P5104,04/09/2026,C&C Podcast,aisha@calmandcollected.fm,300.00,Zelle,
+P5105,04/09/2026,IMRAN HADDAD,imran@haddadinsures.com,2500.00,card,INV-1117
+P5106,04/09/2026,WILL CASTILLO,will@castillosautospa.com,900.00,Zelle,INV-1115
+P5107,05/09/2026,Calm and Collected,aisha@calmandcollected.fm,300.00,Zelle,
+P5108,06/09/2026,JARED KHAN,jared@jaredsroofingtx.com,900.00,card,INV-1122
+P5109,08/09/2026,Silverleaf Media Team,media@silverleafdfw.org,225.00,ACH,INV-1113
+P5110,09/09/2026,Nadia Hassan,nadia@stonebridgerealty.com,1500.00,card,
+P5111,09/09/2026,AISHA CHEN,aisha@calmandcollected.fm,300.00,card,INV-1112
+P5112,09/09/2026,ALANA HALE,hello@haledental.com,1500.00,card,INV-1121
+P5113,10/09/2026,Hale Family Law,khale@halefamilylaw.com,900.00,ACH,INV-1104
+P5114,12/09/2026,LUIS FOSTER,,450.00,Zelle,half now half later
+P5115,13/09/2026,Riverbend Barbershop,mateo@riverbendbarbers.com,900.00,card,
+P5116,13/09/2026,North Texas Founders,andre@ntxfounders.fm,550.00,ACH,INV-1129
+P5117,13/09/2026,LAKESIDE COFFEE,sofia@lakesidecoffee.com,900.00,ACH,INV-1128
+P5118,19/09/2026,MALIK'S AUTO SPA,lucia@maliksautospa.com,900.00,card,
+P5119,22/09/2026,Calm and Collected,aisha@calmandcollected.fm,300.00,Zelle,INV-1132
+P5120,23/09/2026,WALSH LAW,info@walshlaw.com,2500.00,card,INV-1116
+P5121,23/09/2026,NTX FOUNDERS,andre@ntxfounders.fm,550.00,ACH,
+P5122,23/09/2026,NADIA HASSAN,nadia@stonebridgerealty.com,1500.00,Zelle,
+P5123,24/09/2026,NORTHPOINT,hannah@northpointfit.co,900.00,card,
+P5124,24/09/2026,SILVERLEAF CHURCH,media@silverleafdfw.org,225.00,Zelle,INV-1134
+P5125,24/09/2026,CALM & COLLECTED PODCAST,aisha@calmandcollected.fm,300.00,card,INV-1141
+P5126,25/09/2026,JEN CARTER,jcarter@horizonfamilytherapy.com,1500.00,card,INV-1125
+P5127,26/09/2026,Mateo Lee,mateo@riverbendbarbers.com,900.00,Zelle,INV-1142
+P5128,27/09/2026,PECAN,trent@pecanathletics.com,900.00,ACH,INV-1144
+P5129,01/10/2026,Silverleaf Media Team,media@silverleafdfw.org,225.00,card,
+P5130,02/10/2026,Elevate Bridal,kelsey@elevatebridal.com,900.00,Zelle,
+P5131,04/10/2026,KINDRED CREATIVE LLC,alana@kindredmktg.com,900.00,ACH,Kindred Sep invoices
+P5132,06/10/2026,OAK LANE MEDSPA,leah@oaklanemedspa.com,900.00,ACH,INV-1130

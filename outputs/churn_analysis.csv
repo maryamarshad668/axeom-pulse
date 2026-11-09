@@ -1,0 +1,31 @@
+client_id,client,risk_points,already_lost,signals,praise_messages,last_booking,days_since_last_booking,upcoming_bookings,invoiced_last_90_days
+CL-0807ac07,Juniper Wealth Partners,26,False,complaint x3; leave_intent x2; lost_request x4; no_reply x1; overdue x1,0,2026-09-11,25,B164,7500.0
+CL-369a5199,Stone Bridge Realty,11,False,cancellation x1; complaint x3; lost_request x4,0,2026-10-02,4,B169,6000.0
+CL-e417c8fb,Walsh Law Firm,10,False,complaint x3; lost_request x5,1,2026-09-07,29,B163,7500.0
+CL-40a78905,Glow Builders,8,False,complaint x2; inactive x1; lost_request x2,0,2026-08-17,50,,1500.0
+CL-e14662a1,Cedar Builders,6,False,complaint x1; lost_request x3; overdue x1,0,2026-08-24,43,B159,1500.0
+CL-91f93a69,Stonebridge Realty Group,5,False,complaint x1; lost_request x1; overdue x1; overdue_30 x1,1,2026-09-28,8,,3000.0
+CL-9acd91da,Jared's Roofing,5,False,complaint x1; lost_request x1; overdue x1; overdue_30 x1,0,2026-09-04,32,B162,2700.0
+CL-0a1a5b45,Oak Lane,5,False,complaint x1; lost_request x3,0,2026-09-14,22,,2700.0
+CL-abfeafab,Malik's Auto Spa,4,False,complaint x1; lost_request x2,0,2026-09-15,21,B166,2700.0
+CL-e964e11d,Pecan Athletics,4,False,lost_request x1; no_reply x1,0,2026-09-25,11,,2700.0
+CL-ddfb4fe5,Apex Medspa,4,False,complaint x1; lost_request x2,0,2026-08-27,40,B170,1500.0
+CL-db71a0c2,Hale Dental,3,False,complaint x1; lost_request x1,2,2026-09-02,34,,3000.0
+CL-1c6c0e65,Calm and Collected,3,False,no_reply x1,0,2026-10-05,1,B167,2700.0
+CL-46d0243c,Elevate Bridal Boutique,2,False,lost_request x2,1,2026-09-14,22,,2700.0
+CL-69e7c342,Riverbend Barbershop,2,False,lost_request x2,0,2026-09-21,15,,2700.0
+CL-cb77f582,The Parkside Lab,2,False,lost_request x1; overdue x1,1,2026-09-03,33,B165,2700.0
+CL-a65b9793,Haddad Insurance Group,1,False,lost_request x1,1,2026-09-14,22,B168,7500.0
+CL-54e80385,North Texas Founders,1,False,overdue x1,0,2026-09-22,14,B160,3300.0
+CL-5c3fadfb,Horizon Family Therapy,1,False,lost_request x1,1,2026-09-07,29,,3000.0
+CL-5c4e21b5,Bloom Roofing Co,1,False,overdue x1,0,2026-10-02,4,,2700.0
+CL-41da6c70,Lakeside Roasters,1,False,lost_request x1,2,2026-09-10,26,B161,1800.0
+CL-9fcd3370,TLC Homecare,1,False,overdue x1,0,2026-09-01,35,,1500.0
+CL-e496b846,Trinity Dental,0,False,,0,2026-09-28,8,,3000.0
+CL-305525b2,Hale Family Law PLLC,0,False,,0,2026-09-21,15,B173,2700.0
+CL-55c15000,Northpoint Fitness,0,False,,0,2026-09-16,20,,2700.0
+CL-a645ad81,Silverleaf Church,0,False,,0,2026-10-02,4,"B158, B171",2250.0
+CL-d5c143ad,Castillo's Auto Spa,0,False,,0,2026-09-28,8,,1800.0
+CL-e2355201,Luna Physical Therapy,0,False,,0,2026-09-15,21,,0.0
+CL-77e6a157,Sunset Pediatrics,0,False,,0,2026-08-24,43,,0.0
+CL-7c2ca1c4,Maple Chiropractic,12,True,complaint x1; inactive x1; leave_intent x1; lost_request x2,1,2026-07-07,91,,0.0

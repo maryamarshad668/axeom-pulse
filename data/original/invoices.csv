@@ -1,0 +1,156 @@
+invoice_no,bill_to,email,issued,due,amount,status,memo
+INV-1001,Juniper WP,vramirez@juniperwp.com,2026-04-01,2026-04-15,2500.00,paid,Monthly retainer April
+INV-1002,Silverleaf Media Team,media@silverleafdfw.org,2026-04-02,2026-04-16,300.00,paid,
+INV-1003,Aisha Chen,aisha@calmandcollected.fm,2026-04-07,2026-04-21,300.00,paid,Podcast Studio 2hr 4/7
+INV-1004,NTX Founders,andre@ntxfounders.fm,2026-04-11,2026-04-25,550.00,paid,
+INV-1005,Silverleaf Media Team,media@silverleafdfw.org,2026-04-12,2026-04-26,300.00,paid,B004 Podcast Studio 2hr
+INV-1006,Dr. Alana Hale,hello@haledental.com,2026-04-14,2026-04-28,1500.00,paid,
+INV-1007,Cedar Builders,greg@cedar.build,2026-04-16,2026-04-30,1500.00,paid,B006 Content Day
+INV-1008,Jared's Roofing,jared@jaredsroofingtx.com,2026-04-18,2026-05-02,900.00,paid,Reels Pack 4/17
+INV-1009,Silverleaf Media Team,media@silverleafdfw.org,2026-04-21,2026-05-05,300.00,paid,Podcast Studio 2hr 4/20
+INV-1010,Calm and Collected,aisha@calmandcollected.fm,2026-04-21,2026-05-05,300.00,paid,Podcast Studio 2hr 4/20
+INV-1011,Apex Med Spa - Plano,brooke@apexmedspa.com,2026-04-23,2026-05-07,1500.00,paid,B010 Content Day
+INV-1012,Elevate Bridal,kelsey@elevatebridal.com,2026-04-26,2026-05-10,900.00,paid,B011 Reels Pack
+INV-1013,C&C Podcast,aisha@calmandcollected.fm,2026-04-27,2026-05-11,300.00,paid,Podcast Studio 2hr 4/27
+INV-1014,North Texas Founders,andre@ntxfounders.fm,2026-04-28,2026-05-12,550.00,paid,Podcast Studio 4hr 4/27
+INV-1015,Silverleaf Media Team,media@silverleafdfw.org,2026-04-29,2026-05-13,300.00,paid,Podcast Studio 2hr 4/28
+INV-1016,Maple Chiro,drnovak@maplechiro.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1017,Juniper WP,vramirez@juniperwp.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1018,C&C Podcast,aisha@calmandcollected.fm,2026-05-08,2026-05-22,300.00,paid,Podcast Studio 2hr 5/7
+INV-1019,Hannah Becker,hannah@northpointfit.co,2026-05-09,2026-05-23,900.00,paid,
+INV-1020,Silverleaf Media Team,media@silverleafdfw.org,2026-05-09,2026-05-23,300.00,paid,B017 Podcast Studio 2hr
+INV-1021,Oak Lane Med Spa - Frisco,leah@oaklanemedspa.com,2026-05-15,2026-05-29,900.00,paid,
+INV-1022,Jared's Roofing,jared@jaredsroofingtx.com,2026-05-15,2026-05-29,900.00,paid,
+INV-1023,Aisha Chen,aisha@calmandcollected.fm,2026-05-15,2026-05-29,300.00,paid,B022 Podcast Studio 2hr
+INV-1024,Andre Chen,andre@ntxfounders.fm,2026-05-17,2026-05-31,550.00,paid,B024 Podcast Studio 4hr
+INV-1025,C&C Podcast,aisha@calmandcollected.fm,2026-05-19,2026-06-02,300.00,paid,B028 Podcast Studio 2hr
+INV-1026,Kelsey Lee,kelsey@elevatebridal.com,2026-05-19,2026-06-02,900.00,paid,
+INV-1027,Mateo Lee,mateo@riverbendbarbers.com,2026-05-21,2026-06-04,900.00,paid,B029 Reels Pack
+INV-1028,Silverleaf Media Team,media@silverleafdfw.org,2026-05-21,2026-06-04,300.00,paid,
+INV-1029,Cedar & Co Builders,greg@cedar.build,2026-05-26,2026-06-09,1500.00,paid,B031 Content Day
+INV-1030,NTX Founders,andre@ntxfounders.fm,2026-05-28,2026-06-11,550.00,paid,Podcast Studio 4hr 5/27
+INV-1031,Silverleaf DFW,media@silverleafdfw.org,2026-05-28,2026-06-11,300.00,paid,Podcast Studio 2hr 5/25
+INV-1032,Imran Haddad,imran@haddadinsures.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1033,Maple Chiro,drnovak@maplechiro.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1034,Nadia Hassan,nadia@stonebridgerealty.com,2026-06-01,2026-06-15,1500.00,paid,B034 Content Day
+INV-1035,Walsh Law Firm PLLC,info@walshlaw.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1036,Juniper Wealth Partners,vramirez@juniperwp.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1037,Apex,brooke@apexmedspa.com,2026-06-02,2026-06-16,1500.00,paid,Content Day 6/1
+INV-1038,Calm & Collected,aisha@calmandcollected.fm,2026-06-02,2026-06-16,300.00,paid,Podcast Studio 2hr 6/1
+INV-1039,Trinity Dental,office@trinitydental.com,2026-06-04,2026-06-18,1500.00,paid,
+INV-1040,Northpoint Fitness,hannah@northpointfit.co,2026-06-05,2026-06-19,900.00,paid,Reels Pack 6/5
+INV-1041,Silverleaf Church,media@silverleafdfw.org,2026-06-05,2026-06-19,225.00,paid,B037 Podcast Studio 2hr
+INV-1042,Hale Dental,hello@haledental.com,2026-06-10,2026-06-24,1500.00,paid,B040 Content Day
+INV-1043,Silverleaf Media Team,media@silverleafdfw.org,2026-06-11,2026-06-25,300.00,paid,B043 Podcast Studio 2hr
+INV-1044,Andre Chen,andre@ntxfounders.fm,2026-06-11,2026-06-25,550.00,paid,B047 Podcast Studio 4hr
+INV-1045,Jared's Roofing,jared@jaredsroofingtx.com,2026-06-11,2026-06-25,900.00,paid,Reels Pack 6/10
+INV-1046,Kindred Creative,alana@kindredmktg.com,2026-06-12,2026-06-26,900.00,paid,
+INV-1047,Calm and Collected,aisha@calmandcollected.fm,2026-06-13,2026-06-27,300.00,paid,B044 Podcast Studio 2hr
+INV-1048,Kelsey Lee,kelsey@elevatebridal.com,2026-06-15,2026-06-29,900.00,paid,
+INV-1049,Silverleaf DFW,media@silverleafdfw.org,2026-06-16,2026-06-30,225.00,paid,B053 Podcast Studio 2hr
+INV-1050,Hale Family Law,khale@halefamilylaw.com,2026-06-16,2026-06-30,900.00,paid,
+INV-1051,Mateo Lee,mateo@riverbendbarbers.com,2026-06-17,2026-07-01,900.00,paid,
+INV-1052,Lakeside Roasters,sofia@lakesidecoffee.com,2026-06-20,2026-07-04,900.00,paid,Reels Pack 6/19
+INV-1053,Aisha Chen,aisha@calmandcollected.fm,2026-06-23,2026-07-07,300.00,paid,Podcast Studio 2hr 6/23
+INV-1054,Andre Chen,andre@ntxfounders.fm,2026-06-23,2026-07-07,550.00,paid,B057 Podcast Studio 4hr
+INV-1055,Glow,dana@glow.build,2026-06-25,2026-07-09,1500.00,paid,
+INV-1056,Silverleaf DFW,media@silverleafdfw.org,2026-06-25,2026-07-09,225.00,paid,Podcast Studio 2hr 6/25
+INV-1057,Juniper Wealth Partners,vramirez@juniperwp.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1058,Haddad Insurance Group,imran@haddadinsures.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1059,Maple Chiropractic,drnovak@maplechiro.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1060,Walsh,info@walshlaw.com,2026-07-01,2026-07-15,2000.00,paid,Monthly retainer July
+INV-1061,Kindred Creative,alana@kindredmktg.com,2026-07-02,2026-07-16,900.00,paid,
+INV-1062,Silverleaf Church,media@silverleafdfw.org,2026-07-03,2026-07-17,225.00,paid,
+INV-1063,Cedar Builders,greg@cedar.build,2026-07-06,2026-07-20,1500.00,paid,B063 Content Day
+INV-1064,Calm and Collected,aisha@calmandcollected.fm,2026-07-06,2026-07-20,300.00,unpaid,Podcast Studio 2hr 7/6
+INV-1065,Apex Med Spa - Frisco,brooke@apexmedspa.com,2026-07-06,2026-07-20,1500.00,paid,Content Day 7/6
+INV-1066,Oak Lane,leah@oaklanemedspa.com,2026-07-08,2026-07-22,900.00,paid,
+INV-1067,Silverleaf Church,media@silverleafdfw.org,2026-07-09,2026-07-23,225.00,paid,B067 Podcast Studio 2hr
+INV-1068,Pecan Gym,trent@pecangym.co,2026-07-09,2026-07-23,900.00,paid,
+INV-1069,Jared's Roofing LLC,jared@jaredsroofingtx.com,2026-07-10,2026-07-24,900.00,paid,
+INV-1070,Andre Chen,andre@ntxfounders.fm,2026-07-10,2026-07-24,550.00,paid,Podcast Studio 4hr 7/10
+INV-1071,Calm & Collected Podcast,aisha@calmandcollected.fm,2026-07-13,2026-07-27,300.00,unpaid,Podcast Studio 2hr 7/13
+INV-1072,Northpoint Fitness,hannah@northpointfit.co,2026-07-14,2026-07-28,900.00,paid,B075 Reels Pack
+INV-1073,Horizon Therapy,jcarter@horizonfamilytherapy.com,2026-07-15,2026-07-29,1500.00,paid,
+INV-1074,The Parkside Lab,dana@theparksidelab.coffee,2026-07-16,2026-07-30,900.00,paid,
+INV-1075,Silverleaf Media Team,media@silverleafdfw.org,2026-07-16,2026-07-30,225.00,paid,B080 Podcast Studio 2hr
+INV-1076,Hale Family Law,khale@halefamilylaw.com,2026-07-17,2026-07-31,900.00,paid,B076 Reels Pack
+INV-1077,Malik's Auto,lucia@maliksautospa.com,2026-07-19,2026-08-02,900.00,paid,B079 Reels Pack
+INV-1078,Kindred Creative,alana@kindredmktg.com,2026-07-20,2026-08-03,900.00,paid,
+INV-1079,Stone Bridge Realty,nadia@stonebridgerealty.com,2026-07-21,2026-08-04,1500.00,paid,B082 Content Day
+INV-1080,Riverbend Barbers,mateo@riverbendbarbers.com,2026-07-22,2026-08-05,900.00,paid,
+INV-1081,Silverleaf DFW,media@silverleafdfw.org,2026-07-23,2026-08-06,225.00,paid,B086 Podcast Studio 2hr
+INV-1082,Dr Hale,hello@haledental.com,2026-07-24,2026-08-07,1500.00,unpaid,B085 Content Day
+INV-1083,Elevate Bridal Boutique,kelsey@elevatebridal.com,2026-07-24,2026-08-07,900.00,paid,B087 Reels Pack
+INV-1084,Calm & Collected,aisha@calmandcollected.fm,2026-07-28,2026-08-11,300.00,unpaid,
+INV-1085,NTX Founders,andre@ntxfounders.fm,2026-07-29,2026-08-12,550.00,paid,B089 Podcast Studio 4hr
+INV-1086,Walsh,info@walshlaw.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1087,Haddad Insurance Group,imran@haddadinsures.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1088,Silverleaf Media Team,media@silverleafdfw.org,2026-08-01,2026-08-15,225.00,paid,B090 Podcast Studio 2hr
+INV-1089,Juniper WP,vramirez@juniperwp.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1090,Angela Hassan DDS,office@trinitydental.com,2026-08-04,2026-08-18,1500.00,paid,Content Day 8/3
+INV-1091,Kindred Creative,alana@kindredmktg.com,2026-08-06,2026-08-20,900.00,paid,B094 Reels Pack
+INV-1092,Bloom Roofing Co,luis@bloomroofingco.com,2026-08-07,2026-08-21,900.00,paid,B092 Reels Pack
+INV-1093,C&C Podcast,aisha@calmandcollected.fm,2026-08-08,2026-08-22,300.00,paid,B095 Podcast Studio 2hr
+INV-1094,Stonebridge RG,nolan@stonebridgerg.com,2026-08-11,2026-08-25,1500.00,unpaid,
+INV-1095,Oak Lane Med Spa - Frisco,leah@oaklanemedspa.com,2026-08-11,2026-08-25,900.00,paid,B100 Reels Pack
+INV-1096,Andre Chen,andre@ntxfounders.fm,2026-08-11,2026-08-25,550.00,paid,Podcast Studio 4hr 8/10
+INV-1097,Malik's Auto Spa,lucia@maliksautospa.com,2026-08-11,2026-08-25,900.00,paid,Reels Pack 8/10
+INV-1098,Parksidelab Coffee,dana@theparksidelab.coffee,2026-08-11,2026-08-25,900.00,paid,B101 Reels Pack
+INV-1099,Jared's Roofing LLC,jared@jaredsroofingtx.com,2026-08-14,2026-08-28,900.00,paid,B102 Reels Pack
+INV-1100,Kelsey Lee,kelsey@elevatebridal.com,2026-08-17,2026-08-31,900.00,paid,Reels Pack 8/17
+INV-1101,Lakeside Roasters,sofia@lakesidecoffee.com,2026-08-17,2026-08-31,900.00,paid,Reels Pack 8/17
+INV-1102,C&C Podcast,aisha@calmandcollected.fm,2026-08-18,2026-09-01,300.00,paid,B106 Podcast Studio 2hr
+INV-1103,Glow,dana@glow.build,2026-08-18,2026-09-01,1500.00,paid,
+INV-1104,Kelsey Hale,khale@halefamilylaw.com,2026-08-19,2026-09-02,900.00,paid,B105 Reels Pack
+INV-1105,Pecan,trent@pecanathletics.com,2026-08-19,2026-09-02,900.00,paid,B110 Reels Pack
+INV-1106,Hannah Becker,hannah@northpointfit.co,2026-08-20,2026-09-03,900.00,paid,B111 Reels Pack
+INV-1107,Silverleaf Church,media@silverleafdfw.org,2026-08-21,2026-09-04,225.00,paid,Podcast Studio 2hr 8/20
+INV-1108,Mateo Lee,mateo@riverbendbarbers.com,2026-08-22,2026-09-05,900.00,paid,
+INV-1109,NTX Founders,andre@ntxfounders.fm,2026-08-24,2026-09-07,550.00,unpaid,B115 Podcast Studio 4hr
+INV-1110,Kindred Creative,alana@kindredmktg.com,2026-08-24,2026-09-07,900.00,paid,B117 Reels Pack
+INV-1111,Cedar & Co Builders,greg@cedar.build,2026-08-25,2026-09-08,1500.00,unpaid,Content Day 8/24
+INV-1112,C&C Podcast,aisha@calmandcollected.fm,2026-08-25,2026-09-08,300.00,paid,B114 Podcast Studio 2hr
+INV-1113,Silverleaf Media Team,media@silverleafdfw.org,2026-08-27,2026-09-10,225.00,paid,Podcast Studio 2hr 8/27
+INV-1114,Apex Med Spa,brooke@apexmedspa.com,2026-08-27,2026-09-10,1500.00,paid,
+INV-1115,Castillos Auto,will@castillosautospa.com,2026-08-28,2026-09-11,900.00,paid,B120 Reels Pack
+INV-1116,Walsh Law Firm,info@walshlaw.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1117,Haddad Insurance,imran@haddadinsures.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1118,Dana Khan,dana@tlchomecare.com,2026-09-01,2026-09-15,1500.00,unpaid,
+INV-1119,Juniper WP,vramirez@juniperwp.com,2026-09-01,2026-09-15,2500.00,unpaid,Monthly retainer September
+INV-1120,Calm & Collected,aisha@calmandcollected.fm,2026-09-01,2026-09-15,300.00,paid,B121 Podcast Studio 2hr
+INV-1121,Alana Hale DDS,hello@haledental.com,2026-09-02,2026-09-16,1500.00,paid,B124 Content Day
+INV-1122,Jareds Roofing,jared@jaredsroofingtx.com,2026-09-04,2026-09-18,900.00,paid,B126 Reels Pack
+INV-1123,Luis Foster,luis@bloomroofingco.com,2026-09-04,2026-09-18,900.00,partial,Reels Pack 9/1
+INV-1124,Parksidelab Coffee,dana@theparksidelab.coffee,2026-09-05,2026-09-19,900.00,unpaid,Reels Pack 9/3
+INV-1125,Dr. Jen Carter,jcarter@horizonfamilytherapy.com,2026-09-07,2026-09-21,1500.00,paid,B130 Content Day
+INV-1126,Stone Bridge Realty,nadia@stonebridgerealty.com,2026-09-07,2026-09-21,1500.00,paid,B127 Content Day
+INV-1127,Silverleaf DFW,media@silverleafdfw.org,2026-09-09,2026-09-23,225.00,paid,B128 Podcast Studio 2hr
+INV-1128,Lakeside Coffee Roasters,sofia@lakesidecoffee.com,2026-09-10,2026-09-24,900.00,paid,
+INV-1129,Andre Chen,andre@ntxfounders.fm,2026-09-10,2026-09-24,550.00,paid,
+INV-1130,Oak Lane Med Spa - Plano,leah@oaklanemedspa.com,2026-09-14,2026-09-28,900.00,paid,B136 Reels Pack
+INV-1131,Kindred Creative,alana@kindredmktg.com,2026-09-15,2026-09-29,900.00,paid,B139 Reels Pack
+INV-1132,Calm & Collected Podcast,aisha@calmandcollected.fm,2026-09-15,2026-09-29,300.00,paid,
+INV-1133,Malik's Auto,lucia@maliksautospa.com,2026-09-16,2026-09-30,900.00,paid,
+INV-1134,Silverleaf Church,media@silverleafdfw.org,2026-09-17,2026-10-01,225.00,unpaid,B140 Podcast Studio 2hr
+INV-1135,Northpoint Fitness,hannah@northpointfit.co,2026-09-17,2026-10-01,900.00,paid,
+INV-1136,Kelsey Lee,kelsey@elevatebridal.com,2026-09-17,2026-10-01,900.00,paid,
+INV-1137,Nadia Hassan,nadia@stonebridgerealty.com,2026-09-18,2026-10-02,1500.00,paid,B148 Content Day
+INV-1138,Hale Family Law,khale@halefamilylaw.com,2026-09-22,2026-10-06,900.00,unpaid,B142 Reels Pack
+INV-1139,Andre Chen,andre@ntxfounders.fm,2026-09-22,2026-10-06,550.00,paid,Podcast Studio 4hr 9/22
+INV-1140,Silverleaf DFW,media@silverleafdfw.org,2026-09-23,2026-10-07,225.00,unpaid,B146 Podcast Studio 2hr
+INV-1141,Calm & Collected Podcast,aisha@calmandcollected.fm,2026-09-23,2026-10-07,300.00,paid,
+INV-1142,Mateo Lee,mateo@riverbendbarbers.com,2026-09-24,2026-10-08,900.00,paid,B143 Reels Pack
+INV-1143,Kindred Creative,alana@kindredmktg.com,2026-09-24,2026-10-08,900.00,unpaid,
+INV-1144,Pecan Athletics,trent@pecanathletics.com,2026-09-26,2026-10-10,900.00,paid,
+INV-1145,Stone Bridge Realty,nadia@stonebridgerealty.com,2026-09-28,2026-10-12,1500.00,unpaid,
+INV-1146,Nolan Hassan,nolan@stonebridgerg.com,2026-09-29,2026-10-13,1500.00,unpaid,
+INV-1147,Dr. Angela Hassan,office@trinitydental.com,2026-09-30,2026-10-14,1500.00,unpaid,Content Day 9/28
+INV-1148,Castillo's Auto,will@castillosautospa.com,2026-09-30,2026-10-14,900.00,unpaid,B152 Reels Pack
+INV-1149,Juniper WP,vramirez@juniperwp.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1150,Walsh Law Firm,info@walshlaw.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1151,Haddad Insurance Group,imran@haddadinsures.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1152,Bloom Roofing Co,luis@bloomroofingco.com,2026-10-05,2026-10-19,900.00,unpaid,B154 Reels Pack
+INV-1153,Silverleaf DFW,media@silverleafdfw.org,2026-10-05,2026-10-19,225.00,unpaid,Podcast Studio 2hr 10/2
+INV-1154,Calm and Collected,aisha@calmandcollected.fm,2026-10-06,2026-10-20,300.00,unpaid,
+INV-1155,Apex Med Spa - Frisco,brooke@apexmedspa.com,2026-07-06,2026-07-20,1500.00,void,Content Day 7/6

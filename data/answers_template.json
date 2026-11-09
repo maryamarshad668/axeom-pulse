@@ -1,0 +1,51 @@
+{
+  "pack_id": "PUT YOUR PACK NUMBER HERE (see PACK.txt)",
+  "your_name": "",
+  "your_email": "",
+
+  "live_link": "",
+  "video_link": "",
+  "code_or_files_link": "",
+
+  "client_count": 0,
+  "clients": [
+    { "name": "", "other_names_used_in_the_data": [], "emails": [], "phones": [] }
+  ],
+  "payers_who_are_not_clients": [
+    { "name": "", "pays_for": [] }
+  ],
+
+  "overdue": [
+    { "client": "", "invoice": "INV-0000", "amount_owed": 0, "days_late": 0 }
+  ],
+  "overdue_total": 0,
+
+  "we_owe": [
+    { "client": "", "amount": 0, "why": "" }
+  ],
+
+  "never_billed": [
+    { "client": "", "booking_id_or_month": "", "amount": 0 }
+  ],
+  "never_billed_total": 0,
+
+  "billing_tool_is_wrong": [
+    { "invoice": "INV-0000", "tool_says": "", "truth": "", "how_you_know": "" }
+  ],
+
+  "lost_requests": [
+    { "video_id": "V000", "request_date": "YYYY-MM-DD", "came_by": "email | whatsapp | voice note | instagram", "why_it_was_lost": "" }
+  ],
+  "lost_requests_root_causes": [""],
+  "lost_requests_started_getting_worse_in": "YYYY-MM",
+
+  "never_replied_leads": ["L000"],
+
+  "most_likely_to_leave": { "client": "", "evidence": [""], "what_to_do_this_week": "" },
+
+  "best_marketing_channel": { "channel": "", "why": "" },
+
+  "what_this_data_cannot_tell_us": [""],
+
+  "monday_top_3": ["", "", ""]
+}

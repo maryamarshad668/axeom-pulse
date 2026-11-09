@@ -1,0 +1,7 @@
+channel,leads,unique_prospects,converted_clients,paying_accounts,invoiced,collected,est_delivery_cost,est_margin_after_delivery,conversion_rate,invoiced_per_converted_client,est_margin_per_converted_client,est_margin_per_prospect,marketing_spend,true_profit
+Referral,11,11,7,8,51000.0,38700.0,17945.2,33054.8,0.636,7285.71,4722.11,3004.98,not in data,cannot be calculated
+Meta ad,25,25,7,7,39900.0,35050.0,17976.3,21923.7,0.28,5700.0,3131.96,876.95,not in data,cannot be calculated
+Instagram,23,23,7,7,27000.0,21600.0,14819.8,12180.2,0.304,3857.14,1740.03,529.57,not in data,cannot be calculated
+Website form,17,12,4,4,18600.0,16950.0,6693.9,11906.1,0.333,4650.0,2976.52,992.18,not in data,cannot be calculated
+Google,10,10,4,4,15450.0,13500.0,7160.4,8289.6,0.4,3862.5,2072.4,828.96,not in data,cannot be calculated
+LinkedIn,9,9,1,1,4500.0,4500.0,2721.9,1778.1,0.111,4500.0,1778.1,197.57,not in data,cannot be calculated

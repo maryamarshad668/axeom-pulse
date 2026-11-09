@@ -1,0 +1,1099 @@
+mention_id,source,record_id,source_file,source_line,raw_names,email,phone,handle,identity_id,method,confidence,note,client_id,reassigned_because,client
+leads:L001,leads,L001,leads.csv,2,Nolan Ibarra | Silverleaf Church,media@silverleafdfw.org,9725550186,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+leads:L002,leads,L002,leads.csv,3,Andre Chen | North Texas Founders,andre@ntxfounders.fm,8175550141,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+leads:L003,leads,L003,leads.csv,4,Marcus Foster | Foster Chiropractic,marcus@fosterchiropractic.com,4695550195,,CL-c6f64a50,email,100.0,,CL-c6f64a50,,
+leads:L004,leads,L004,leads.csv,5,Aisha Chen | Calm and Collected,aisha@calmandcollected.fm,4695550152,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+leads:L005,leads,L005,leads.csv,6,Greg Patel | Cedar Builders,greg@cedar.build,2145550170,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+leads:L006,leads,L006,leads.csv,7,Nina Hale | Hale Coffee,nina@halecoffee.com,2145550134,,CL-fc89c3ec,email,100.0,,CL-fc89c3ec,,
+leads:L007,leads,L007,leads.csv,8,Alana Hale | Hale Dental PLLC,hello@haledental.com,8175550160,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+leads:L008,leads,L008,leads.csv,9,Jared Khan | Jared's Roofing,jared@jaredsroofingtx.com,9725550110,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+leads:L009,leads,L009,leads.csv,10,Brooke Becker | Apex Medspa,brooke@apexmedspa.com,8175550132,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+leads:L010,leads,L010,leads.csv,11,Kelsey Lee | Kelsey Lee,kelsey@elevatebridal.com,2145550158,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+leads:L011,leads,L011,leads.csv,12,Wes Rivera | Rivera HVAC,wes@riverahvac.com,4695550192,,CL-5438d334,email,100.0,,CL-5438d334,,
+leads:L012,leads,L012,leads.csv,13,test test,test@test.com,,,CL-a6ad00ac,email,100.0,,CL-a6ad00ac,,
+leads:L013,leads,L013,leads.csv,14,Angela Wallace | Wallace Family Dentistry,angela@wallacefamilydentistry.com,9725550183,,CL-49756220,email,100.0,,CL-49756220,,
+leads:L014,leads,L014,leads.csv,15,Joy Novak | Novak Dental Care,joy@novakdentalcare.com,2145550190,,CL-af715f6a,email,100.0,,CL-af715f6a,,
+leads:L015,leads,L015,leads.csv,16,Victor Ramirez | Juniper Wealth Partners,vramirez@juniperwp.com,4695550183,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+leads:L016,leads,L016,leads.csv,17,Joy Tran | Tran Realty,joy@tranrealty.com,9725550100,,CL-012e8308,email,100.0,,CL-012e8308,,
+leads:L017,leads,L017,leads.csv,18,Hannah Jackson,hannahjackson49@gmail.com,2145550103,,CL-7bdf5e7f,email,100.0,,CL-7bdf5e7f,,
+leads:L018,leads,L018,leads.csv,19,Jordan Sullivan | Sullivan Family Dentistry,jordan@sullivanfamilydentistry.com,9725550104,,CL-04e74de7,email,100.0,,CL-04e74de7,,
+leads:L019,leads,L019,leads.csv,20,Darnell Kim | Kim Landscaping,darnell@kimlandscaping.com,2145550171,,CL-8de64d23,email,100.0,,CL-8de64d23,,
+leads:L020,leads,L020,leads.csv,21,Mike Grant | Grant Yoga Studio,mike@grantyogastudio.com,4695550126,,CL-6a896f76,email,100.0,,CL-6a896f76,,
+leads:L021,leads,L021,leads.csv,22,Jared Walsh | Walsh Law Firm,info@walshlaw.com,2145550109,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+leads:L022,leads,L022,leads.csv,23,Paula Chen | Chen Landscaping,paula@chenlandscaping.com,2145550102,,CL-21c059f4,email,100.0,,CL-21c059f4,,
+leads:L023,leads,L023,leads.csv,24,Hannah Becker | Northpoint Fitness,hannah@northpointfit.co,8175550137,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+leads:L024,leads,L024,leads.csv,25,Mike Novak | Dr. Novak,drnovak@maplechiro.com,4695550120,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+leads:L025,leads,L025,leads.csv,26,Leah Rivera | Oak Lane,leah@oaklanemedspa.com,9725550112,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+leads:L026,leads,L026,leads.csv,27,Mateo Lee | Mateo Lee,mateo@riverbendbarbers.com,2145550106,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+leads:L027,leads,L027,leads.csv,28,Crypto Deals,deals@coin-x.io,,,CL-1d8f67ee,email,100.0,,CL-1d8f67ee,,
+leads:L028,leads,L028,leads.csv,29,Alana Sullivan | Sullivan Pet Grooming,alana@sullivanpetgrooming.com,4695550137,,CL-e4f9ad80,email,100.0,,CL-e4f9ad80,,
+leads:L029,leads,L029,leads.csv,30,Derek Nguyen | Nguyen Chiropractic,derek@nguyenchiropractic.com,2145550147,,CL-201f68a6,email,100.0,,CL-201f68a6,,
+leads:L030,leads,L030,leads.csv,31,Gloria Lopez | Lopez Family Dentistry,gloria@lopezfamilydentistry.com,8175550104,,CL-9732a3c7,email,100.0,,CL-9732a3c7,,
+leads:L031,leads,L031,leads.csv,32,Imran Haddad | Haddad Insurance Group,imran@haddadinsures.com,2145550176,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+leads:L032,leads,L032,leads.csv,33,Trent Romero | Romero Chiropractic,trent@romerochiropractic.com,9725550194,,CL-6586789b,email,100.0,,CL-6586789b,,
+leads:L033,leads,L033,leads.csv,34,Hannah Daniels | Daniels Bakery,hannah@danielsbakery.com,8175550148,,CL-e74fa796,email,100.0,,CL-e74fa796,,
+leads:L034,leads,L034,leads.csv,35,Nadia Hassan | Nadia Hassan,nadia@stonebridgerealty.com,4695550150,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+leads:L035,leads,L035,leads.csv,36,Kevin Zamora | Zamora Dental Care,kevin@zamoradentalcare.com,9725550187,,CL-8e25c83d,email,100.0,,CL-8e25c83d,,
+leads:L036,leads,L036,leads.csv,37,Mike Malik | Malik Roofing,mike@malikroofing.com,8175550146,,CL-38313f5f,email,100.0,,CL-38313f5f,,
+leads:L037,leads,L037,leads.csv,38,Jordan Ramirez | Ramirez Med Spa,jordan@ramirezmedspa.com,4695550143,,CL-146a24bb,email,100.0,,CL-146a24bb,,
+leads:L038,leads,L038,leads.csv,39,Angela Hassan | Trinity Dental,office@trinitydental.com,2145550112,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+leads:L039,leads,L039,leads.csv,40,Alana Hale | Kindred Creative,alana@kindredmktg.com,9725550145,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+leads:L040,leads,L040,leads.csv,41,Femi Lee | Lee Tax Services,femi@leetaxservices.com,8175550135,,CL-71abe519,email,100.0,,CL-71abe519,,
+leads:L041,leads,L041,leads.csv,42,Quinn Cho | Sunset Pediatrics,qcho@sunsetpeds.com,8175550187,,CL-77e6a157,email,100.0,,CL-77e6a157,,Sunset Pediatrics
+leads:L042,leads,L042,leads.csv,43,Alana Hale | Hale Dental,hello@haledental.com,8175550160,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+leads:L043,leads,L043,leads.csv,44,Kelsey Hale | Hale Family Law PLLC,khale@halefamilylaw.com,4695550105,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+leads:L044,leads,L044,leads.csv,45,Tasha Haddad | Haddad Bakery,tasha@haddadbakery.com,8175550103,,CL-d6a91a77,email,100.0,,CL-d6a91a77,,
+leads:L045,leads,L045,leads.csv,46,Jen Cho | Cho Bakery,jen@chobakery.com,8175550143,,CL-8cfefa66,email,100.0,,CL-8cfefa66,,
+leads:L046,leads,L046,leads.csv,47,Jared Kim | Kim Law Office,jared@kimlawoffice.com,9725550109,,CL-692eda96,email,100.0,,CL-692eda96,,
+leads:L047,leads,L047,leads.csv,48,Leah Ibarra | Ibarra Tax Services,leah@ibarrataxservices.com,2145550120,,CL-809d47c3,email,100.0,,CL-809d47c3,,
+leads:L048,leads,L048,leads.csv,49,Sofia Khan | Lakeside Roasters,sofia@lakesidecoffee.com,4695550199,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+leads:L049,leads,L049,leads.csv,50,Mateo Bennett | Bennett Coffee,mateo@bennettcoffee.com,2145550148,,CL-7f621a00,email,100.0,,CL-7f621a00,,
+leads:L050,leads,L050,leads.csv,51,David Webb | Webb Landscaping,david@webblandscaping.com,2145550101,,CL-9c15ae05,email,100.0,,CL-9c15ae05,,
+leads:L051,leads,L051,leads.csv,52,Dana Kim | Glow Builders,dana@glow.build,2145550168,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+leads:L052,leads,L052,leads.csv,53,Mia Rivera | Rivera Tax Services,mia@riverataxservices.com,4695550144,,CL-41f9cc9d,email,100.0,,CL-41f9cc9d,,
+leads:L053,leads,L053,leads.csv,54,Sofia Khan | Khan Insurance,sofia@khaninsurance.com,4695550170,,CL-cf0842fe,email,100.0,,CL-cf0842fe,,
+leads:L054,leads,L054,leads.csv,55,Jen Rivera | Luna Physical Therapy,jrivera@lunaptdallas.com,8175550170,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+leads:L055,leads,L055,leads.csv,56,Grace Bennett | Bennett Tax Services,grace@bennetttaxservices.com,4695550169,,CL-8cb94d49,email,100.0,,CL-8cb94d49,,
+leads:L056,leads,L056,leads.csv,57,Trent Haddad | Pecan Gym,trent@pecangym.co,8175550123,,CL-e964e11d,email,100.0,,CL-e964e11d,,Pecan Athletics
+leads:L057,leads,L057,leads.csv,58,Mike Lee | Lee Salon,mike@leesalon.com,9725550172,,CL-d07d1173,email,100.0,,CL-d07d1173,,
+leads:L058,leads,L058,leads.csv,59,Sarah Jackson | Jackson Coffee,sarah@jacksoncoffee.com,9725550152,,CL-82d9e794,email,100.0,,CL-82d9e794,,
+leads:L059,leads,L059,leads.csv,60,Dana Green | The Parkside Lab,dana@theparksidelab.coffee,8175550100,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+leads:L060,leads,L060,leads.csv,61,Lucia Malik | Malik's Auto Spa,lucia@maliksautospa.com,9725550121,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+leads:L061,leads,L061,leads.csv,62,Jen Carter | Horizon Family Therapy,jcarter@horizonfamilytherapy.com,9725550132,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+leads:L062,leads,L062,leads.csv,63,Jen Hale | Hale Yoga Studio,jen@haleyogastudio.com,8175550112,,CL-d46fd4a5,email,100.0,,CL-d46fd4a5,,
+leads:L063,leads,L063,leads.csv,64,Luis Khan | Khan Auto Group,luis@khanautogroup.com,4695550124,,CL-fc198a64,email,100.0,,CL-fc198a64,,
+leads:L064,leads,L064,leads.csv,65,Imran Romero | Romero Realty,imran@romerorealty.com,8175550136,,CL-7e67f660,email,100.0,,CL-7e67f660,,
+leads:L065,leads,L065,leads.csv,66,Brooke Becker | Apex Med Spa - Frisco,frisco@apexmedspa.com,8175550132,,CL-ddfb4fe5,phone,100.0,joined through shared phone 8175550132 (same email domain),CL-ddfb4fe5,,Apex Medspa
+leads:L066,leads,L066,leads.csv,67,Luis Whitfield | Whitfield Insurance,luis@whitfieldinsurance.com,4695550197,,CL-4875ba41,email,100.0,,CL-4875ba41,,
+leads:L067,leads,L067,leads.csv,68,Kevin Delgado,kevindelgado27@gmail.com,2145550160,,CL-1aafaf93,email,100.0,,CL-1aafaf93,,
+leads:L068,leads,L068,leads.csv,69,Angela Torres | Torres Pediatrics,angela@torrespediatrics.com,2145550169,,CL-12f1865e,email,100.0,,CL-12f1865e,,
+leads:L069,leads,L069,leads.csv,70,Quinn Malik | Malik Med Spa,quinn@malikmedspa.com,2145550115,,CL-6924910e,email,100.0,,CL-6924910e,,
+leads:L070,leads,L070,leads.csv,71,Luis Foster | Bloom Roofing Co,luis@bloomroofingco.com,2145550142,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+leads:L071,leads,L071,leads.csv,72,Nolan Hassan | Nolan Hassan,nolan@stonebridgerg.com,8175550188,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+leads:L072,leads,L072,leads.csv,73,Will Vega | Vega Tax Services,will@vegataxservices.com,9725550129,,CL-11f6462e,email,100.0,,CL-11f6462e,,
+leads:L073,leads,L073,leads.csv,74,Trent Haddad | Pecan Athletics,trent@pecanathletics.com,8175550123,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+leads:L074,leads,L074,leads.csv,75,Jared Bennett | Bennett Salon,jared@bennettsalon.com,4695550185,,CL-afae1fc6,email,100.0,,CL-afae1fc6,,
+leads:L075,leads,L075,leads.csv,76,Lucia Ibarra | Ibarra Plumbing,lucia@ibarraplumbing.com,2145550162,,CL-3cc99aaa,email,100.0,,CL-3cc99aaa,,
+leads:L076,leads,L076,leads.csv,77,Kevin Ibarra | Ibarra Fitness,kevin@ibarrafitness.com,8175550133,,CL-88db0dc1,email,100.0,,CL-88db0dc1,,
+leads:L077,leads,L077,leads.csv,78,Dana Cho,danacho65@gmail.com,8175550167,,CL-50bf21d6,email,100.0,,CL-50bf21d6,,
+leads:L078,leads,L078,leads.csv,79,SEO Services,seo@rank1seo.biz,,,CL-fe85388e,email,100.0,,CL-fe85388e,,
+leads:L079,leads,L079,leads.csv,80,Angela Brooks,angelabrooks40@gmail.com,9725550193,,CL-b63c3b3b,email,100.0,,CL-b63c3b3b,,
+leads:L080,leads,L080,leads.csv,81,Sarah Fischer | Fischer Auto Group,sarah@fischerautogroup.com,9725550162,,CL-74059b34,email,100.0,,CL-74059b34,,
+leads:L081,leads,L081,leads.csv,82,Luis Russo | Russo Pediatrics,luis@russopediatrics.com,8175550151,,CL-f47b556c,email,100.0,,CL-f47b556c,,
+leads:L082,leads,L082,leads.csv,83,Will Ramirez | Ramirez Auto Group,will@ramirezautogroup.com,4695550182,,CL-1284ff2a,email,100.0,,CL-1284ff2a,,
+leads:L083,leads,L083,leads.csv,84,Mike Fischer | Fischer Yoga Studio,mike@fischeryogastudio.com,4695550177,,CL-d0553c68,email,100.0,,CL-d0553c68,,
+leads:L084,leads,L084,leads.csv,85,Will Castillo | Castillo's Auto Spa,will@castillosautospa.com,9725550191,,CL-d5c143ad,email,100.0,,CL-d5c143ad,,Castillo's Auto Spa
+leads:L085,leads,L085,leads.csv,86,Dana Khan | Dana Khan,dana@tlchomecare.com,2145550124,,CL-9fcd3370,email,100.0,,CL-9fcd3370,,TLC Homecare
+leads:L086,leads,L086,leads.csv,87,Victor Fischer,victorfischer72@gmail.com,9725550179,,CL-2934ce8e,email,100.0,,CL-2934ce8e,,
+leads:L087,leads,L087,leads.csv,88,Lena Lopez | Lopez HVAC,lena@lopezhvac.com,9725550157,,CL-fdc0f714,email,100.0,,CL-fdc0f714,,
+leads:L088,leads,L088,leads.csv,89,Aisha Chen,aisha.chen.mail@gmail.com,4695550152,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+leads:L089,leads,L089,leads.csv,90,Megan Patel | Patel Plumbing,megan@patelplumbing.com,4695550149,,CL-2e27eea6,email,100.0,,CL-2e27eea6,,
+leads:L090,leads,L090,leads.csv,91,Quinn Cole | Cole Family Dentistry,quinn@colefamilydentistry.com,8175550195,,CL-42b0412c,email,100.0,,CL-42b0412c,,
+leads:L091,leads,L091,leads.csv,92,Ivy Walsh,ivywalsh92@gmail.com,8175550121,,CL-e2c5701e,email,100.0,,CL-e2c5701e,,
+leads:L092,leads,L092,leads.csv,93,Derek Torres | Torres Chiropractic,derek@torreschiropractic.com,9725550105,,CL-f9715f3d,email,100.0,,CL-f9715f3d,,
+leads:L093,leads,L093,leads.csv,94,Will Whitfield | Whitfield Bakery,will@whitfieldbakery.com,9725550198,,CL-6855730e,email,100.0,,CL-6855730e,,
+leads:L094,leads,L094,leads.csv,95,Kelsey Malik | Malik Yoga Studio,kelsey@malikyogastudio.com,9725550169,,CL-4276c2c5,email,100.0,,CL-4276c2c5,,
+leads:L095,leads,L095,leads.csv,96,Kim Russo | Russo HVAC,kim@russohvac.com,4695550157,,CL-453cc9f5,email,100.0,,CL-453cc9f5,,
+leads:L096,leads,L096,leads.csv,97,Gloria Brooks | Brooks HVAC,gloria@brookshvac.com,2145550185,,CL-d3df572f,email,100.0,,CL-d3df572f,,
+leads:L097,leads,L097,leads.csv,98,Free followers,promo@fastfollowers.io,,,CL-14fffd09,email,100.0,,CL-14fffd09,,
+leads:L098,leads,L098,leads.csv,99,Simone Ramirez | Juniper Wealth Partners,simone@juniperwp.com,9725550136,,CL-0807ac07,exact_name,100.0,joined on exact name 'juniper wealth partners' (same email domain),CL-0807ac07,,Juniper Wealth Partners
+leads:L099,leads,L099,leads.csv,100,Kim Walsh,kimwalsh90@gmail.com,4695550151,,CL-bcb52474,email,100.0,,CL-bcb52474,,
+bookings:B001,bookings,B001,bookings.csv,2,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B002,bookings,B002,bookings.csv,3,Aisha Chen,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B003,bookings,B003,bookings.csv,4,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B004,bookings,B004,bookings.csv,5,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B005,bookings,B005,bookings.csv,6,Dr Hale,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+bookings:B006,bookings,B006,bookings.csv,7,Cedar Builders LLC,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+bookings:B007,bookings,B007,bookings.csv,8,Jared's Roofing LLC,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B008,bookings,B008,bookings.csv,9,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B009,bookings,B009,bookings.csv,10,Calm and Collected,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+bookings:B010,bookings,B010,bookings.csv,11,Apex,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+bookings:B011,bookings,B011,bookings.csv,12,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+bookings:B012,bookings,B012,bookings.csv,13,Calm & Collected,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+bookings:B013,bookings,B013,bookings.csv,14,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B014,bookings,B014,bookings.csv,15,Juniper Wealth,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B015,bookings,B015,bookings.csv,16,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B016,bookings,B016,bookings.csv,17,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B017,bookings,B017,bookings.csv,18,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B018,bookings,B018,bookings.csv,19,Northpoint,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+bookings:B019,bookings,B019,bookings.csv,20,Walsh Law Firm PLLC,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+bookings:B020,bookings,B020,bookings.csv,21,Jareds Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B021,bookings,B021,bookings.csv,22,Oak Lane Med Spa - Plano,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+bookings:B022,bookings,B022,bookings.csv,23,C&C Podcast,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+bookings:B023,bookings,B023,bookings.csv,24,Juniper Wealth Partners,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B024,bookings,B024,bookings.csv,25,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B025,bookings,B025,bookings.csv,26,Maple Chiropractic,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+bookings:B026,bookings,B026,bookings.csv,27,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B027,bookings,B027,bookings.csv,28,Elevate Bridal Boutique,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+bookings:B028,bookings,B028,bookings.csv,29,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B029,bookings,B029,bookings.csv,30,Riverbend Barbershop,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+bookings:B030,bookings,B030,bookings.csv,31,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B031,bookings,B031,bookings.csv,32,Cedar,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+bookings:B032,bookings,B032,bookings.csv,33,Haddad Ins,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+bookings:B033,bookings,B033,bookings.csv,34,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B034,bookings,B034,bookings.csv,35,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+bookings:B035,bookings,B035,bookings.csv,36,Calm & Collected,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+bookings:B036,bookings,B036,bookings.csv,37,Apex Med Spa - Frisco,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+bookings:B037,bookings,B037,bookings.csv,38,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B038,bookings,B038,bookings.csv,39,Angela Hassan DDS,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+bookings:B039,bookings,B039,bookings.csv,40,Northpoint Fit,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+bookings:B040,bookings,B040,bookings.csv,41,Hale Dental PLLC,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+bookings:B041,bookings,B041,bookings.csv,42,Oak Lane Medspa,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+bookings:B042,bookings,B042,bookings.csv,43,Imran Haddad,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+bookings:B043,bookings,B043,bookings.csv,44,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B044,bookings,B044,bookings.csv,45,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B045,bookings,B045,bookings.csv,46,Jareds Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B046,bookings,B046,bookings.csv,47,Dr. Novak,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+bookings:B047,bookings,B047,bookings.csv,48,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B048,bookings,B048,bookings.csv,49,Sunset Peds,qcho@sunsetpeds.com,,,CL-77e6a157,email,100.0,,CL-77e6a157,,Sunset Pediatrics
+bookings:B049,bookings,B049,bookings.csv,50,Hale Family Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+bookings:B050,bookings,B050,bookings.csv,51,Walsh Law,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+bookings:B051,bookings,B051,bookings.csv,52,Elevate Bridal,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+bookings:B052,bookings,B052,bookings.csv,53,Juniper Wealth Partners,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B053,bookings,B053,bookings.csv,54,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B054,bookings,B054,bookings.csv,55,Riverbend Barbers,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+bookings:B055,bookings,B055,bookings.csv,56,Lakeside Coffee Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+bookings:B056,bookings,B056,bookings.csv,57,Calm & Collected,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+bookings:B057,bookings,B057,bookings.csv,58,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B058,bookings,B058,bookings.csv,59,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B059,bookings,B059,bookings.csv,60,Glow Builders LLC,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+bookings:B060,bookings,B060,bookings.csv,61,Luna PT,jrivera@lunaptdallas.com,,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+bookings:B061,bookings,B061,bookings.csv,62,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B062,bookings,B062,bookings.csv,63,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B063,bookings,B063,bookings.csv,64,Cedar Builders LLC,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+bookings:B064,bookings,B064,bookings.csv,65,Apex Medspa,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+bookings:B065,bookings,B065,bookings.csv,66,Oak Lane Medspa,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+bookings:B066,bookings,B066,bookings.csv,67,Dr. Novak,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+bookings:B067,bookings,B067,bookings.csv,68,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B068,bookings,B068,bookings.csv,69,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B069,bookings,B069,bookings.csv,70,Imran Haddad,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+bookings:B070,bookings,B070,bookings.csv,71,Jareds Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B071,bookings,B071,bookings.csv,72,Pecan,trent@pecangym.co,,,CL-e964e11d,email,100.0,,CL-e964e11d,,Pecan Athletics
+bookings:B072,bookings,B072,bookings.csv,73,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B073,bookings,B073,bookings.csv,74,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B074,bookings,B074,bookings.csv,75,Walsh Law Firm PLLC,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+bookings:B075,bookings,B075,bookings.csv,76,Northpoint,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+bookings:B076,bookings,B076,bookings.csv,77,Kelsey Hale,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+bookings:B077,bookings,B077,bookings.csv,78,Horizon Family Therapy,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+bookings:B078,bookings,B078,bookings.csv,79,The Parkside Lab,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+bookings:B079,bookings,B079,bookings.csv,80,Malik's Auto Spa,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+bookings:B080,bookings,B080,bookings.csv,81,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B081,bookings,B081,bookings.csv,82,Lakeside Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+bookings:B082,bookings,B082,bookings.csv,83,Nadia Hassan,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+bookings:B083,bookings,B083,bookings.csv,84,Riverbend Barbers,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+bookings:B084,bookings,B084,bookings.csv,85,Sunset Peds,qcho@sunsetpeds.com,,,CL-77e6a157,email,100.0,,CL-77e6a157,,Sunset Pediatrics
+bookings:B085,bookings,B085,bookings.csv,86,Hale Dental,hello@haledental.con,,,CL-db71a0c2,exact_name,100.0,joined on exact name 'hale dental' (same email domain),CL-db71a0c2,,Hale Dental
+bookings:B086,bookings,B086,bookings.csv,87,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B087,bookings,B087,bookings.csv,88,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+bookings:B088,bookings,B088,bookings.csv,89,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B089,bookings,B089,bookings.csv,90,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B090,bookings,B090,bookings.csv,91,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B091,bookings,B091,bookings.csv,92,Angela Hassan DDS,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+bookings:B092,bookings,B092,bookings.csv,93,Luis Foster,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+bookings:B093,bookings,B093,bookings.csv,94,Walsh,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+bookings:B094,bookings,B094,bookings.csv,95,Luna Physical Therapy,jrivera@lunaptdallas.com,,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+bookings:B095,bookings,B095,bookings.csv,96,Aisha Chen,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B096,bookings,B096,bookings.csv,97,Maliks Auto,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+bookings:B097,bookings,B097,bookings.csv,98,Stonebridge Realty Group,nolan@stonebridgerg.com,,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+bookings:B098,bookings,B098,bookings.csv,99,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B099,bookings,B099,bookings.csv,100,NTX Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B100,bookings,B100,bookings.csv,101,Oak Lane Med Spa,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+bookings:B101,bookings,B101,bookings.csv,102,The Parkside Lab,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+bookings:B102,bookings,B102,bookings.csv,103,Jared's Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B103,bookings,B103,bookings.csv,104,Imran Haddad,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+bookings:B104,bookings,B104,bookings.csv,105,Juniper Wealth Partners,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B105,bookings,B105,bookings.csv,106,Kelsey Hale,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+bookings:B106,bookings,B106,bookings.csv,107,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B107,bookings,B107,bookings.csv,108,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+bookings:B108,bookings,B108,bookings.csv,109,Lakeside Coffee,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+bookings:B109,bookings,B109,bookings.csv,110,Glow & Co Builders,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+bookings:B110,bookings,B110,bookings.csv,111,Pecan Athletics,trent@pecanathletics.com,,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+bookings:B111,bookings,B111,bookings.csv,112,Northpoint,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+bookings:B112,bookings,B112,bookings.csv,113,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B113,bookings,B113,bookings.csv,114,Riverbend Barbershop,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+bookings:B114,bookings,B114,bookings.csv,115,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B115,bookings,B115,bookings.csv,116,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B116,bookings,B116,bookings.csv,117,Cedar Builders LLC,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+bookings:B117,bookings,B117,bookings.csv,118,Kindred - Sunset,qcho@sunsetpeds.com,,,CL-77e6a157,email,100.0,,CL-77e6a157,,Sunset Pediatrics
+bookings:B118,bookings,B118,bookings.csv,119,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B119,bookings,B119,bookings.csv,120,Apex Med Spa,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+bookings:B120,bookings,B120,bookings.csv,121,Castillo's Auto Spa,will@castillosautospa.com,,,CL-d5c143ad,email,100.0,,CL-d5c143ad,,Castillo's Auto Spa
+bookings:B121,bookings,B121,bookings.csv,122,Calm & Collected,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+bookings:B122,bookings,B122,bookings.csv,123,Bloom Roofing,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+bookings:B123,bookings,B123,bookings.csv,124,TLC Homecare,dana@tlchomecare.com,,,CL-9fcd3370,email,100.0,,CL-9fcd3370,,TLC Homecare
+bookings:B124,bookings,B124,bookings.csv,125,Hale Dental PLLC,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+bookings:B125,bookings,B125,bookings.csv,126,Parksidelab Coffee,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+bookings:B126,bookings,B126,bookings.csv,127,Jared's Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B127,bookings,B127,bookings.csv,128,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+bookings:B128,bookings,B128,bookings.csv,129,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B129,bookings,B129,bookings.csv,130,Walsh Law Firm PLLC,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+bookings:B130,bookings,B130,bookings.csv,131,Dr. Jen Carter,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+bookings:B131,bookings,B131,bookings.csv,132,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B132,bookings,B132,bookings.csv,133,Lakeside Coffee,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+bookings:B133,bookings,B133,bookings.csv,134,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B134,bookings,B134,bookings.csv,135,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B135,bookings,B135,bookings.csv,136,Elevate Bridal Boutique,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+bookings:B136,bookings,B136,bookings.csv,137,Oak Lane,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+bookings:B137,bookings,B137,bookings.csv,138,Haddad Insurance Group,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+bookings:B138,bookings,B138,bookings.csv,139,Malik's Auto,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+bookings:B139,bookings,B139,bookings.csv,140,Luna Physical Therapy,jrivera@lunaptdallas.com,,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+bookings:B140,bookings,B140,bookings.csv,141,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B141,bookings,B141,bookings.csv,142,Northpoint Fitness,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+bookings:B142,bookings,B142,bookings.csv,143,Hale Family Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+bookings:B143,bookings,B143,bookings.csv,144,Riverbend Barbershop,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+bookings:B144,bookings,B144,bookings.csv,145,Sunset Pediatrics,alana@kindredmktg.com,,,CL-04322672,email,100.0,name 'Sunset Pediatrics' is how another client describes itself; kept with the email match,CL-77e6a157,"booked under payer Kindred Creative's email for 'Sunset Pediatrics', a client this payer pays for",Sunset Pediatrics
+bookings:B145,bookings,B145,bookings.csv,146,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B146,bookings,B146,bookings.csv,147,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B147,bookings,B147,bookings.csv,148,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B148,bookings,B148,bookings.csv,149,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+bookings:B149,bookings,B149,bookings.csv,150,Pecan Athletics,trent@pecanathletics.com,,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+bookings:B150,bookings,B150,bookings.csv,151,Trinity Dental,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+bookings:B151,bookings,B151,bookings.csv,152,Stonebridge Realty Group,nolan@stonebridgerg.com,,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+bookings:B152,bookings,B152,bookings.csv,153,Castillos Auto,will@castillosautospa.com,,,CL-d5c143ad,email,100.0,,CL-d5c143ad,,Castillo's Auto Spa
+bookings:B153,bookings,B153,bookings.csv,154,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B154,bookings,B154,bookings.csv,155,Bloom Roofing,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+bookings:B155,bookings,B155,bookings.csv,156,Stone Bridge Realty LLC,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+bookings:B156,bookings,B156,bookings.csv,157,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B157,bookings,B157,bookings.csv,158,Glow,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+bookings:B158,bookings,B158,bookings.csv,159,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B159,bookings,B159,bookings.csv,160,Cedar Builders LLC,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+bookings:B160,bookings,B160,bookings.csv,161,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+bookings:B161,bookings,B161,bookings.csv,162,Lakeside Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+bookings:B162,bookings,B162,bookings.csv,163,Jared Khan,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+bookings:B163,bookings,B163,bookings.csv,164,Walsh Law,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+bookings:B164,bookings,B164,bookings.csv,165,Juniper Wealth,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+bookings:B165,bookings,B165,bookings.csv,166,Parksidelab Coffee,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+bookings:B166,bookings,B166,bookings.csv,167,Maliks Auto,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+bookings:B167,bookings,B167,bookings.csv,168,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+bookings:B168,bookings,B168,bookings.csv,169,Haddad Insurance,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+bookings:B169,bookings,B169,bookings.csv,170,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+bookings:B170,bookings,B170,bookings.csv,171,Apex Med Spa,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+bookings:B171,bookings,B171,bookings.csv,172,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+bookings:B172,bookings,B172,bookings.csv,173,Luna Physical Therapy,alana@kindredmktg.com,,,CL-04322672,email,100.0,name 'Luna Physical Therapy' is how another client describes itself; kept with the email match,CL-e2355201,"booked under payer Kindred Creative's email for 'Luna Physical Therapy', a client this payer pays for",Luna Physical Therapy
+bookings:B173,bookings,B173,bookings.csv,174,Hale Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+invoices:INV-1001,invoices,INV-1001,invoices.csv,2,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1002,invoices,INV-1002,invoices.csv,3,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1003,invoices,INV-1003,invoices.csv,4,Aisha Chen,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1004,invoices,INV-1004,invoices.csv,5,NTX Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1005,invoices,INV-1005,invoices.csv,6,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1006,invoices,INV-1006,invoices.csv,7,Dr. Alana Hale,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+invoices:INV-1007,invoices,INV-1007,invoices.csv,8,Cedar Builders,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+invoices:INV-1008,invoices,INV-1008,invoices.csv,9,Jared's Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+invoices:INV-1009,invoices,INV-1009,invoices.csv,10,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1010,invoices,INV-1010,invoices.csv,11,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1011,invoices,INV-1011,invoices.csv,12,Apex Med Spa - Plano,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+invoices:INV-1012,invoices,INV-1012,invoices.csv,13,Elevate Bridal,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+invoices:INV-1013,invoices,INV-1013,invoices.csv,14,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1014,invoices,INV-1014,invoices.csv,15,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1015,invoices,INV-1015,invoices.csv,16,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1016,invoices,INV-1016,invoices.csv,17,Maple Chiro,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+invoices:INV-1017,invoices,INV-1017,invoices.csv,18,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1018,invoices,INV-1018,invoices.csv,19,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1019,invoices,INV-1019,invoices.csv,20,Hannah Becker,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+invoices:INV-1020,invoices,INV-1020,invoices.csv,21,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1021,invoices,INV-1021,invoices.csv,22,Oak Lane Med Spa - Frisco,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+invoices:INV-1022,invoices,INV-1022,invoices.csv,23,Jared's Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+invoices:INV-1023,invoices,INV-1023,invoices.csv,24,Aisha Chen,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1024,invoices,INV-1024,invoices.csv,25,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1025,invoices,INV-1025,invoices.csv,26,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1026,invoices,INV-1026,invoices.csv,27,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+invoices:INV-1027,invoices,INV-1027,invoices.csv,28,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+invoices:INV-1028,invoices,INV-1028,invoices.csv,29,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1029,invoices,INV-1029,invoices.csv,30,Cedar & Co Builders,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+invoices:INV-1030,invoices,INV-1030,invoices.csv,31,NTX Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1031,invoices,INV-1031,invoices.csv,32,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1032,invoices,INV-1032,invoices.csv,33,Imran Haddad,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+invoices:INV-1033,invoices,INV-1033,invoices.csv,34,Maple Chiro,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+invoices:INV-1034,invoices,INV-1034,invoices.csv,35,Nadia Hassan,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+invoices:INV-1035,invoices,INV-1035,invoices.csv,36,Walsh Law Firm PLLC,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+invoices:INV-1036,invoices,INV-1036,invoices.csv,37,Juniper Wealth Partners,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1037,invoices,INV-1037,invoices.csv,38,Apex,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+invoices:INV-1038,invoices,INV-1038,invoices.csv,39,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1039,invoices,INV-1039,invoices.csv,40,Trinity Dental,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+invoices:INV-1040,invoices,INV-1040,invoices.csv,41,Northpoint Fitness,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+invoices:INV-1041,invoices,INV-1041,invoices.csv,42,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1042,invoices,INV-1042,invoices.csv,43,Hale Dental,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+invoices:INV-1043,invoices,INV-1043,invoices.csv,44,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1044,invoices,INV-1044,invoices.csv,45,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1045,invoices,INV-1045,invoices.csv,46,Jared's Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+invoices:INV-1046,invoices,INV-1046,invoices.csv,47,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1047,invoices,INV-1047,invoices.csv,48,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1048,invoices,INV-1048,invoices.csv,49,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+invoices:INV-1049,invoices,INV-1049,invoices.csv,50,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1050,invoices,INV-1050,invoices.csv,51,Hale Family Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+invoices:INV-1051,invoices,INV-1051,invoices.csv,52,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+invoices:INV-1052,invoices,INV-1052,invoices.csv,53,Lakeside Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+invoices:INV-1053,invoices,INV-1053,invoices.csv,54,Aisha Chen,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1054,invoices,INV-1054,invoices.csv,55,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1055,invoices,INV-1055,invoices.csv,56,Glow,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+invoices:INV-1056,invoices,INV-1056,invoices.csv,57,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1057,invoices,INV-1057,invoices.csv,58,Juniper Wealth Partners,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1058,invoices,INV-1058,invoices.csv,59,Haddad Insurance Group,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+invoices:INV-1059,invoices,INV-1059,invoices.csv,60,Maple Chiropractic,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+invoices:INV-1060,invoices,INV-1060,invoices.csv,61,Walsh,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+invoices:INV-1061,invoices,INV-1061,invoices.csv,62,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1062,invoices,INV-1062,invoices.csv,63,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1063,invoices,INV-1063,invoices.csv,64,Cedar Builders,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+invoices:INV-1064,invoices,INV-1064,invoices.csv,65,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1065,invoices,INV-1065,invoices.csv,66,Apex Med Spa - Frisco,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+invoices:INV-1066,invoices,INV-1066,invoices.csv,67,Oak Lane,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+invoices:INV-1067,invoices,INV-1067,invoices.csv,68,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1068,invoices,INV-1068,invoices.csv,69,Pecan Gym,trent@pecangym.co,,,CL-e964e11d,email,100.0,,CL-e964e11d,,Pecan Athletics
+invoices:INV-1069,invoices,INV-1069,invoices.csv,70,Jared's Roofing LLC,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+invoices:INV-1070,invoices,INV-1070,invoices.csv,71,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1071,invoices,INV-1071,invoices.csv,72,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1072,invoices,INV-1072,invoices.csv,73,Northpoint Fitness,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+invoices:INV-1073,invoices,INV-1073,invoices.csv,74,Horizon Therapy,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+invoices:INV-1074,invoices,INV-1074,invoices.csv,75,The Parkside Lab,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+invoices:INV-1075,invoices,INV-1075,invoices.csv,76,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1076,invoices,INV-1076,invoices.csv,77,Hale Family Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+invoices:INV-1077,invoices,INV-1077,invoices.csv,78,Malik's Auto,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+invoices:INV-1078,invoices,INV-1078,invoices.csv,79,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1079,invoices,INV-1079,invoices.csv,80,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+invoices:INV-1080,invoices,INV-1080,invoices.csv,81,Riverbend Barbers,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+invoices:INV-1081,invoices,INV-1081,invoices.csv,82,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1082,invoices,INV-1082,invoices.csv,83,Dr Hale,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+invoices:INV-1083,invoices,INV-1083,invoices.csv,84,Elevate Bridal Boutique,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+invoices:INV-1084,invoices,INV-1084,invoices.csv,85,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1085,invoices,INV-1085,invoices.csv,86,NTX Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1086,invoices,INV-1086,invoices.csv,87,Walsh,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+invoices:INV-1087,invoices,INV-1087,invoices.csv,88,Haddad Insurance Group,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+invoices:INV-1088,invoices,INV-1088,invoices.csv,89,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1089,invoices,INV-1089,invoices.csv,90,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1090,invoices,INV-1090,invoices.csv,91,Angela Hassan DDS,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+invoices:INV-1091,invoices,INV-1091,invoices.csv,92,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1092,invoices,INV-1092,invoices.csv,93,Bloom Roofing Co,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+invoices:INV-1093,invoices,INV-1093,invoices.csv,94,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1094,invoices,INV-1094,invoices.csv,95,Stonebridge RG,nolan@stonebridgerg.com,,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+invoices:INV-1095,invoices,INV-1095,invoices.csv,96,Oak Lane Med Spa - Frisco,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+invoices:INV-1096,invoices,INV-1096,invoices.csv,97,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1097,invoices,INV-1097,invoices.csv,98,Malik's Auto Spa,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+invoices:INV-1098,invoices,INV-1098,invoices.csv,99,Parksidelab Coffee,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+invoices:INV-1099,invoices,INV-1099,invoices.csv,100,Jared's Roofing LLC,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+invoices:INV-1100,invoices,INV-1100,invoices.csv,101,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+invoices:INV-1101,invoices,INV-1101,invoices.csv,102,Lakeside Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+invoices:INV-1102,invoices,INV-1102,invoices.csv,103,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1103,invoices,INV-1103,invoices.csv,104,Glow,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+invoices:INV-1104,invoices,INV-1104,invoices.csv,105,Kelsey Hale,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+invoices:INV-1105,invoices,INV-1105,invoices.csv,106,Pecan,trent@pecanathletics.com,,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+invoices:INV-1106,invoices,INV-1106,invoices.csv,107,Hannah Becker,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+invoices:INV-1107,invoices,INV-1107,invoices.csv,108,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1108,invoices,INV-1108,invoices.csv,109,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+invoices:INV-1109,invoices,INV-1109,invoices.csv,110,NTX Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1110,invoices,INV-1110,invoices.csv,111,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1111,invoices,INV-1111,invoices.csv,112,Cedar & Co Builders,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+invoices:INV-1112,invoices,INV-1112,invoices.csv,113,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1113,invoices,INV-1113,invoices.csv,114,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1114,invoices,INV-1114,invoices.csv,115,Apex Med Spa,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+invoices:INV-1115,invoices,INV-1115,invoices.csv,116,Castillos Auto,will@castillosautospa.com,,,CL-d5c143ad,email,100.0,,CL-d5c143ad,,Castillo's Auto Spa
+invoices:INV-1116,invoices,INV-1116,invoices.csv,117,Walsh Law Firm,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+invoices:INV-1117,invoices,INV-1117,invoices.csv,118,Haddad Insurance,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+invoices:INV-1118,invoices,INV-1118,invoices.csv,119,Dana Khan,dana@tlchomecare.com,,,CL-9fcd3370,email,100.0,,CL-9fcd3370,,TLC Homecare
+invoices:INV-1119,invoices,INV-1119,invoices.csv,120,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1120,invoices,INV-1120,invoices.csv,121,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1121,invoices,INV-1121,invoices.csv,122,Alana Hale DDS,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+invoices:INV-1122,invoices,INV-1122,invoices.csv,123,Jareds Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+invoices:INV-1123,invoices,INV-1123,invoices.csv,124,Luis Foster,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+invoices:INV-1124,invoices,INV-1124,invoices.csv,125,Parksidelab Coffee,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+invoices:INV-1125,invoices,INV-1125,invoices.csv,126,Dr. Jen Carter,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+invoices:INV-1126,invoices,INV-1126,invoices.csv,127,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+invoices:INV-1127,invoices,INV-1127,invoices.csv,128,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1128,invoices,INV-1128,invoices.csv,129,Lakeside Coffee Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+invoices:INV-1129,invoices,INV-1129,invoices.csv,130,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1130,invoices,INV-1130,invoices.csv,131,Oak Lane Med Spa - Plano,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+invoices:INV-1131,invoices,INV-1131,invoices.csv,132,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1132,invoices,INV-1132,invoices.csv,133,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1133,invoices,INV-1133,invoices.csv,134,Malik's Auto,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+invoices:INV-1134,invoices,INV-1134,invoices.csv,135,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1135,invoices,INV-1135,invoices.csv,136,Northpoint Fitness,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+invoices:INV-1136,invoices,INV-1136,invoices.csv,137,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+invoices:INV-1137,invoices,INV-1137,invoices.csv,138,Nadia Hassan,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+invoices:INV-1138,invoices,INV-1138,invoices.csv,139,Hale Family Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+invoices:INV-1139,invoices,INV-1139,invoices.csv,140,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+invoices:INV-1140,invoices,INV-1140,invoices.csv,141,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1141,invoices,INV-1141,invoices.csv,142,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1142,invoices,INV-1142,invoices.csv,143,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+invoices:INV-1143,invoices,INV-1143,invoices.csv,144,Kindred Creative,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+invoices:INV-1144,invoices,INV-1144,invoices.csv,145,Pecan Athletics,trent@pecanathletics.com,,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+invoices:INV-1145,invoices,INV-1145,invoices.csv,146,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+invoices:INV-1146,invoices,INV-1146,invoices.csv,147,Nolan Hassan,nolan@stonebridgerg.com,,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+invoices:INV-1147,invoices,INV-1147,invoices.csv,148,Dr. Angela Hassan,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+invoices:INV-1148,invoices,INV-1148,invoices.csv,149,Castillo's Auto,will@castillosautospa.com,,,CL-d5c143ad,email,100.0,,CL-d5c143ad,,Castillo's Auto Spa
+invoices:INV-1149,invoices,INV-1149,invoices.csv,150,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+invoices:INV-1150,invoices,INV-1150,invoices.csv,151,Walsh Law Firm,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+invoices:INV-1151,invoices,INV-1151,invoices.csv,152,Haddad Insurance Group,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+invoices:INV-1152,invoices,INV-1152,invoices.csv,153,Bloom Roofing Co,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+invoices:INV-1153,invoices,INV-1153,invoices.csv,154,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+invoices:INV-1154,invoices,INV-1154,invoices.csv,155,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+invoices:INV-1155,invoices,INV-1155,invoices.csv,156,Apex Med Spa - Frisco,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+payments:P5001,payments,P5001,payments.csv,2,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5002,payments,P5002,payments.csv,3,AISHA CHEN,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5003,payments,P5003,payments.csv,4,JUNIPER WEALTH PARTNERS,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+payments:P5004,payments,P5004,payments.csv,5,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5005,payments,P5005,payments.csv,6,NOLAN IBARRA,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5006,payments,P5006,payments.csv,7,BROOKE BECKER,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+payments:P5007,payments,P5007,payments.csv,8,CEDAR BUILDERS LLC,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+payments:P5008,payments,P5008,payments.csv,9,NTX FOUNDERS,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5009,payments,P5009,payments.csv,10,HALE DENTAL,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+payments:P5010,payments,P5010,payments.csv,11,Juniper Wealth Partners,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+payments:P5011,payments,P5011,payments.csv,12,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5012,payments,P5012,payments.csv,13,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5013,payments,P5013,payments.csv,14,Jared Khan,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+payments:P5014,payments,P5014,payments.csv,15,C&C PODCAST,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5015,payments,P5015,payments.csv,16,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5016,payments,P5016,payments.csv,17,CALM & COLLECTED PODCAST,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5017,payments,P5017,payments.csv,18,Elevate Bridal,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+payments:P5018,payments,P5018,payments.csv,19,Aisha Chen,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5019,payments,P5019,payments.csv,20,Maple Chiropractic,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+payments:P5020,payments,P5020,payments.csv,21,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+payments:P5021,payments,P5021,payments.csv,22,Calm & Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5022,payments,P5022,payments.csv,23,Hannah Becker,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+payments:P5023,payments,P5023,payments.csv,24,Cedar & Co Builders,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+payments:P5024,payments,P5024,payments.csv,25,NTX FOUNDERS,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5025,payments,P5025,payments.csv,26,SILVERLEAF CHURCH,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5026,payments,P5026,payments.csv,27,JAREDS ROOFING,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+payments:P5027,payments,P5027,payments.csv,28,Calm & Collected Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5028,payments,P5028,payments.csv,29,MAPLE CHIROPRACTIC,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+payments:P5029,payments,P5029,payments.csv,30,Juniper Wealth,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+payments:P5030,payments,P5030,payments.csv,31,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5031,payments,P5031,payments.csv,32,Oak Lane Med Spa - Plano,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+payments:P5032,payments,P5032,payments.csv,33,HADDAD INSURANCE,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+payments:P5033,payments,P5033,payments.csv,34,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5034,payments,P5034,payments.csv,35,C&C PODCAST,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5035,payments,P5035,payments.csv,36,Hannah Becker,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+payments:P5036,payments,P5036,payments.csv,37,MATEO LEE,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+payments:P5037,payments,P5037,payments.csv,38,ANGELA HASSAN,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+payments:P5038,payments,P5038,payments.csv,39,Andre Chen,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5039,payments,P5039,payments.csv,40,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5040,payments,P5040,payments.csv,41,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5041,payments,P5041,payments.csv,42,BROOKE BECKER,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+payments:P5042,payments,P5042,payments.csv,43,Jareds Roofing,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+payments:P5043,payments,P5043,payments.csv,44,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5044,payments,P5044,payments.csv,45,Stone Bridge Realty,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+payments:P5045,payments,P5045,payments.csv,46,LAKESIDE COFFEE,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+payments:P5046,payments,P5046,payments.csv,47,Hale Dental PLLC,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+payments:P5047,payments,P5047,payments.csv,48,Walsh Law,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+payments:P5048,payments,P5048,payments.csv,49,NORTH TEXAS FOUNDERS,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5049,payments,P5049,payments.csv,50,AISHA CHEN,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5050,payments,P5050,payments.csv,51,Glow,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+payments:P5051,payments,P5051,payments.csv,52,SILVERLEAF DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5052,payments,P5052,payments.csv,53,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+payments:P5053,payments,P5053,payments.csv,54,WALSH LAW,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+payments:P5054,payments,P5054,payments.csv,55,KINDRED CREATIVE LLC,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+payments:P5055,payments,P5055,payments.csv,56,Elevate Bridal Boutique,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+payments:P5056,payments,P5056,payments.csv,57,Kelsey Hale,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+payments:P5057,payments,P5057,payments.csv,58,Apex Med Spa - Plano,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+payments:P5058,payments,P5058,payments.csv,59,OAK LANE MED SPA,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+payments:P5059,payments,P5059,payments.csv,60,NOLAN IBARRA,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5060,payments,P5060,payments.csv,61,Maple Chiropractic,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+payments:P5061,payments,P5061,payments.csv,62,PASTOR NOLAN IBARRA,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5062,payments,P5062,payments.csv,63,Jared's Roofing LLC,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+payments:P5063,payments,P5063,payments.csv,64,Horizon Family Therapy,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+payments:P5064,payments,P5064,payments.csv,65,NORTHPOINT FITNESS,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+payments:P5066,payments,P5066,payments.csv,66,NOLAN IBARRA,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5067,payments,P5067,payments.csv,67,Haddad Insurance Group,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+payments:P5068,payments,P5068,payments.csv,68,Juniper WP,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+payments:P5069,payments,P5069,payments.csv,69,STONE BRIDGE REALTY,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+payments:P5070,payments,P5070,payments.csv,70,KELSEY HALE,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+payments:P5071,payments,P5071,payments.csv,71,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5072,payments,P5072,payments.csv,72,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+payments:P5073,payments,P5073,payments.csv,73,Pecan Gym TX,trent@pecangym.co,,,CL-e964e11d,email,100.0,,CL-e964e11d,,Pecan Athletics
+payments:P5074,payments,P5074,payments.csv,74,NTX FOUNDERS,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5075,payments,P5075,payments.csv,75,Cedar Builders,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+payments:P5076,payments,P5076,payments.csv,76,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+payments:P5077,payments,P5077,payments.csv,77,Dr Hale,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+payments:P5078,payments,P5078,payments.csv,78,Parksidelab Coffee,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+payments:P5079,payments,P5079,payments.csv,79,AISHA CHEN,,,,CL-1c6c0e65,exact_name,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5080,payments,P5080,payments.csv,80,KINDRED CREATIVE LLC,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+payments:P5081,payments,P5081,payments.csv,81,LUCIA MALIK,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+payments:P5082,payments,P5082,payments.csv,82,Walsh Law,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+payments:P5083,payments,P5083,payments.csv,83,HADDAD INSURANCE GROUP,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+payments:P5084,payments,P5084,payments.csv,84,SILVERLEAF DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5085,payments,P5085,payments.csv,85,ELEVATE BRIDAL BOUTIQUE,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+payments:P5086,payments,P5086,payments.csv,86,LUIS FOSTER,luis@bloomroofingco.com,,,CL-5c4e21b5,email,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+payments:P5087,payments,P5087,payments.csv,87,CALM & COLLECTED PODCAST,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5088,payments,P5088,payments.csv,88,TRINITY DENTAL,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+payments:P5089,payments,P5089,payments.csv,89,Oak Lane Medspa,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+payments:P5090,payments,P5090,payments.csv,90,NTX FOUNDERS,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5091,payments,P5091,payments.csv,91,Malik's Auto Spa,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+payments:P5092,payments,P5092,payments.csv,92,Juniper Wealth,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+payments:P5093,payments,P5093,payments.csv,93,Silverleaf DFW,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5094,payments,P5094,payments.csv,94,Kelsey Lee,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+payments:P5095,payments,P5095,payments.csv,95,Pecan,trent@pecanathletics.com,,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+payments:P5096,payments,P5096,payments.csv,96,ANDRE CHEN,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5097,payments,P5097,payments.csv,97,Northpoint,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+payments:P5098,payments,P5098,payments.csv,98,Silverleaf Church,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5099,payments,P5099,payments.csv,99,Apex Medspa,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+payments:P5100,payments,P5100,payments.csv,100,Lakeside Roasters,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+payments:P5101,payments,P5101,payments.csv,101,THE PARKSIDE LAB,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+payments:P5102,payments,P5102,payments.csv,102,Glow Builders,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+payments:P5103,payments,P5103,payments.csv,103,KINDRED CREATIVE LLC,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+payments:P5104,payments,P5104,payments.csv,104,C&C Podcast,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5105,payments,P5105,payments.csv,105,IMRAN HADDAD,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+payments:P5106,payments,P5106,payments.csv,106,WILL CASTILLO,will@castillosautospa.com,,,CL-d5c143ad,email,100.0,,CL-d5c143ad,,Castillo's Auto Spa
+payments:P5107,payments,P5107,payments.csv,107,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5108,payments,P5108,payments.csv,108,JARED KHAN,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+payments:P5109,payments,P5109,payments.csv,109,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5110,payments,P5110,payments.csv,110,Nadia Hassan,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+payments:P5111,payments,P5111,payments.csv,111,AISHA CHEN,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5112,payments,P5112,payments.csv,112,ALANA HALE,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+payments:P5113,payments,P5113,payments.csv,113,Hale Family Law,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+payments:P5114,payments,P5114,payments.csv,114,LUIS FOSTER,,,,CL-5c4e21b5,exact_name,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+payments:P5115,payments,P5115,payments.csv,115,Riverbend Barbershop,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+payments:P5116,payments,P5116,payments.csv,116,North Texas Founders,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5117,payments,P5117,payments.csv,117,LAKESIDE COFFEE,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+payments:P5118,payments,P5118,payments.csv,118,MALIK'S AUTO SPA,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+payments:P5119,payments,P5119,payments.csv,119,Calm and Collected,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5120,payments,P5120,payments.csv,120,WALSH LAW,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+payments:P5121,payments,P5121,payments.csv,121,NTX FOUNDERS,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+payments:P5122,payments,P5122,payments.csv,122,NADIA HASSAN,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+payments:P5123,payments,P5123,payments.csv,123,NORTHPOINT,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+payments:P5124,payments,P5124,payments.csv,124,SILVERLEAF CHURCH,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5125,payments,P5125,payments.csv,125,CALM & COLLECTED PODCAST,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+payments:P5126,payments,P5126,payments.csv,126,JEN CARTER,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+payments:P5127,payments,P5127,payments.csv,127,Mateo Lee,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+payments:P5128,payments,P5128,payments.csv,128,PECAN,trent@pecanathletics.com,,,CL-e964e11d,announced_alias,100.0,email trent@pecanathletics.com announced by the client in a message on 2026-08-01 08:27 (messages.txt line 104),CL-e964e11d,,Pecan Athletics
+payments:P5129,payments,P5129,payments.csv,129,Silverleaf Media Team,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+payments:P5130,payments,P5130,payments.csv,130,Elevate Bridal,kelsey@elevatebridal.com,,,CL-46d0243c,email,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+payments:P5131,payments,P5131,payments.csv,131,KINDRED CREATIVE LLC,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+payments:P5132,payments,P5132,payments.csv,132,OAK LANE MEDSPA,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+production:V001,production,V001,production_board.csv,2,Alana Hale DDS,,,,CL-db71a0c2,exact_name,100.0,,CL-db71a0c2,,Hale Dental
+production:V002,production,V002,production_board.csv,3,Alana Hale DDS,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B005,CL-db71a0c2,,Hale Dental
+production:V003,production,V003,production_board.csv,4,Alana Hale DDS,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B005,CL-db71a0c2,,Hale Dental
+production:V004,production,V004,production_board.csv,5,Alana Hale DDS,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B005,CL-db71a0c2,,Hale Dental
+production:V005,production,V005,production_board.csv,6,Cedar Builders,,,,CL-e14662a1,exact_name,100.0,,CL-e14662a1,,Cedar Builders
+production:V006,production,V006,production_board.csv,7,Cedar Builders LLC,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B006,CL-e14662a1,,Cedar Builders
+production:V007,production,V007,production_board.csv,8,Cedar Builders,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B006,CL-e14662a1,,Cedar Builders
+production:V008,production,V008,production_board.csv,9,Cedar Builders LLC,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B006,CL-e14662a1,,Cedar Builders
+production:V009,production,V009,production_board.csv,10,Jared's Roofing LLC,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B007,CL-9acd91da,,Jared's Roofing
+production:V010,production,V010,production_board.csv,11,Jared Khan,,,,CL-9acd91da,exact_name,100.0,,CL-9acd91da,,Jared's Roofing
+production:V011,production,V011,production_board.csv,12,Jared Khan,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B007,CL-9acd91da,,Jared's Roofing
+production:V012,production,V012,production_board.csv,13,Apex Medspa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B010,CL-ddfb4fe5,,Apex Medspa
+production:V013,production,V013,production_board.csv,14,Apex Med Spa - Frisco,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B010,CL-ddfb4fe5,,Apex Medspa
+production:V014,production,V014,production_board.csv,15,Apex Med Spa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B010,CL-ddfb4fe5,,Apex Medspa
+production:V015,production,V015,production_board.csv,16,Apex Medspa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B010,CL-ddfb4fe5,,Apex Medspa
+production:V016,production,V016,production_board.csv,17,Kelsey Lee,,,,CL-46d0243c,exact_name,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+production:V017,production,V017,production_board.csv,18,Elevate Bridal,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B011,CL-46d0243c,,Elevate Bridal Boutique
+production:V018,production,V018,production_board.csv,19,Elevate Bridal Boutique,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B011,CL-46d0243c,,Elevate Bridal Boutique
+production:V019,production,V019,production_board.csv,20,Juniper Wealth,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B014,CL-0807ac07,,Juniper Wealth Partners
+production:V020,production,V020,production_board.csv,21,Juniper Wealth Partners,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B014,CL-0807ac07,,Juniper Wealth Partners
+production:V021,production,V021,production_board.csv,22,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B014,CL-0807ac07,,Juniper Wealth Partners
+production:V022,production,V022,production_board.csv,23,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B014,CL-0807ac07,,Juniper Wealth Partners
+production:V023,production,V023,production_board.csv,24,Hannah Becker,,,,CL-55c15000,booking_reference,100.0,shoot_booking B018,CL-55c15000,,Northpoint Fitness
+production:V024,production,V024,production_board.csv,25,Hannah Becker,,,,CL-55c15000,booking_reference,100.0,shoot_booking B018,CL-55c15000,,Northpoint Fitness
+production:V025,production,V025,production_board.csv,26,Northpoint Fit,,,,CL-55c15000,booking_reference,100.0,shoot_booking B018,CL-55c15000,,Northpoint Fitness
+production:V026,production,V026,production_board.csv,27,Walsh,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B019,CL-e417c8fb,,Walsh Law Firm
+production:V027,production,V027,production_board.csv,28,Walsh Law Firm,,,,CL-e417c8fb,exact_name,100.0,,CL-e417c8fb,,Walsh Law Firm
+production:V028,production,V028,production_board.csv,29,Walsh Law,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B019,CL-e417c8fb,,Walsh Law Firm
+production:V029,production,V029,production_board.csv,30,Walsh,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B019,CL-e417c8fb,,Walsh Law Firm
+production:V030,production,V030,production_board.csv,31,Jared's Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B020,CL-9acd91da,,Jared's Roofing
+production:V031,production,V031,production_board.csv,32,Jared Khan,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B020,CL-9acd91da,,Jared's Roofing
+production:V032,production,V032,production_board.csv,33,Jared's Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B020,CL-9acd91da,,Jared's Roofing
+production:V033,production,V033,production_board.csv,34,Oak Lane Med Spa,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B021,CL-0a1a5b45,,Oak Lane
+production:V034,production,V034,production_board.csv,35,Oak Lane Med Spa - Frisco,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B021,CL-0a1a5b45,,Oak Lane
+production:V035,production,V035,production_board.csv,36,Oak Lane Med Spa,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B021,CL-0a1a5b45,,Oak Lane
+production:V036,production,V036,production_board.csv,37,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B023,CL-0807ac07,,Juniper Wealth Partners
+production:V037,production,V037,production_board.csv,38,Juniper Wealth,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B023,CL-0807ac07,,Juniper Wealth Partners
+production:V038,production,V038,production_board.csv,39,Juniper Wealth Partners,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B023,CL-0807ac07,,Juniper Wealth Partners
+production:V039,production,V039,production_board.csv,40,Juniper Wealth,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B023,CL-0807ac07,,Juniper Wealth Partners
+production:V040,production,V040,production_board.csv,41,Maple Chiropractic,,,,CL-7c2ca1c4,exact_name,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+production:V041,production,V041,production_board.csv,42,Dr. Novak,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B025,CL-7c2ca1c4,,Maple Chiropractic
+production:V042,production,V042,production_board.csv,43,Maple Chiro,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B025,CL-7c2ca1c4,,Maple Chiropractic
+production:V043,production,V043,production_board.csv,44,Dr. Novak,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B025,CL-7c2ca1c4,,Maple Chiropractic
+production:V044,production,V044,production_board.csv,45,Elevate Bridal Boutique,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B027,CL-46d0243c,,Elevate Bridal Boutique
+production:V045,production,V045,production_board.csv,46,Elevate Bridal Boutique,,,,CL-46d0243c,exact_name,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+production:V046,production,V046,production_board.csv,47,Kelsey Lee,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B027,CL-46d0243c,,Elevate Bridal Boutique
+production:V047,production,V047,production_board.csv,48,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B029,CL-69e7c342,,Riverbend Barbershop
+production:V048,production,V048,production_board.csv,49,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B029,CL-69e7c342,,Riverbend Barbershop
+production:V049,production,V049,production_board.csv,50,Riverbend Barbers,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B029,CL-69e7c342,,Riverbend Barbershop
+production:V050,production,V050,production_board.csv,51,Cedar & Co Builders,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B031,CL-e14662a1,,Cedar Builders
+production:V051,production,V051,production_board.csv,52,Cedar & Co Builders,,,,CL-e14662a1,exact_name,100.0,,CL-e14662a1,,Cedar Builders
+production:V052,production,V052,production_board.csv,53,Cedar,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B031,CL-e14662a1,,Cedar Builders
+production:V053,production,V053,production_board.csv,54,Cedar Builders,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B031,CL-e14662a1,,Cedar Builders
+production:V054,production,V054,production_board.csv,55,Haddad Ins,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B032,CL-a65b9793,,Haddad Insurance Group
+production:V055,production,V055,production_board.csv,56,Haddad Ins,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B032,CL-a65b9793,,Haddad Insurance Group
+production:V056,production,V056,production_board.csv,57,Imran Haddad,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B032,CL-a65b9793,,Haddad Insurance Group
+production:V057,production,V057,production_board.csv,58,Haddad Insurance Group,,,,CL-a65b9793,exact_name,100.0,,CL-a65b9793,,Haddad Insurance Group
+production:V058,production,V058,production_board.csv,59,Stone Bridge Realty,,,,CL-369a5199,booking_reference,100.0,shoot_booking B034,CL-369a5199,,Stone Bridge Realty
+production:V059,production,V059,production_board.csv,60,Stone Bridge Realty LLC,,,,CL-369a5199,exact_name,100.0,,CL-369a5199,,Stone Bridge Realty
+production:V060,production,V060,production_board.csv,61,Nadia Hassan,,,,CL-369a5199,booking_reference,100.0,shoot_booking B034,CL-369a5199,,Stone Bridge Realty
+production:V061,production,V061,production_board.csv,62,Stone Bridge Realty,,,,CL-369a5199,booking_reference,100.0,shoot_booking B034,CL-369a5199,,Stone Bridge Realty
+production:V062,production,V062,production_board.csv,63,Apex Med Spa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B036,CL-ddfb4fe5,,Apex Medspa
+production:V063,production,V063,production_board.csv,64,Apex,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B036,CL-ddfb4fe5,,Apex Medspa
+production:V064,production,V064,production_board.csv,65,Apex Med Spa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B036,CL-ddfb4fe5,,Apex Medspa
+production:V065,production,V065,production_board.csv,66,Apex Med Spa - Frisco,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B036,CL-ddfb4fe5,,Apex Medspa
+production:V066,production,V066,production_board.csv,67,Dr. Angela Hassan,,,,CL-e496b846,booking_reference,100.0,shoot_booking B038,CL-e496b846,,Trinity Dental
+production:V067,production,V067,production_board.csv,68,Trinity Dental,,,,CL-e496b846,booking_reference,100.0,shoot_booking B038,CL-e496b846,,Trinity Dental
+production:V068,production,V068,production_board.csv,69,Angela Hassan DDS,,,,CL-e496b846,booking_reference,100.0,shoot_booking B038,CL-e496b846,,Trinity Dental
+production:V069,production,V069,production_board.csv,70,Trinity Dental,,,,CL-e496b846,booking_reference,100.0,shoot_booking B038,CL-e496b846,,Trinity Dental
+production:V070,production,V070,production_board.csv,71,Northpoint Fitness,,,,CL-55c15000,booking_reference,100.0,shoot_booking B039,CL-55c15000,,Northpoint Fitness
+production:V071,production,V071,production_board.csv,72,Hannah Becker,,,,CL-55c15000,booking_reference,100.0,shoot_booking B039,CL-55c15000,,Northpoint Fitness
+production:V072,production,V072,production_board.csv,73,Northpoint Fitness,,,,CL-55c15000,booking_reference,100.0,shoot_booking B039,CL-55c15000,,Northpoint Fitness
+production:V073,production,V073,production_board.csv,74,Hale Dental,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B040,CL-db71a0c2,,Hale Dental
+production:V074,production,V074,production_board.csv,75,Hale Dental,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B040,CL-db71a0c2,,Hale Dental
+production:V075,production,V075,production_board.csv,76,Dr. Alana Hale,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B040,CL-db71a0c2,,Hale Dental
+production:V076,production,V076,production_board.csv,77,Hale Dental PLLC,,,,CL-db71a0c2,exact_name,100.0,,CL-db71a0c2,,Hale Dental
+production:V077,production,V077,production_board.csv,78,Oak Lane,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B041,CL-0a1a5b45,,Oak Lane
+production:V078,production,V078,production_board.csv,79,Oak Lane Med Spa,,,,CL-0a1a5b45,exact_name,100.0,,CL-0a1a5b45,,Oak Lane
+production:V079,production,V079,production_board.csv,80,Oak Lane Medspa,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B041,CL-0a1a5b45,,Oak Lane
+production:V080,production,V080,production_board.csv,81,Imran Haddad,,,,CL-a65b9793,exact_name,100.0,,CL-a65b9793,,Haddad Insurance Group
+production:V081,production,V081,production_board.csv,82,Haddad Insurance,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B042,CL-a65b9793,,Haddad Insurance Group
+production:V082,production,V082,production_board.csv,83,Haddad Insurance Group,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B042,CL-a65b9793,,Haddad Insurance Group
+production:V083,production,V083,production_board.csv,84,Haddad Ins,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B042,CL-a65b9793,,Haddad Insurance Group
+production:V084,production,V084,production_board.csv,85,Jareds Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B045,CL-9acd91da,,Jared's Roofing
+production:V085,production,V085,production_board.csv,86,Jareds Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B045,CL-9acd91da,,Jared's Roofing
+production:V086,production,V086,production_board.csv,87,Jared's Roofing LLC,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B045,CL-9acd91da,,Jared's Roofing
+production:V087,production,V087,production_board.csv,88,Maple Chiropractic,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B046,CL-7c2ca1c4,,Maple Chiropractic
+production:V088,production,V088,production_board.csv,89,Maple Chiropractic,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B046,CL-7c2ca1c4,,Maple Chiropractic
+production:V089,production,V089,production_board.csv,90,Maple Chiropractic,,,,CL-7c2ca1c4,exact_name,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+production:V090,production,V090,production_board.csv,91,Dr. Novak,,,,CL-7c2ca1c4,exact_name,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+production:V091,production,V091,production_board.csv,92,Kindred - Sunset,,,,CL-77e6a157,booking_reference,100.0,shoot_booking B048,CL-77e6a157,,Sunset Pediatrics
+production:V092,production,V092,production_board.csv,93,Sunset Peds,,,,CL-77e6a157,exact_name,100.0,,CL-77e6a157,,Sunset Pediatrics
+production:V093,production,V093,production_board.csv,94,Sunset Peds,,,,CL-77e6a157,exact_name,100.0,,CL-77e6a157,,Sunset Pediatrics
+production:V094,production,V094,production_board.csv,95,Hale Law,,,,CL-305525b2,booking_reference,100.0,shoot_booking B049,CL-305525b2,,Hale Family Law PLLC
+production:V095,production,V095,production_board.csv,96,Hale Family Law PLLC,,,,CL-305525b2,booking_reference,100.0,shoot_booking B049,CL-305525b2,,Hale Family Law PLLC
+production:V096,production,V096,production_board.csv,97,Hale Law,,,,CL-305525b2,booking_reference,100.0,shoot_booking B049,CL-305525b2,,Hale Family Law PLLC
+production:V097,production,V097,production_board.csv,98,Walsh Law Firm,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B050,CL-e417c8fb,,Walsh Law Firm
+production:V098,production,V098,production_board.csv,99,Walsh Law Firm PLLC,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B050,CL-e417c8fb,,Walsh Law Firm
+production:V099,production,V099,production_board.csv,100,Walsh,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B050,CL-e417c8fb,,Walsh Law Firm
+production:V100,production,V100,production_board.csv,101,Walsh Law,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B050,CL-e417c8fb,,Walsh Law Firm
+production:V101,production,V101,production_board.csv,102,Elevate Bridal,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B051,CL-46d0243c,,Elevate Bridal Boutique
+production:V102,production,V102,production_board.csv,103,Elevate Bridal Boutique,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B051,CL-46d0243c,,Elevate Bridal Boutique
+production:V103,production,V103,production_board.csv,104,Kelsey Lee,,,,CL-46d0243c,exact_name,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+production:V104,production,V104,production_board.csv,105,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B052,CL-0807ac07,,Juniper Wealth Partners
+production:V105,production,V105,production_board.csv,106,Juniper Wealth Partners,,,,CL-0807ac07,exact_name,100.0,,CL-0807ac07,,Juniper Wealth Partners
+production:V106,production,V106,production_board.csv,107,Juniper Wealth Partners,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B052,CL-0807ac07,,Juniper Wealth Partners
+production:V107,production,V107,production_board.csv,108,Juniper Wealth,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B052,CL-0807ac07,,Juniper Wealth Partners
+production:V108,production,V108,production_board.csv,109,Riverbend Barbers,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B054,CL-69e7c342,,Riverbend Barbershop
+production:V109,production,V109,production_board.csv,110,Mateo Lee,,,,CL-69e7c342,exact_name,100.0,,CL-69e7c342,,Riverbend Barbershop
+production:V110,production,V110,production_board.csv,111,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B054,CL-69e7c342,,Riverbend Barbershop
+production:V111,production,V111,production_board.csv,112,Lakeside Coffee Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B055,CL-41da6c70,,Lakeside Roasters
+production:V112,production,V112,production_board.csv,113,Lakeside Coffee Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B055,CL-41da6c70,,Lakeside Roasters
+production:V113,production,V113,production_board.csv,114,Lakeside Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B055,CL-41da6c70,,Lakeside Roasters
+production:V114,production,V114,production_board.csv,115,Glow & Co Builders,,,,CL-40a78905,booking_reference,100.0,shoot_booking B059,CL-40a78905,,Glow Builders
+production:V115,production,V115,production_board.csv,116,Glow Builders,,,,CL-40a78905,booking_reference,100.0,shoot_booking B059,CL-40a78905,,Glow Builders
+production:V116,production,V116,production_board.csv,117,Glow Builders LLC,,,,CL-40a78905,booking_reference,100.0,shoot_booking B059,CL-40a78905,,Glow Builders
+production:V117,production,V117,production_board.csv,118,Glow & Co Builders,,,,CL-40a78905,exact_name,100.0,,CL-40a78905,,Glow Builders
+production:V118,production,V118,production_board.csv,119,Luna Physical Therapy,,,,CL-e2355201,booking_reference,100.0,shoot_booking B060,CL-e2355201,,Luna Physical Therapy
+production:V119,production,V119,production_board.csv,120,Luna PT,,,,CL-e2355201,booking_reference,100.0,shoot_booking B060,CL-e2355201,,Luna Physical Therapy
+production:V120,production,V120,production_board.csv,121,Luna PT Dallas,,,,CL-e2355201,booking_reference,100.0,shoot_booking B060,CL-e2355201,,Luna Physical Therapy
+production:V121,production,V121,production_board.csv,122,Cedar,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B063,CL-e14662a1,,Cedar Builders
+production:V122,production,V122,production_board.csv,123,Cedar,,,,CL-e14662a1,exact_name,100.0,,CL-e14662a1,,Cedar Builders
+production:V123,production,V123,production_board.csv,124,Cedar Builders LLC,,,,CL-e14662a1,exact_name,100.0,,CL-e14662a1,,Cedar Builders
+production:V124,production,V124,production_board.csv,125,Cedar & Co Builders,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B063,CL-e14662a1,,Cedar Builders
+production:V125,production,V125,production_board.csv,126,Apex Medspa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B064,CL-ddfb4fe5,,Apex Medspa
+production:V126,production,V126,production_board.csv,127,Apex Med Spa - Frisco,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B064,CL-ddfb4fe5,,Apex Medspa
+production:V127,production,V127,production_board.csv,128,Apex Med Spa - Frisco,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B064,CL-ddfb4fe5,,Apex Medspa
+production:V128,production,V128,production_board.csv,129,Apex Medspa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B064,CL-ddfb4fe5,,Apex Medspa
+production:V129,production,V129,production_board.csv,130,Oak Lane,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B065,CL-0a1a5b45,,Oak Lane
+production:V130,production,V130,production_board.csv,131,Oak Lane Med Spa,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B065,CL-0a1a5b45,,Oak Lane
+production:V131,production,V131,production_board.csv,132,Oak Lane Med Spa - Frisco,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B065,CL-0a1a5b45,,Oak Lane
+production:V132,production,V132,production_board.csv,133,Maple Chiro,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B066,CL-7c2ca1c4,,Maple Chiropractic
+production:V133,production,V133,production_board.csv,134,Maple Chiro,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B066,CL-7c2ca1c4,,Maple Chiropractic
+production:V134,production,V134,production_board.csv,135,Dr. Novak,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B066,CL-7c2ca1c4,,Maple Chiropractic
+production:V135,production,V135,production_board.csv,136,Maple Chiropractic,,,,CL-7c2ca1c4,booking_reference,100.0,shoot_booking B066,CL-7c2ca1c4,,Maple Chiropractic
+production:V136,production,V136,production_board.csv,137,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B068,CL-0807ac07,,Juniper Wealth Partners
+production:V137,production,V137,production_board.csv,138,Juniper WP,,,,CL-0807ac07,exact_name,100.0,,CL-0807ac07,,Juniper Wealth Partners
+production:V138,production,V138,production_board.csv,139,Juniper Wealth,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B068,CL-0807ac07,,Juniper Wealth Partners
+production:V139,production,V139,production_board.csv,140,Juniper Wealth Partners,,,,CL-0807ac07,exact_name,100.0,,CL-0807ac07,,Juniper Wealth Partners
+production:V140,production,V140,production_board.csv,141,Haddad Insurance Group,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B069,CL-a65b9793,,Haddad Insurance Group
+production:V141,production,V141,production_board.csv,142,Haddad Insurance Group,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B069,CL-a65b9793,,Haddad Insurance Group
+production:V142,production,V142,production_board.csv,143,Haddad Insurance,,,,CL-a65b9793,exact_name,100.0,,CL-a65b9793,,Haddad Insurance Group
+production:V143,production,V143,production_board.csv,144,Haddad Insurance Group,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B069,CL-a65b9793,,Haddad Insurance Group
+production:V144,production,V144,production_board.csv,145,Jareds Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B070,CL-9acd91da,,Jared's Roofing
+production:V145,production,V145,production_board.csv,146,Jared's Roofing,,,,CL-9acd91da,exact_name,100.0,,CL-9acd91da,,Jared's Roofing
+production:V146,production,V146,production_board.csv,147,Jared's Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B070,CL-9acd91da,,Jared's Roofing
+production:V147,production,V147,production_board.csv,148,Pecan Gym,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B071,CL-e964e11d,,Pecan Athletics
+production:V148,production,V148,production_board.csv,149,Trent Haddad,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B071,CL-e964e11d,,Pecan Athletics
+production:V149,production,V149,production_board.csv,150,Pecan Gym TX,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B071,CL-e964e11d,,Pecan Athletics
+production:V150,production,V150,production_board.csv,151,Walsh,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B074,CL-e417c8fb,,Walsh Law Firm
+production:V151,production,V151,production_board.csv,152,Walsh Law Firm PLLC,,,,CL-e417c8fb,exact_name,100.0,,CL-e417c8fb,,Walsh Law Firm
+production:V152,production,V152,production_board.csv,153,Walsh,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B074,CL-e417c8fb,,Walsh Law Firm
+production:V153,production,V153,production_board.csv,154,Walsh Law Firm PLLC,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B074,CL-e417c8fb,,Walsh Law Firm
+production:V154,production,V154,production_board.csv,155,Hannah Becker,,,,CL-55c15000,booking_reference,100.0,shoot_booking B075,CL-55c15000,,Northpoint Fitness
+production:V155,production,V155,production_board.csv,156,Northpoint,,,,CL-55c15000,exact_name,100.0,,CL-55c15000,,Northpoint Fitness
+production:V156,production,V156,production_board.csv,157,Northpoint Fit,,,,CL-55c15000,exact_name,100.0,,CL-55c15000,,Northpoint Fitness
+production:V157,production,V157,production_board.csv,158,Kelsey Hale,,,,CL-305525b2,booking_reference,100.0,shoot_booking B076,CL-305525b2,,Hale Family Law PLLC
+production:V158,production,V158,production_board.csv,159,Hale Law,,,,CL-305525b2,booking_reference,100.0,shoot_booking B076,CL-305525b2,,Hale Family Law PLLC
+production:V159,production,V159,production_board.csv,160,Kelsey Hale,,,,CL-305525b2,booking_reference,100.0,shoot_booking B076,CL-305525b2,,Hale Family Law PLLC
+production:V160,production,V160,production_board.csv,161,Horizon Therapy,,,,CL-5c3fadfb,exact_name,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+production:V161,production,V161,production_board.csv,162,Horizon Family Therapy,,,,CL-5c3fadfb,booking_reference,100.0,shoot_booking B077,CL-5c3fadfb,,Horizon Family Therapy
+production:V162,production,V162,production_board.csv,163,Dr. Jen Carter,,,,CL-5c3fadfb,booking_reference,100.0,shoot_booking B077,CL-5c3fadfb,,Horizon Family Therapy
+production:V163,production,V163,production_board.csv,164,Dr. Jen Carter,,,,CL-5c3fadfb,booking_reference,100.0,shoot_booking B077,CL-5c3fadfb,,Horizon Family Therapy
+production:V164,production,V164,production_board.csv,165,Parkside Lab,,,,CL-cb77f582,exact_name,100.0,,CL-cb77f582,,The Parkside Lab
+production:V165,production,V165,production_board.csv,166,Parkside Lab,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B078,CL-cb77f582,,The Parkside Lab
+production:V166,production,V166,production_board.csv,167,The Parkside Lab,,,,CL-cb77f582,exact_name,100.0,,CL-cb77f582,,The Parkside Lab
+production:V167,production,V167,production_board.csv,168,Malik's Auto Spa,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B079,CL-abfeafab,,Malik's Auto Spa
+production:V168,production,V168,production_board.csv,169,Malik's Auto Spa,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B079,CL-abfeafab,,Malik's Auto Spa
+production:V169,production,V169,production_board.csv,170,Malik's Auto Spa,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B079,CL-abfeafab,,Malik's Auto Spa
+production:V170,production,V170,production_board.csv,171,Lakeside Coffee Roasters,,,,CL-41da6c70,exact_name,100.0,,CL-41da6c70,,Lakeside Roasters
+production:V171,production,V171,production_board.csv,172,Lakeside Coffee Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B081,CL-41da6c70,,Lakeside Roasters
+production:V172,production,V172,production_board.csv,173,Lakeside Coffee,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B081,CL-41da6c70,,Lakeside Roasters
+production:V173,production,V173,production_board.csv,174,Nadia Hassan,,,,CL-369a5199,booking_reference,100.0,shoot_booking B082,CL-369a5199,,Stone Bridge Realty
+production:V174,production,V174,production_board.csv,175,Stone Bridge Realty LLC,,,,CL-369a5199,booking_reference,100.0,shoot_booking B082,CL-369a5199,,Stone Bridge Realty
+production:V175,production,V175,production_board.csv,176,Stone Bridge Realty LLC,,,,CL-369a5199,exact_name,100.0,,CL-369a5199,,Stone Bridge Realty
+production:V176,production,V176,production_board.csv,177,Stone Bridge Realty,,,,CL-369a5199,exact_name,100.0,,CL-369a5199,,Stone Bridge Realty
+production:V177,production,V177,production_board.csv,178,Riverbend Barbers,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B083,CL-69e7c342,,Riverbend Barbershop
+production:V178,production,V178,production_board.csv,179,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B083,CL-69e7c342,,Riverbend Barbershop
+production:V179,production,V179,production_board.csv,180,Mateo Lee,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B083,CL-69e7c342,,Riverbend Barbershop
+production:V180,production,V180,production_board.csv,181,Sunset Peds,,,,CL-77e6a157,booking_reference,100.0,shoot_booking B084,CL-77e6a157,,Sunset Pediatrics
+production:V181,production,V181,production_board.csv,182,Kindred - Sunset,,,,CL-77e6a157,booking_reference,100.0,shoot_booking B084,CL-77e6a157,,Sunset Pediatrics
+production:V182,production,V182,production_board.csv,183,Sunset Pediatrics,,,,CL-77e6a157,booking_reference,100.0,shoot_booking B084,CL-77e6a157,,Sunset Pediatrics
+production:V183,production,V183,production_board.csv,184,Alana Hale DDS,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B085,CL-db71a0c2,,Hale Dental
+production:V184,production,V184,production_board.csv,185,Hale Dental PLLC,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B085,CL-db71a0c2,,Hale Dental
+production:V185,production,V185,production_board.csv,186,Alana Hale DDS,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B085,CL-db71a0c2,,Hale Dental
+production:V186,production,V186,production_board.csv,187,Hale Dental,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B085,CL-db71a0c2,,Hale Dental
+production:V187,production,V187,production_board.csv,188,Elevate Bridal Boutique,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B087,CL-46d0243c,,Elevate Bridal Boutique
+production:V188,production,V188,production_board.csv,189,Kelsey Lee,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B087,CL-46d0243c,,Elevate Bridal Boutique
+production:V189,production,V189,production_board.csv,190,Kelsey Lee,,,,CL-46d0243c,exact_name,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+production:V190,production,V190,production_board.csv,191,Trinity Dental,,,,CL-e496b846,booking_reference,100.0,shoot_booking B091,CL-e496b846,,Trinity Dental
+production:V191,production,V191,production_board.csv,192,Trinity Dental,,,,CL-e496b846,exact_name,100.0,,CL-e496b846,,Trinity Dental
+production:V192,production,V192,production_board.csv,193,Angela Hassan DDS,,,,CL-e496b846,exact_name,100.0,,CL-e496b846,,Trinity Dental
+production:V193,production,V193,production_board.csv,194,Dr. Angela Hassan,,,,CL-e496b846,exact_name,100.0,,CL-e496b846,,Trinity Dental
+production:V194,production,V194,production_board.csv,195,Bloom Roofing Co,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B092,CL-5c4e21b5,,Bloom Roofing Co
+production:V195,production,V195,production_board.csv,196,Bloom Roofing,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B092,CL-5c4e21b5,,Bloom Roofing Co
+production:V196,production,V196,production_board.csv,197,Luis Foster,,,,CL-5c4e21b5,exact_name,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+production:V197,production,V197,production_board.csv,198,Walsh Law Firm PLLC,,,,CL-e417c8fb,exact_name,100.0,,CL-e417c8fb,,Walsh Law Firm
+production:V198,production,V198,production_board.csv,199,Walsh Law,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B093,CL-e417c8fb,,Walsh Law Firm
+production:V199,production,V199,production_board.csv,200,Walsh Law Firm,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B093,CL-e417c8fb,,Walsh Law Firm
+production:V200,production,V200,production_board.csv,201,Walsh Law Firm,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B093,CL-e417c8fb,,Walsh Law Firm
+production:V201,production,V201,production_board.csv,202,Luna PT Dallas,,,,CL-e2355201,booking_reference,100.0,shoot_booking B094,CL-e2355201,,Luna Physical Therapy
+production:V202,production,V202,production_board.csv,203,Luna PT,,,,CL-e2355201,booking_reference,100.0,shoot_booking B094,CL-e2355201,,Luna Physical Therapy
+production:V203,production,V203,production_board.csv,204,Luna PT,,,,CL-e2355201,exact_name,100.0,,CL-e2355201,,Luna Physical Therapy
+production:V204,production,V204,production_board.csv,205,Maliks Auto,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B096,CL-abfeafab,,Malik's Auto Spa
+production:V205,production,V205,production_board.csv,206,Maliks Auto,,,,CL-abfeafab,exact_name,100.0,,CL-abfeafab,,Malik's Auto Spa
+production:V206,production,V206,production_board.csv,207,Malik's Auto Spa,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B096,CL-abfeafab,,Malik's Auto Spa
+production:V207,production,V207,production_board.csv,208,Stonebridge RG,,,,CL-91f93a69,exact_name,100.0,,CL-91f93a69,,Stonebridge Realty Group
+production:V208,production,V208,production_board.csv,209,Stonebridge RG,,,,CL-91f93a69,exact_name,100.0,,CL-91f93a69,,Stonebridge Realty Group
+production:V209,production,V209,production_board.csv,210,Nolan Hassan,,,,CL-91f93a69,booking_reference,100.0,shoot_booking B097,CL-91f93a69,,Stonebridge Realty Group
+production:V210,production,V210,production_board.csv,211,Stonebridge RG,,,,CL-91f93a69,booking_reference,100.0,shoot_booking B097,CL-91f93a69,,Stonebridge Realty Group
+production:V211,production,V211,production_board.csv,212,Oak Lane Med Spa,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B100,CL-0a1a5b45,,Oak Lane
+production:V212,production,V212,production_board.csv,213,Oak Lane Med Spa,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B100,CL-0a1a5b45,,Oak Lane
+production:V213,production,V213,production_board.csv,214,Oak Lane Medspa,,,,CL-0a1a5b45,exact_name,100.0,,CL-0a1a5b45,,Oak Lane
+production:V214,production,V214,production_board.csv,215,Parkside Lab,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B101,CL-cb77f582,,The Parkside Lab
+production:V215,production,V215,production_board.csv,216,Parksidelab Coffee,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B101,CL-cb77f582,,The Parkside Lab
+production:V216,production,V216,production_board.csv,217,Parksidelab Coffee,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B101,CL-cb77f582,,The Parkside Lab
+production:V217,production,V217,production_board.csv,218,Jareds Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B102,CL-9acd91da,,Jared's Roofing
+production:V218,production,V218,production_board.csv,219,Jared's Roofing LLC,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B102,CL-9acd91da,,Jared's Roofing
+production:V219,production,V219,production_board.csv,220,Jared's Roofing,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B102,CL-9acd91da,,Jared's Roofing
+production:V220,production,V220,production_board.csv,221,Imran Haddad,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B103,CL-a65b9793,,Haddad Insurance Group
+production:V221,production,V221,production_board.csv,222,Imran Haddad,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B103,CL-a65b9793,,Haddad Insurance Group
+production:V222,production,V222,production_board.csv,223,Haddad Ins,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B103,CL-a65b9793,,Haddad Insurance Group
+production:V223,production,V223,production_board.csv,224,Imran Haddad,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B103,CL-a65b9793,,Haddad Insurance Group
+production:V224,production,V224,production_board.csv,225,Juniper WP,,,,CL-0807ac07,exact_name,100.0,,CL-0807ac07,,Juniper Wealth Partners
+production:V225,production,V225,production_board.csv,226,Juniper Wealth Partners,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B104,CL-0807ac07,,Juniper Wealth Partners
+production:V226,production,V226,production_board.csv,227,Juniper Wealth,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B104,CL-0807ac07,,Juniper Wealth Partners
+production:V227,production,V227,production_board.csv,228,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B104,CL-0807ac07,,Juniper Wealth Partners
+production:V228,production,V228,production_board.csv,229,Hale Family Law PLLC,,,,CL-305525b2,booking_reference,100.0,shoot_booking B105,CL-305525b2,,Hale Family Law PLLC
+production:V229,production,V229,production_board.csv,230,Hale Family Law,,,,CL-305525b2,booking_reference,100.0,shoot_booking B105,CL-305525b2,,Hale Family Law PLLC
+production:V230,production,V230,production_board.csv,231,Hale Family Law,,,,CL-305525b2,booking_reference,100.0,shoot_booking B105,CL-305525b2,,Hale Family Law PLLC
+production:V231,production,V231,production_board.csv,232,Elevate Bridal,,,,CL-46d0243c,exact_name,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+production:V232,production,V232,production_board.csv,233,Elevate Bridal Boutique,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B107,CL-46d0243c,,Elevate Bridal Boutique
+production:V233,production,V233,production_board.csv,234,Kelsey Lee,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B107,CL-46d0243c,,Elevate Bridal Boutique
+production:V234,production,V234,production_board.csv,235,Lakeside Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B108,CL-41da6c70,,Lakeside Roasters
+production:V235,production,V235,production_board.csv,236,Lakeside Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B108,CL-41da6c70,,Lakeside Roasters
+production:V236,production,V236,production_board.csv,237,Lakeside Coffee Roasters,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B108,CL-41da6c70,,Lakeside Roasters
+production:V237,production,V237,production_board.csv,238,Glow & Co Builders,,,,CL-40a78905,exact_name,100.0,,CL-40a78905,,Glow Builders
+production:V238,production,V238,production_board.csv,239,Glow Builders,,,,CL-40a78905,booking_reference,100.0,shoot_booking B109,CL-40a78905,,Glow Builders
+production:V239,production,V239,production_board.csv,240,Glow Builders LLC,,,,CL-40a78905,booking_reference,100.0,shoot_booking B109,CL-40a78905,,Glow Builders
+production:V240,production,V240,production_board.csv,241,Glow,,,,CL-40a78905,booking_reference,100.0,shoot_booking B109,CL-40a78905,,Glow Builders
+production:V241,production,V241,production_board.csv,242,Pecan Athletics,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B110,CL-e964e11d,,Pecan Athletics
+production:V242,production,V242,production_board.csv,243,Pecan Athletics,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B110,CL-e964e11d,,Pecan Athletics
+production:V243,production,V243,production_board.csv,244,Pecan Athletics,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B110,CL-e964e11d,,Pecan Athletics
+production:V244,production,V244,production_board.csv,245,Northpoint Fitness,,,,CL-55c15000,exact_name,100.0,,CL-55c15000,,Northpoint Fitness
+production:V245,production,V245,production_board.csv,246,Northpoint,,,,CL-55c15000,booking_reference,100.0,shoot_booking B111,CL-55c15000,,Northpoint Fitness
+production:V246,production,V246,production_board.csv,247,Hannah Becker,,,,CL-55c15000,booking_reference,100.0,shoot_booking B111,CL-55c15000,,Northpoint Fitness
+production:V247,production,V247,production_board.csv,248,Riverbend Barbers,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B113,CL-69e7c342,,Riverbend Barbershop
+production:V248,production,V248,production_board.csv,249,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B113,CL-69e7c342,,Riverbend Barbershop
+production:V249,production,V249,production_board.csv,250,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B113,CL-69e7c342,,Riverbend Barbershop
+production:V250,production,V250,production_board.csv,251,Cedar & Co Builders,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B116,CL-e14662a1,,Cedar Builders
+production:V251,production,V251,production_board.csv,252,Cedar & Co Builders,,,,CL-e14662a1,exact_name,100.0,,CL-e14662a1,,Cedar Builders
+production:V252,production,V252,production_board.csv,253,Cedar & Co Builders,,,,CL-e14662a1,booking_reference,100.0,shoot_booking B116,CL-e14662a1,,Cedar Builders
+production:V253,production,V253,production_board.csv,254,Cedar Builders LLC,,,,CL-e14662a1,exact_name,100.0,,CL-e14662a1,,Cedar Builders
+production:V254,production,V254,production_board.csv,255,Sunset Peds,,,,CL-77e6a157,exact_name,100.0,,CL-77e6a157,,Sunset Pediatrics
+production:V255,production,V255,production_board.csv,256,Sunset Pediatrics,,,,CL-77e6a157,booking_reference,100.0,shoot_booking B117,CL-77e6a157,,Sunset Pediatrics
+production:V256,production,V256,production_board.csv,257,Kindred - Sunset,,,,CL-77e6a157,booking_reference,100.0,shoot_booking B117,CL-77e6a157,,Sunset Pediatrics
+production:V257,production,V257,production_board.csv,258,Apex Med Spa - Frisco,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B119,CL-ddfb4fe5,,Apex Medspa
+production:V258,production,V258,production_board.csv,259,Apex Med Spa,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B119,CL-ddfb4fe5,,Apex Medspa
+production:V259,production,V259,production_board.csv,260,Apex,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B119,CL-ddfb4fe5,,Apex Medspa
+production:V260,production,V260,production_board.csv,261,Apex Med Spa - Plano,,,,CL-ddfb4fe5,booking_reference,100.0,shoot_booking B119,CL-ddfb4fe5,,Apex Medspa
+production:V261,production,V261,production_board.csv,262,Castillo's Auto Spa,,,,CL-d5c143ad,booking_reference,100.0,shoot_booking B120,CL-d5c143ad,,Castillo's Auto Spa
+production:V262,production,V262,production_board.csv,263,Castillo's Auto Spa,,,,CL-d5c143ad,booking_reference,100.0,shoot_booking B120,CL-d5c143ad,,Castillo's Auto Spa
+production:V263,production,V263,production_board.csv,264,Castillo's Auto Spa,,,,CL-d5c143ad,booking_reference,100.0,shoot_booking B120,CL-d5c143ad,,Castillo's Auto Spa
+production:V264,production,V264,production_board.csv,265,Bloom Roofing,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B122,CL-5c4e21b5,,Bloom Roofing Co
+production:V265,production,V265,production_board.csv,266,Bloom Roofing,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B122,CL-5c4e21b5,,Bloom Roofing Co
+production:V266,production,V266,production_board.csv,267,Bloom Roofing Co,,,,CL-5c4e21b5,exact_name,100.0,,CL-5c4e21b5,,Bloom Roofing Co
+production:V267,production,V267,production_board.csv,268,Dana Khan,,,,CL-9fcd3370,booking_reference,100.0,shoot_booking B123,CL-9fcd3370,,TLC Homecare
+production:V268,production,V268,production_board.csv,269,TLC Homecare,,,,CL-9fcd3370,booking_reference,100.0,shoot_booking B123,CL-9fcd3370,,TLC Homecare
+production:V269,production,V269,production_board.csv,270,Dana Khan,,,,CL-9fcd3370,exact_name,100.0,,CL-9fcd3370,,TLC Homecare
+production:V270,production,V270,production_board.csv,271,TLC Home Care,,,,CL-9fcd3370,booking_reference,100.0,shoot_booking B123,CL-9fcd3370,,TLC Homecare
+production:V271,production,V271,production_board.csv,272,Dr Hale,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B124,CL-db71a0c2,,Hale Dental
+production:V272,production,V272,production_board.csv,273,Dr Hale,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B124,CL-db71a0c2,,Hale Dental
+production:V273,production,V273,production_board.csv,274,Hale Dental PLLC,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B124,CL-db71a0c2,,Hale Dental
+production:V274,production,V274,production_board.csv,275,Dr. Alana Hale,,,,CL-db71a0c2,booking_reference,100.0,shoot_booking B124,CL-db71a0c2,,Hale Dental
+production:V275,production,V275,production_board.csv,276,Parkside Lab,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B125,CL-cb77f582,,The Parkside Lab
+production:V276,production,V276,production_board.csv,277,Parkside Lab,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B125,CL-cb77f582,,The Parkside Lab
+production:V277,production,V277,production_board.csv,278,Parksidelab Coffee,,,,CL-cb77f582,booking_reference,100.0,shoot_booking B125,CL-cb77f582,,The Parkside Lab
+production:V278,production,V278,production_board.csv,279,Jared's Roofing LLC,,,,CL-9acd91da,booking_reference,100.0,shoot_booking B126,CL-9acd91da,,Jared's Roofing
+production:V279,production,V279,production_board.csv,280,Jared's Roofing,,,,CL-9acd91da,exact_name,100.0,,CL-9acd91da,,Jared's Roofing
+production:V280,production,V280,production_board.csv,281,Jared Khan,,,,CL-9acd91da,exact_name,100.0,,CL-9acd91da,,Jared's Roofing
+production:V281,production,V281,production_board.csv,282,Stone Bridge Realty LLC,,,,CL-369a5199,booking_reference,100.0,shoot_booking B127,CL-369a5199,,Stone Bridge Realty
+production:V282,production,V282,production_board.csv,283,Stone Bridge Realty,,,,CL-369a5199,booking_reference,100.0,shoot_booking B127,CL-369a5199,,Stone Bridge Realty
+production:V283,production,V283,production_board.csv,284,Stone Bridge Realty,,,,CL-369a5199,booking_reference,100.0,shoot_booking B127,CL-369a5199,,Stone Bridge Realty
+production:V284,production,V284,production_board.csv,285,Stone Bridge Realty,,,,CL-369a5199,booking_reference,100.0,shoot_booking B127,CL-369a5199,,Stone Bridge Realty
+production:V285,production,V285,production_board.csv,286,Walsh Law Firm PLLC,,,,CL-e417c8fb,exact_name,100.0,,CL-e417c8fb,,Walsh Law Firm
+production:V286,production,V286,production_board.csv,287,Walsh Law Firm,,,,CL-e417c8fb,exact_name,100.0,,CL-e417c8fb,,Walsh Law Firm
+production:V287,production,V287,production_board.csv,288,Walsh Law Firm,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B129,CL-e417c8fb,,Walsh Law Firm
+production:V288,production,V288,production_board.csv,289,Walsh Law Firm,,,,CL-e417c8fb,booking_reference,100.0,shoot_booking B129,CL-e417c8fb,,Walsh Law Firm
+production:V289,production,V289,production_board.csv,290,Dr. Jen Carter,,,,CL-5c3fadfb,exact_name,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+production:V290,production,V290,production_board.csv,291,Horizon Therapy,,,,CL-5c3fadfb,booking_reference,100.0,shoot_booking B130,CL-5c3fadfb,,Horizon Family Therapy
+production:V291,production,V291,production_board.csv,292,Horizon Therapy,,,,CL-5c3fadfb,booking_reference,100.0,shoot_booking B130,CL-5c3fadfb,,Horizon Family Therapy
+production:V292,production,V292,production_board.csv,293,Horizon Family Therapy,,,,CL-5c3fadfb,booking_reference,100.0,shoot_booking B130,CL-5c3fadfb,,Horizon Family Therapy
+production:V293,production,V293,production_board.csv,294,Lakeside Coffee,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B132,CL-41da6c70,,Lakeside Roasters
+production:V294,production,V294,production_board.csv,295,Lakeside Coffee,,,,CL-41da6c70,booking_reference,100.0,shoot_booking B132,CL-41da6c70,,Lakeside Roasters
+production:V295,production,V295,production_board.csv,296,Lakeside Coffee,,,,CL-41da6c70,exact_name,100.0,,CL-41da6c70,,Lakeside Roasters
+production:V296,production,V296,production_board.csv,297,Juniper Wealth Partners,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B133,CL-0807ac07,,Juniper Wealth Partners
+production:V297,production,V297,production_board.csv,298,Juniper WP,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B133,CL-0807ac07,,Juniper Wealth Partners
+production:V298,production,V298,production_board.csv,299,Juniper Wealth Partners,,,,CL-0807ac07,booking_reference,100.0,shoot_booking B133,CL-0807ac07,,Juniper Wealth Partners
+production:V299,production,V299,production_board.csv,300,Juniper Wealth,,,,CL-0807ac07,exact_name,100.0,,CL-0807ac07,,Juniper Wealth Partners
+production:V300,production,V300,production_board.csv,301,Elevate Bridal,,,,CL-46d0243c,exact_name,100.0,,CL-46d0243c,,Elevate Bridal Boutique
+production:V301,production,V301,production_board.csv,302,Elevate Bridal Boutique,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B135,CL-46d0243c,,Elevate Bridal Boutique
+production:V302,production,V302,production_board.csv,303,Kelsey Lee,,,,CL-46d0243c,booking_reference,100.0,shoot_booking B135,CL-46d0243c,,Elevate Bridal Boutique
+production:V303,production,V303,production_board.csv,304,Oak Lane Med Spa - Frisco,,,,CL-0a1a5b45,exact_name,100.0,,CL-0a1a5b45,,Oak Lane
+production:V304,production,V304,production_board.csv,305,Oak Lane,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B136,CL-0a1a5b45,,Oak Lane
+production:V305,production,V305,production_board.csv,306,Oak Lane,,,,CL-0a1a5b45,booking_reference,100.0,shoot_booking B136,CL-0a1a5b45,,Oak Lane
+production:V306,production,V306,production_board.csv,307,Haddad Ins,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B137,CL-a65b9793,,Haddad Insurance Group
+production:V307,production,V307,production_board.csv,308,Haddad Ins,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B137,CL-a65b9793,,Haddad Insurance Group
+production:V308,production,V308,production_board.csv,309,Haddad Insurance,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B137,CL-a65b9793,,Haddad Insurance Group
+production:V309,production,V309,production_board.csv,310,Haddad Insurance Group,,,,CL-a65b9793,booking_reference,100.0,shoot_booking B137,CL-a65b9793,,Haddad Insurance Group
+production:V310,production,V310,production_board.csv,311,Malik's Auto,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B138,CL-abfeafab,,Malik's Auto Spa
+production:V311,production,V311,production_board.csv,312,Malik's Auto Spa,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B138,CL-abfeafab,,Malik's Auto Spa
+production:V312,production,V312,production_board.csv,313,Malik's Auto,,,,CL-abfeafab,booking_reference,100.0,shoot_booking B138,CL-abfeafab,,Malik's Auto Spa
+production:V313,production,V313,production_board.csv,314,Luna PT Dallas,,,,CL-e2355201,booking_reference,100.0,shoot_booking B139,CL-e2355201,,Luna Physical Therapy
+production:V314,production,V314,production_board.csv,315,Kindred - Luna,,,,CL-e2355201,booking_reference,100.0,shoot_booking B139,CL-e2355201,,Luna Physical Therapy
+production:V315,production,V315,production_board.csv,316,Luna Physical Therapy,,,,CL-e2355201,exact_name,100.0,,CL-e2355201,,Luna Physical Therapy
+production:V316,production,V316,production_board.csv,317,Northpoint Fitness,,,,CL-55c15000,booking_reference,100.0,shoot_booking B141,CL-55c15000,,Northpoint Fitness
+production:V317,production,V317,production_board.csv,318,Northpoint,,,,CL-55c15000,booking_reference,100.0,shoot_booking B141,CL-55c15000,,Northpoint Fitness
+production:V318,production,V318,production_board.csv,319,Hannah Becker,,,,CL-55c15000,booking_reference,100.0,shoot_booking B141,CL-55c15000,,Northpoint Fitness
+production:V319,production,V319,production_board.csv,320,Hale Family Law,,,,CL-305525b2,exact_name,100.0,,CL-305525b2,,Hale Family Law PLLC
+production:V320,production,V320,production_board.csv,321,Hale Law,,,,CL-305525b2,booking_reference,100.0,shoot_booking B142,CL-305525b2,,Hale Family Law PLLC
+production:V321,production,V321,production_board.csv,322,Kelsey Hale,,,,CL-305525b2,booking_reference,100.0,shoot_booking B142,CL-305525b2,,Hale Family Law PLLC
+production:V322,production,V322,production_board.csv,323,Riverbend Barbershop,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B143,CL-69e7c342,,Riverbend Barbershop
+production:V323,production,V323,production_board.csv,324,Riverbend Barbershop,,,,CL-69e7c342,exact_name,100.0,,CL-69e7c342,,Riverbend Barbershop
+production:V324,production,V324,production_board.csv,325,Riverbend Barbers,,,,CL-69e7c342,booking_reference,100.0,shoot_booking B143,CL-69e7c342,,Riverbend Barbershop
+production:V325,production,V325,production_board.csv,326,Kindred - Sunset,,,,CL-04322672,booking_reference,100.0,shoot_booking B144,CL-77e6a157,video of booking B144 (reassigned),Sunset Pediatrics
+production:V326,production,V326,production_board.csv,327,Sunset Pediatrics,,,,CL-77e6a157,exact_name,100.0,,CL-77e6a157,,Sunset Pediatrics
+production:V327,production,V327,production_board.csv,328,Sunset Peds,,,,CL-77e6a157,exact_name,100.0,,CL-77e6a157,,Sunset Pediatrics
+production:V328,production,V328,production_board.csv,329,Pecan,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B149,CL-e964e11d,,Pecan Athletics
+production:V329,production,V329,production_board.csv,330,Pecan Athletics,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B149,CL-e964e11d,,Pecan Athletics
+production:V330,production,V330,production_board.csv,331,Pecan,,,,CL-e964e11d,booking_reference,100.0,shoot_booking B149,CL-e964e11d,,Pecan Athletics
+production:V331,production,V331,production_board.csv,332,Trinity Dental,,,,CL-e496b846,booking_reference,100.0,shoot_booking B150,CL-e496b846,,Trinity Dental
+production:V332,production,V332,production_board.csv,333,Angela Hassan DDS,,,,CL-e496b846,booking_reference,100.0,shoot_booking B150,CL-e496b846,,Trinity Dental
+production:V333,production,V333,production_board.csv,334,Dr. Angela Hassan,,,,CL-e496b846,booking_reference,100.0,shoot_booking B150,CL-e496b846,,Trinity Dental
+production:V334,production,V334,production_board.csv,335,Trinity Dental,,,,CL-e496b846,booking_reference,100.0,shoot_booking B150,CL-e496b846,,Trinity Dental
+production:V335,production,V335,production_board.csv,336,Nolan Hassan,,,,CL-91f93a69,booking_reference,100.0,shoot_booking B151,CL-91f93a69,,Stonebridge Realty Group
+production:V336,production,V336,production_board.csv,337,Nolan Hassan,,,,CL-91f93a69,booking_reference,100.0,shoot_booking B151,CL-91f93a69,,Stonebridge Realty Group
+production:V337,production,V337,production_board.csv,338,Stonebridge RG,,,,CL-91f93a69,exact_name,100.0,,CL-91f93a69,,Stonebridge Realty Group
+production:V338,production,V338,production_board.csv,339,Stonebridge RG,,,,CL-91f93a69,booking_reference,100.0,shoot_booking B151,CL-91f93a69,,Stonebridge Realty Group
+production:V339,production,V339,production_board.csv,340,Castillo's Auto,,,,CL-d5c143ad,booking_reference,100.0,shoot_booking B152,CL-d5c143ad,,Castillo's Auto Spa
+production:V340,production,V340,production_board.csv,341,Castillos Auto,,,,CL-d5c143ad,booking_reference,100.0,shoot_booking B152,CL-d5c143ad,,Castillo's Auto Spa
+production:V341,production,V341,production_board.csv,342,Castillo's Auto Spa,,,,CL-d5c143ad,booking_reference,100.0,shoot_booking B152,CL-d5c143ad,,Castillo's Auto Spa
+production:V342,production,V342,production_board.csv,343,Luis Foster,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B154,CL-5c4e21b5,,Bloom Roofing Co
+production:V343,production,V343,production_board.csv,344,Bloom Roofing Co,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B154,CL-5c4e21b5,,Bloom Roofing Co
+production:V344,production,V344,production_board.csv,345,Bloom Roofing,,,,CL-5c4e21b5,booking_reference,100.0,shoot_booking B154,CL-5c4e21b5,,Bloom Roofing Co
+production:V345,production,V345,production_board.csv,346,Stone Bridge Realty LLC,,,,CL-369a5199,booking_reference,100.0,shoot_booking B155,CL-369a5199,,Stone Bridge Realty
+production:V346,production,V346,production_board.csv,347,Nadia Hassan,,,,CL-369a5199,exact_name,100.0,,CL-369a5199,,Stone Bridge Realty
+production:V347,production,V347,production_board.csv,348,Stone Bridge Realty,,,,CL-369a5199,exact_name,100.0,,CL-369a5199,,Stone Bridge Realty
+production:V348,production,V348,production_board.csv,349,Stone Bridge Realty,,,,CL-369a5199,booking_reference,100.0,shoot_booking B155,CL-369a5199,,Stone Bridge Realty
+messages:M-6de8aed8ec4a,messages,M-6de8aed8ec4a,messages.txt,1,,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+messages:M-3bac0e29b1c2,messages,M-3bac0e29b1c2,messages.txt,2,Jared,,9725550110,,CL-9acd91da,phone,100.0,joined through shared phone 9725550110 (one side has no business name to contradict),CL-9acd91da,,Jared's Roofing
+messages:M-08b1f50c1c8b,messages,M-08b1f50c1c8b,messages.txt,3,,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+messages:M-f71182c7dd95,messages,M-f71182c7dd95,messages.txt,4,Greg,,2145550170,,CL-e14662a1,phone,100.0,joined through shared phone 2145550170 (one side has no business name to contradict),CL-e14662a1,,Cedar Builders
+messages:M-a18c2f07cf67,messages,M-a18c2f07cf67,messages.txt,5,,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+messages:M-8e7321dee23c,messages,M-8e7321dee23c,messages.txt,6,Alana,,8175550160,,CL-db71a0c2,phone,100.0,joined through shared phone 8175550160 (one side has no business name to contradict),CL-db71a0c2,,Hale Dental
+messages:M-b2201cf91b8d,messages,M-b2201cf91b8d,messages.txt,7,,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+messages:M-53ba704d09b0,messages,M-53ba704d09b0,messages.txt,8,,,,juniperwealthpartntx,CL-0807ac07,fuzzy,95.0,runner-up score 47,CL-0807ac07,,Juniper Wealth Partners
+messages:M-6554ae664ab5,messages,M-6554ae664ab5,messages.txt,9,Brooke,,8175550132,,CL-ddfb4fe5,phone,100.0,joined through shared phone 8175550132 (one side has no business name to contradict),CL-ddfb4fe5,,Apex Medspa
+messages:M-43a9bdf350a5,messages,M-43a9bdf350a5,messages.txt,10,,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+messages:M-b0cf1eb3aad9,messages,M-b0cf1eb3aad9,messages.txt,11,Nolan,,9725550186,,CL-a645ad81,phone,100.0,joined through shared phone 9725550186 (one side has no business name to contradict),CL-a645ad81,,Silverleaf Church
+messages:M-ee2a517fa82b,messages,M-ee2a517fa82b,messages.txt,12,Aisha,,4695550152,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (one side has no business name to contradict),CL-1c6c0e65,,Calm and Collected
+messages:M-4184e8a0c258,messages,M-4184e8a0c258,messages.txt,13,,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+messages:M-e704bc4462cf,messages,M-e704bc4462cf,messages.txt,14,Greg,,2145550170,,CL-e14662a1,phone,100.0,joined through shared phone 2145550170 (one side has no business name to contradict),CL-e14662a1,,Cedar Builders
+messages:M-4ecfa62983bb,messages,M-4ecfa62983bb,messages.txt,15,Alana,,8175550160,,CL-db71a0c2,phone,100.0,joined through shared phone 8175550160 (one side has no business name to contradict),CL-db71a0c2,,Hale Dental
+messages:M-3e19d9e3f6bd,messages,M-3e19d9e3f6bd,messages.txt,16,,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+messages:M-a0abd81aebab,messages,M-a0abd81aebab,messages.txt,17,Hannah,,8175550137,,CL-55c15000,phone,100.0,joined through shared phone 8175550137 (one side has no business name to contradict),CL-55c15000,,Northpoint Fitness
+messages:M-a47cae7902b8,messages,M-a47cae7902b8,messages.txt,18,,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+messages:M-34eb6cf7f48d,messages,M-34eb6cf7f48d,messages.txt,19,Hannah,,8175550137,,CL-55c15000,phone,100.0,joined through shared phone 8175550137 (one side has no business name to contradict),CL-55c15000,,Northpoint Fitness
+messages:M-dabd539fed17,messages,M-dabd539fed17,messages.txt,20,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-5050132288f5,messages,M-5050132288f5,messages.txt,21,,media@silverleafdfw.org,,,CL-a645ad81,email,100.0,,CL-a645ad81,,Silverleaf Church
+messages:M-603dec569dd0,messages,M-603dec569dd0,messages.txt,22,Mike,,4695550120,,CL-7c2ca1c4,phone,100.0,joined through shared phone 4695550120 (one side has no business name to contradict),CL-7c2ca1c4,,Maple Chiropractic
+messages:M-28eab924d43e,messages,M-28eab924d43e,messages.txt,23,,leah@oaklanemedspa.com,,,CL-0a1a5b45,email,100.0,,CL-0a1a5b45,,Oak Lane
+messages:M-d98b98ed528b,messages,M-d98b98ed528b,messages.txt,24,,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+messages:M-73802d812d5b,messages,M-73802d812d5b,messages.txt,25,Andre,,8175550141,,CL-54e80385,phone,100.0,joined through shared phone 8175550141 (one side has no business name to contradict),CL-54e80385,,North Texas Founders
+messages:M-f07476a53d6b,messages,M-f07476a53d6b,messages.txt,26,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-90f9eb9d2cc8,messages,M-90f9eb9d2cc8,messages.txt,27,,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+messages:M-194ae43120f5,messages,M-194ae43120f5,messages.txt,28,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-df87390a7648,messages,M-df87390a7648,messages.txt,29,Greg,,2145550170,,CL-e14662a1,phone,100.0,joined through shared phone 2145550170 (one side has no business name to contradict),CL-e14662a1,,Cedar Builders
+messages:M-94e3fc352dc1,messages,M-94e3fc352dc1,messages.txt,30,Imran,,2145550176,,CL-a65b9793,phone,100.0,joined through shared phone 2145550176 (one side has no business name to contradict),CL-a65b9793,,Haddad Insurance Group
+messages:M-271d4af67cc3,messages,M-271d4af67cc3,messages.txt,31,,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+messages:M-d021be374e41,messages,M-d021be374e41,messages.txt,32,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-fa4d2b74319d,messages,M-fa4d2b74319d,messages.txt,33,,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+messages:M-847a84e29238,messages,M-847a84e29238,messages.txt,34,,alana@kindredmktg.com,,,CL-04322672,email,100.0,,CL-04322672,,Kindred Creative
+messages:M-75514e88d7ae,messages,M-75514e88d7ae,messages.txt,35,,office@trinitydental.com,,,CL-e496b846,email,100.0,,CL-e496b846,,Trinity Dental
+messages:M-f9c1c0d92dd2,messages,M-f9c1c0d92dd2,messages.txt,36,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-146925b10ea6,messages,M-146925b10ea6,messages.txt,37,Aisha,,4695550152,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (one side has no business name to contradict),CL-1c6c0e65,,Calm and Collected
+messages:M-d1c593811b48,messages,M-d1c593811b48,messages.txt,38,,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+messages:M-ea77ebb3bda6,messages,M-ea77ebb3bda6,messages.txt,39,,promo@fastfollowers.io,,,CL-14fffd09,email,100.0,,CL-14fffd09,,
+messages:M-f58d3fc9ae7b,messages,M-f58d3fc9ae7b,messages.txt,40,Jared,,9725550110,,CL-9acd91da,phone,100.0,joined through shared phone 9725550110 (one side has no business name to contradict),CL-9acd91da,,Jared's Roofing
+messages:M-8bc52ef59964,messages,M-8bc52ef59964,messages.txt,41,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-582ab7b76138,messages,M-582ab7b76138,messages.txt,42,Imran,,2145550176,,CL-a65b9793,phone,100.0,joined through shared phone 2145550176 (one side has no business name to contradict),CL-a65b9793,,Haddad Insurance Group
+messages:M-d254d5831f2f,messages,M-d254d5831f2f,messages.txt,43,Imran,,2145550176,,CL-a65b9793,phone,100.0,joined through shared phone 2145550176 (one side has no business name to contradict),CL-a65b9793,,Haddad Insurance Group
+messages:M-4999ac0b868d,messages,M-4999ac0b868d,messages.txt,44,,khale@halefamilylaw.com,,,CL-305525b2,email,100.0,,CL-305525b2,,Hale Family Law PLLC
+messages:M-61148d25dbf5,messages,M-61148d25dbf5,messages.txt,45,,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+messages:M-bbb28c5eb7c4,messages,M-bbb28c5eb7c4,messages.txt,46,,qcho@sunsetpeds.com,,,CL-77e6a157,email,100.0,,CL-77e6a157,,Sunset Pediatrics
+messages:M-a85b127fb1ac,messages,M-a85b127fb1ac,messages.txt,47,Alana,,8175550160,,CL-db71a0c2,phone,100.0,joined through shared phone 8175550160 (one side has no business name to contradict),CL-db71a0c2,,Hale Dental
+messages:M-517bddd7a8c1,messages,M-517bddd7a8c1,messages.txt,48,,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+messages:M-8c3ac7a72f96,messages,M-8c3ac7a72f96,messages.txt,49,Mike,,4695550120,,CL-7c2ca1c4,phone,100.0,joined through shared phone 4695550120 (one side has no business name to contradict),CL-7c2ca1c4,,Maple Chiropractic
+messages:M-12f7885624c2,messages,M-12f7885624c2,messages.txt,50,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-db80d3d2d943,messages,M-db80d3d2d943,messages.txt,51,,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+messages:M-1c52ed756bda,messages,M-1c52ed756bda,messages.txt,52,,mateo@riverbendbarbers.com,,,CL-69e7c342,email,100.0,,CL-69e7c342,,Riverbend Barbershop
+messages:M-4a3a381c0481,messages,M-4a3a381c0481,messages.txt,53,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-2ba266fcbffe,messages,M-2ba266fcbffe,messages.txt,54,,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+messages:M-96368d21f4fc,messages,M-96368d21f4fc,messages.txt,55,Mateo,,2145550106,,CL-69e7c342,phone,100.0,joined through shared phone 2145550106 (one side has no business name to contradict),CL-69e7c342,,Riverbend Barbershop
+messages:M-e0febbdd1596,messages,M-e0febbdd1596,messages.txt,56,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-3563409d5407,messages,M-3563409d5407,messages.txt,58,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-6479723ebe43,messages,M-6479723ebe43,messages.txt,59,Sofia,,4695550199,,CL-41da6c70,phone,100.0,joined through shared phone 4695550199 (one side has no business name to contradict),CL-41da6c70,,Lakeside Roasters
+messages:M-3d188a98e085,messages,M-3d188a98e085,messages.txt,60,Kelsey,,2145550158,,CL-46d0243c,phone,100.0,joined through shared phone 2145550158 (one side has no business name to contradict),CL-46d0243c,,Elevate Bridal Boutique
+messages:M-982762535818,messages,M-982762535818,messages.txt,61,,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+messages:M-65799ab96c32,messages,M-65799ab96c32,messages.txt,62,,,,instasupportteam,,unmatched,44.4,no similar client,,,
+messages:M-8f1c8176ab4a,messages,M-8f1c8176ab4a,messages.txt,63,Dana,,2145550168,,CL-40a78905,phone,100.0,joined through shared phone 2145550168 (one side has no business name to contradict),CL-40a78905,,Glow Builders
+messages:M-f6ab869e61ac,messages,M-f6ab869e61ac,messages.txt,64,Dana,,2145550168,,CL-40a78905,phone,100.0,joined through shared phone 2145550168 (one side has no business name to contradict),CL-40a78905,,Glow Builders
+messages:M-9aab35851497,messages,M-9aab35851497,messages.txt,65,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-4d0c5f9a0288,messages,M-4d0c5f9a0288,messages.txt,66,Dana,,2145550168,,CL-40a78905,phone,100.0,joined through shared phone 2145550168 (one side has no business name to contradict),CL-40a78905,,Glow Builders
+messages:M-723f6e74f669,messages,M-723f6e74f669,messages.txt,67,,aisha@calmandcollected.fm,,,CL-1c6c0e65,email,100.0,,CL-1c6c0e65,,Calm and Collected
+messages:M-1c761de4f813,messages,M-1c761de4f813,messages.txt,68,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-a0448b2813e4,messages,M-a0448b2813e4,messages.txt,69,Mike,,4695550120,,CL-7c2ca1c4,phone,100.0,joined through shared phone 4695550120 (one side has no business name to contradict),CL-7c2ca1c4,,Maple Chiropractic
+messages:M-2675f80e3d98,messages,M-2675f80e3d98,messages.txt,70,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-958a2c71f259,messages,M-958a2c71f259,messages.txt,71,Trent,,8175550123,,CL-e964e11d,phone,100.0,joined through shared phone 8175550123 (one side has no business name to contradict),CL-e964e11d,,Pecan Athletics
+messages:M-dd324aab0761,messages,M-dd324aab0761,messages.txt,72,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-09db5425c75d,messages,M-09db5425c75d,messages.txt,73,,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+messages:M-875530472b05,messages,M-875530472b05,messages.txt,74,,promo@fastfollowers.io,,,CL-14fffd09,email,100.0,,CL-14fffd09,,
+messages:M-b5df09206e23,messages,M-b5df09206e23,messages.txt,75,,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+messages:M-c8f34ffd6765,messages,M-c8f34ffd6765,messages.txt,76,,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+messages:M-db00f674b964,messages,M-db00f674b964,messages.txt,77,,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+messages:M-5e051f1d8331,messages,M-5e051f1d8331,messages.txt,78,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-a15f5423beb8,messages,M-a15f5423beb8,messages.txt,79,Jen,,8175550170,,CL-e2355201,phone,100.0,joined through shared phone 8175550170 (one side has no business name to contradict),CL-e2355201,,Luna Physical Therapy
+messages:M-f6eab46dda02,messages,M-f6eab46dda02,messages.txt,80,,hannah@northpointfit.co,,,CL-55c15000,email,100.0,,CL-55c15000,,Northpoint Fitness
+messages:M-debd152d99bc,messages,M-debd152d99bc,messages.txt,81,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-97e973ef5fdc,messages,M-97e973ef5fdc,messages.txt,82,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-c933a52e2713,messages,M-c933a52e2713,messages.txt,83,,jrivera@lunaptdallas.com,,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+messages:M-bb12ef957423,messages,M-bb12ef957423,messages.txt,84,,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+messages:M-1ea3eaace1cd,messages,M-1ea3eaace1cd,messages.txt,85,Aisha,,4695550152,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (one side has no business name to contradict),CL-1c6c0e65,,Calm and Collected
+messages:M-3a45a2786a0c,messages,M-3a45a2786a0c,messages.txt,86,,drnovak@maplechiro.com,,,CL-7c2ca1c4,email,100.0,,CL-7c2ca1c4,,Maple Chiropractic
+messages:M-5f965d9921e0,messages,M-5f965d9921e0,messages.txt,87,Trent,,8175550123,,CL-e964e11d,phone,100.0,joined through shared phone 8175550123 (one side has no business name to contradict),CL-e964e11d,,Pecan Athletics
+messages:M-029e2ae86d52,messages,M-029e2ae86d52,messages.txt,88,,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+messages:M-46c0afbc6108,messages,M-46c0afbc6108,messages.txt,89,Brooke,,8175550132,,CL-ddfb4fe5,phone,100.0,joined through shared phone 8175550132 (one side has no business name to contradict),CL-ddfb4fe5,,Apex Medspa
+messages:M-f52da0f586e6,messages,M-f52da0f586e6,messages.txt,90,,greg@cedar.build,,,CL-e14662a1,email,100.0,,CL-e14662a1,,Cedar Builders
+messages:M-9710a2a9614e,messages,M-9710a2a9614e,messages.txt,91,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-95ecfb0692ff,messages,M-95ecfb0692ff,messages.txt,92,,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+messages:M-69b52730231a,messages,M-69b52730231a,messages.txt,93,Mike,,4695550120,,CL-7c2ca1c4,phone,100.0,joined through shared phone 4695550120 (one side has no business name to contradict),CL-7c2ca1c4,,Maple Chiropractic
+messages:M-0015a9780a59,messages,M-0015a9780a59,messages.txt,94,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-669ec769e2aa,messages,M-669ec769e2aa,messages.txt,95,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-54b730fb5621,messages,M-54b730fb5621,messages.txt,96,,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+messages:M-8fec7d7a808f,messages,M-8fec7d7a808f,messages.txt,97,Dana,,2145550168,,CL-40a78905,phone,100.0,joined through shared phone 2145550168 (one side has no business name to contradict),CL-40a78905,,Glow Builders
+messages:M-fdbef5c27248,messages,M-fdbef5c27248,messages.txt,98,Alana,,8175550160,,CL-db71a0c2,phone,100.0,joined through shared phone 8175550160 (one side has no business name to contradict),CL-db71a0c2,,Hale Dental
+messages:M-50c90d156c61,messages,M-50c90d156c61,messages.txt,99,,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+messages:M-a00ea3894e80,messages,M-a00ea3894e80,messages.txt,100,,dana@theparksidelab.coffee,,,CL-cb77f582,email,100.0,,CL-cb77f582,,The Parkside Lab
+messages:M-5e06db2e47e8,messages,M-5e06db2e47e8,messages.txt,101,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-258ef13696f4,messages,M-258ef13696f4,messages.txt,102,,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+messages:M-54e7753f5135,messages,M-54e7753f5135,messages.txt,103,Quinn,,8175550187,,CL-77e6a157,phone,100.0,joined through shared phone 8175550187 (one side has no business name to contradict),CL-77e6a157,,Sunset Pediatrics
+messages:M-02f1aed04c6f,messages,M-02f1aed04c6f,messages.txt,104,,trent@pecangym.co,,,CL-e964e11d,email,100.0,,CL-e964e11d,,Pecan Athletics
+messages:M-6ee007e564e8,messages,M-6ee007e564e8,messages.txt,105,,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+messages:M-bd6a64b23865,messages,M-bd6a64b23865,messages.txt,106,Nadia,,4695550150,,CL-369a5199,phone,100.0,joined through shared phone 4695550150 (one side has no business name to contradict),CL-369a5199,,Stone Bridge Realty
+messages:M-7495c6dc166e,messages,M-7495c6dc166e,messages.txt,107,Mateo,,2145550106,,CL-69e7c342,phone,100.0,joined through shared phone 2145550106 (one side has no business name to contradict),CL-69e7c342,,Riverbend Barbershop
+messages:M-c816d45f2e9b,messages,M-c816d45f2e9b,messages.txt,108,Quinn,,8175550187,,CL-77e6a157,phone,100.0,joined through shared phone 8175550187 (one side has no business name to contradict),CL-77e6a157,,Sunset Pediatrics
+messages:M-f79b5955a2a7,messages,M-f79b5955a2a7,messages.txt,109,,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+messages:M-77a6ab7e2834,messages,M-77a6ab7e2834,messages.txt,110,Kelsey,,2145550158,,CL-46d0243c,phone,100.0,joined through shared phone 2145550158 (one side has no business name to contradict),CL-46d0243c,,Elevate Bridal Boutique
+messages:M-4cfeb55f927e,messages,M-4cfeb55f927e,messages.txt,111,,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+messages:M-ec4c8393ce70,messages,M-ec4c8393ce70,messages.txt,112,Alana,,8175550160,,CL-db71a0c2,phone,100.0,joined through shared phone 8175550160 (one side has no business name to contradict),CL-db71a0c2,,Hale Dental
+messages:M-a7e29871584d,messages,M-a7e29871584d,messages.txt,113,Nadia,,4695550150,,CL-369a5199,phone,100.0,joined through shared phone 4695550150 (one side has no business name to contradict),CL-369a5199,,Stone Bridge Realty
+messages:M-19b3dc8fc13e,messages,M-19b3dc8fc13e,messages.txt,114,Angela,,2145550112,,CL-e496b846,phone,100.0,joined through shared phone 2145550112 (one side has no business name to contradict),CL-e496b846,,Trinity Dental
+messages:M-db41a94ee866,messages,M-db41a94ee866,messages.txt,115,Nadia,,4695550150,,CL-369a5199,phone,100.0,joined through shared phone 4695550150 (one side has no business name to contradict),CL-369a5199,,Stone Bridge Realty
+messages:M-66340f492a8e,messages,M-66340f492a8e,messages.txt,116,Angela,,2145550112,,CL-e496b846,phone,100.0,joined through shared phone 2145550112 (one side has no business name to contradict),CL-e496b846,,Trinity Dental
+messages:M-0aac8eaf0ec9,messages,M-0aac8eaf0ec9,messages.txt,117,,jrivera@lunaptdallas.com,,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+messages:M-8ae3f0fe99f5,messages,M-8ae3f0fe99f5,messages.txt,118,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-2497ff0e9c0c,messages,M-2497ff0e9c0c,messages.txt,119,,andre@ntxfounders.fm,,,CL-54e80385,email,100.0,,CL-54e80385,,North Texas Founders
+messages:M-43de475ee122,messages,M-43de475ee122,messages.txt,120,Angela,,2145550112,,CL-e496b846,phone,100.0,joined through shared phone 2145550112 (one side has no business name to contradict),CL-e496b846,,Trinity Dental
+messages:M-1fae4a631ec5,messages,M-1fae4a631ec5,messages.txt,121,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-b14aa3aa29f5,messages,M-b14aa3aa29f5,messages.txt,122,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-3ada072ae6f3,messages,M-3ada072ae6f3,messages.txt,123,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-384100b0111d,messages,M-384100b0111d,messages.txt,124,,,,castillosautospatx,CL-d5c143ad,fuzzy,100.0,runner-up score 69,CL-d5c143ad,,Castillo's Auto Spa
+messages:M-18ef012bab56,messages,M-18ef012bab56,messages.txt,125,Luis,,2145550142,,CL-5c4e21b5,phone,100.0,joined through shared phone 2145550142 (one side has no business name to contradict),CL-5c4e21b5,,Bloom Roofing Co
+messages:M-050b973bc7d4,messages,M-050b973bc7d4,messages.txt,126,,,,castillosautospatx,CL-d5c143ad,fuzzy,100.0,runner-up score 69,CL-d5c143ad,,Castillo's Auto Spa
+messages:M-f490f6719cef,messages,M-f490f6719cef,messages.txt,127,Kelsey,,4695550105,,CL-305525b2,phone,100.0,joined through shared phone 4695550105 (one side has no business name to contradict),CL-305525b2,,Hale Family Law PLLC
+messages:M-afd13aa9fbf4,messages,M-afd13aa9fbf4,messages.txt,128,Dana,,8175550100,,CL-cb77f582,phone,100.0,joined through shared phone 8175550100 (one side has no business name to contradict),CL-cb77f582,,The Parkside Lab
+messages:M-3bc676571387,messages,M-3bc676571387,messages.txt,129,,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+messages:M-c67fbd178a8c,messages,M-c67fbd178a8c,messages.txt,130,Nolan,,8175550188,,CL-91f93a69,phone,100.0,joined through shared phone 8175550188 (one side has no business name to contradict),CL-91f93a69,,Stonebridge Realty Group
+messages:M-7665f61de2a0,messages,M-7665f61de2a0,messages.txt,131,Nolan,,8175550188,,CL-91f93a69,phone,100.0,joined through shared phone 8175550188 (one side has no business name to contradict),CL-91f93a69,,Stonebridge Realty Group
+messages:M-af41990ae587,messages,M-af41990ae587,messages.txt,132,Dana,,8175550100,,CL-cb77f582,phone,100.0,joined through shared phone 8175550100 (one side has no business name to contradict),CL-cb77f582,,The Parkside Lab
+messages:M-f2ec57e6eb29,messages,M-f2ec57e6eb29,messages.txt,133,Imran,,2145550176,,CL-a65b9793,phone,100.0,joined through shared phone 2145550176 (one side has no business name to contradict),CL-a65b9793,,Haddad Insurance Group
+messages:M-40414f124cae,messages,M-40414f124cae,messages.txt,134,,lucia@maliksautospa.com,,,CL-abfeafab,email,100.0,,CL-abfeafab,,Malik's Auto Spa
+messages:M-344c069585a9,messages,M-344c069585a9,messages.txt,135,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-c2a724e7ff9e,messages,M-c2a724e7ff9e,messages.txt,136,,,,glowbuilders,CL-40a78905,fuzzy,100.0,runner-up score 64,CL-40a78905,,Glow Builders
+messages:M-b14c8d21367f,messages,M-b14c8d21367f,messages.txt,137,Lucia,,9725550121,,CL-abfeafab,phone,100.0,joined through shared phone 9725550121 (one side has no business name to contradict),CL-abfeafab,,Malik's Auto Spa
+messages:M-4391549f5c0c,messages,M-4391549f5c0c,messages.txt,138,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-4d18db52d290,messages,M-4d18db52d290,messages.txt,139,,,,pecangym,CL-e964e11d,fuzzy,100.0,runner-up score 43,CL-e964e11d,,Pecan Athletics
+messages:M-71afd5c86c3f,messages,M-71afd5c86c3f,messages.txt,140,,nolan@stonebridgerg.com,,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+messages:M-dc5fa995f0b8,messages,M-dc5fa995f0b8,messages.txt,141,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-11030138c307,messages,M-11030138c307,messages.txt,142,Aisha Chen,aisha.chen.mail@gmail.com,,,CL-1c6c0e65,phone,100.0,joined through shared phone 4695550152 (best business-name similarity 100),CL-1c6c0e65,,Calm and Collected
+messages:M-3cfed5c4432b,messages,M-3cfed5c4432b,messages.txt,143,Mateo,,2145550106,,CL-69e7c342,phone,100.0,joined through shared phone 2145550106 (one side has no business name to contradict),CL-69e7c342,,Riverbend Barbershop
+messages:M-e20641c0b65c,messages,M-e20641c0b65c,messages.txt,144,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-66232a82a7b6,messages,M-66232a82a7b6,messages.txt,145,,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+messages:M-66bf3d2d87e7,messages,M-66bf3d2d87e7,messages.txt,146,Dana,,2145550168,,CL-40a78905,phone,100.0,joined through shared phone 2145550168 (one side has no business name to contradict),CL-40a78905,,Glow Builders
+messages:M-ad58b823face,messages,M-ad58b823face,messages.txt,147,,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+messages:M-e32af4314360,messages,M-e32af4314360,messages.txt,148,Will,,9725550191,,CL-d5c143ad,phone,100.0,joined through shared phone 9725550191 (one side has no business name to contradict),CL-d5c143ad,,Castillo's Auto Spa
+messages:M-ce58d154ea5f,messages,M-ce58d154ea5f,messages.txt,149,Mike,,4695550120,,CL-7c2ca1c4,phone,100.0,joined through shared phone 4695550120 (one side has no business name to contradict),CL-7c2ca1c4,,Maple Chiropractic
+messages:M-dc46fceeca0f,messages,M-dc46fceeca0f,messages.txt,150,Jen,,8175550170,,CL-e2355201,phone,100.0,joined through shared phone 8175550170 (one side has no business name to contradict),CL-e2355201,,Luna Physical Therapy
+messages:M-0143f107720c,messages,M-0143f107720c,messages.txt,151,Greg,,2145550170,,CL-e14662a1,phone,100.0,joined through shared phone 2145550170 (one side has no business name to contradict),CL-e14662a1,,Cedar Builders
+messages:M-f2430c4f07c8,messages,M-f2430c4f07c8,messages.txt,152,Lucia,,9725550121,,CL-abfeafab,phone,100.0,joined through shared phone 9725550121 (one side has no business name to contradict),CL-abfeafab,,Malik's Auto Spa
+messages:M-6ea77ca3591b,messages,M-6ea77ca3591b,messages.txt,153,,brooke@apexmedspa.com,,,CL-ddfb4fe5,email,100.0,,CL-ddfb4fe5,,Apex Medspa
+messages:M-1fe5f1b6d3a0,messages,M-1fe5f1b6d3a0,messages.txt,154,Mateo,,2145550106,,CL-69e7c342,phone,100.0,joined through shared phone 2145550106 (one side has no business name to contradict),CL-69e7c342,,Riverbend Barbershop
+messages:M-68af526cda7e,messages,M-68af526cda7e,messages.txt,155,,dana@glow.build,,,CL-40a78905,email,100.0,,CL-40a78905,,Glow Builders
+messages:M-01c60a2d8032,messages,M-01c60a2d8032,messages.txt,156,,vramirez@juniperwp.com,,,CL-0807ac07,email,100.0,,CL-0807ac07,,Juniper Wealth Partners
+messages:M-7bbdde93b7b1,messages,M-7bbdde93b7b1,messages.txt,157,Brooke,,2145550121,,CL-ddfb4fe5,announced_alias,100.0,phone 2145550121 announced by the client in a message on 2026-09-06 08:28 (messages.txt line 153),CL-ddfb4fe5,,Apex Medspa
+messages:M-ea6c087c0cc5,messages,M-ea6c087c0cc5,messages.txt,158,Dana,,2145550168,,CL-40a78905,phone,100.0,joined through shared phone 2145550168 (one side has no business name to contradict),CL-40a78905,,Glow Builders
+messages:M-27353d603c9a,messages,M-27353d603c9a,messages.txt,159,Greg,,2145550170,,CL-e14662a1,phone,100.0,joined through shared phone 2145550170 (one side has no business name to contradict),CL-e14662a1,,Cedar Builders
+messages:M-d94ee033ef93,messages,M-d94ee033ef93,messages.txt,160,,nolan@stonebridgerg.com,,,CL-91f93a69,email,100.0,,CL-91f93a69,,Stonebridge Realty Group
+messages:M-338b634585d3,messages,M-338b634585d3,messages.txt,161,,jcarter@horizonfamilytherapy.com,,,CL-5c3fadfb,email,100.0,,CL-5c3fadfb,,Horizon Family Therapy
+messages:M-69df50e82a4d,messages,M-69df50e82a4d,messages.txt,162,Jen,,9725550132,,CL-5c3fadfb,phone,100.0,joined through shared phone 9725550132 (one side has no business name to contradict),CL-5c3fadfb,,Horizon Family Therapy
+messages:M-adc4814dbdfa,messages,M-adc4814dbdfa,messages.txt,163,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-cd7860e57aa9,messages,M-cd7860e57aa9,messages.txt,164,,info@walshlaw.com,,,CL-e417c8fb,email,100.0,,CL-e417c8fb,,Walsh Law Firm
+messages:M-cb2df3589fbc,messages,M-cb2df3589fbc,messages.txt,165,,,,jaredsroofingtx,CL-9acd91da,fuzzy,100.0,runner-up score 64,CL-9acd91da,,Jared's Roofing
+messages:M-5e5672dc87a5,messages,M-5e5672dc87a5,messages.txt,166,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-b97694f926fc,messages,M-b97694f926fc,messages.txt,167,,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+messages:M-72a0cbc8f015,messages,M-72a0cbc8f015,messages.txt,168,Alana,,8175550160,,CL-db71a0c2,phone,100.0,joined through shared phone 8175550160 (one side has no business name to contradict),CL-db71a0c2,,Hale Dental
+messages:M-072caee508e0,messages,M-072caee508e0,messages.txt,169,Kelsey,,4695550105,,CL-305525b2,phone,100.0,joined through shared phone 4695550105 (one side has no business name to contradict),CL-305525b2,,Hale Family Law PLLC
+messages:M-5dae792c5be8,messages,M-5dae792c5be8,messages.txt,170,Jared,,2145550109,,CL-e417c8fb,phone,100.0,joined through shared phone 2145550109 (one side has no business name to contradict),CL-e417c8fb,,Walsh Law Firm
+messages:M-a9458ff7f944,messages,M-a9458ff7f944,messages.txt,171,,imran@haddadinsures.com,,,CL-a65b9793,email,100.0,,CL-a65b9793,,Haddad Insurance Group
+messages:M-3e4ea85ed2ad,messages,M-3e4ea85ed2ad,messages.txt,172,Jen,,8175550170,,CL-e2355201,phone,100.0,joined through shared phone 8175550170 (one side has no business name to contradict),CL-e2355201,,Luna Physical Therapy
+messages:M-c1e4316f4cc6,messages,M-c1e4316f4cc6,messages.txt,173,Hannah,,8175550137,,CL-55c15000,phone,100.0,joined through shared phone 8175550137 (one side has no business name to contradict),CL-55c15000,,Northpoint Fitness
+messages:M-fb8123e9d536,messages,M-fb8123e9d536,messages.txt,174,,dana@tlchomecare.com,,,CL-9fcd3370,email,100.0,,CL-9fcd3370,,TLC Homecare
+messages:M-a1cf35443345,messages,M-a1cf35443345,messages.txt,175,Nadia,,4695550150,,CL-369a5199,phone,100.0,joined through shared phone 4695550150 (one side has no business name to contradict),CL-369a5199,,Stone Bridge Realty
+messages:M-c507e453c514,messages,M-c507e453c514,messages.txt,176,,jared@jaredsroofingtx.com,,,CL-9acd91da,email,100.0,,CL-9acd91da,,Jared's Roofing
+messages:M-ae285984b243,messages,M-ae285984b243,messages.txt,177,Nadia,,4695550150,,CL-369a5199,phone,100.0,joined through shared phone 4695550150 (one side has no business name to contradict),CL-369a5199,,Stone Bridge Realty
+messages:M-eb5d3e9e4ad9,messages,M-eb5d3e9e4ad9,messages.txt,178,,noreply@domain-renewals.net,,,CL-d88b129c,email,100.0,,CL-d88b129c,,
+messages:M-985a79d5cf0c,messages,M-985a79d5cf0c,messages.txt,179,,sofia@lakesidecoffee.com,,,CL-41da6c70,email,100.0,,CL-41da6c70,,Lakeside Roasters
+messages:M-4ec4f0688bd5,messages,M-4ec4f0688bd5,messages.txt,180,Luis,,2145550142,,CL-5c4e21b5,phone,100.0,joined through shared phone 2145550142 (one side has no business name to contradict),CL-5c4e21b5,,Bloom Roofing Co
+messages:M-9ba2f9d79d3d,messages,M-9ba2f9d79d3d,messages.txt,181,Victor,,4695550183,,CL-0807ac07,phone,100.0,joined through shared phone 4695550183 (one side has no business name to contradict),CL-0807ac07,,Juniper Wealth Partners
+messages:M-8eff31b74969,messages,M-8eff31b74969,messages.txt,182,,billing@acct-dept.co,,,CL-fc449112,email,100.0,,CL-fc449112,,
+messages:M-ed57203be229,messages,M-ed57203be229,messages.txt,183,Nadia,,4695550150,,CL-369a5199,phone,100.0,joined through shared phone 4695550150 (one side has no business name to contradict),CL-369a5199,,Stone Bridge Realty
+messages:M-7970bb2bd1f3,messages,M-7970bb2bd1f3,messages.txt,184,,jrivera@lunaptdallas.com,,,CL-e2355201,email,100.0,,CL-e2355201,,Luna Physical Therapy
+messages:M-b37b61f72437,messages,M-b37b61f72437,messages.txt,185,"Simone Ramirez, Juniper Wealth Partners",simone@juniperwp.com,,,CL-0807ac07,exact_name,100.0,joined on exact name 'juniper wealth partners' (same email domain),CL-0807ac07,,Juniper Wealth Partners
+messages:M-57b531dc2d15,messages,M-57b531dc2d15,messages.txt,186,Kelsey,,2145550158,,CL-46d0243c,phone,100.0,joined through shared phone 2145550158 (one side has no business name to contradict),CL-46d0243c,,Elevate Bridal Boutique
+messages:M-88d48510019b,messages,M-88d48510019b,messages.txt,187,,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+messages:M-815a0f206dbd,messages,M-815a0f206dbd,messages.txt,188,Leah,,9725550112,,CL-0a1a5b45,phone,100.0,joined through shared phone 9725550112 (one side has no business name to contradict),CL-0a1a5b45,,Oak Lane
+messages:M-d0f71078b876,messages,M-d0f71078b876,messages.txt,189,,nadia@stonebridgerealty.com,,,CL-369a5199,email,100.0,,CL-369a5199,,Stone Bridge Realty
+messages:M-095a9cf6c24c,messages,M-095a9cf6c24c,messages.txt,190,,hello@haledental.com,,,CL-db71a0c2,email,100.0,,CL-db71a0c2,,Hale Dental
+messages:M-5abeac1a98c9,messages,M-5abeac1a98c9,messages.txt,191,,simone@juniperwp.com,,,CL-0807ac07,exact_name,100.0,joined on exact name 'juniper wealth partners' (same email domain),CL-0807ac07,,Juniper Wealth Partners
+messages:M-95e33137c94c,messages,M-95e33137c94c,messages.txt,192,Mateo,,2145550106,,CL-69e7c342,phone,100.0,joined through shared phone 2145550106 (one side has no business name to contradict),CL-69e7c342,,Riverbend Barbershop
+messages:M-ef9766738ace,messages,M-ef9766738ace,messages.txt,193,Will,,9725550191,,CL-d5c143ad,phone,100.0,joined through shared phone 9725550191 (one side has no business name to contradict),CL-d5c143ad,,Castillo's Auto Spa

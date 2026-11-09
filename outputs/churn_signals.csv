@@ -1,0 +1,89 @@
+client_id,client,signal,points,evidence,source,record_id,date
+CL-e417c8fb,Walsh Law Firm,complaint,2,"2026-06-10 05:31: ""This is the second time I ask. slip and fall rights is still wrong.""",messages,M-d021be374e41,2026-06-10 05:31
+CL-a65b9793,Haddad Insurance Group,praise,0,"2026-06-17 15:00: ""Thanks team, great session.""",messages,M-d254d5831f2f,2026-06-17 15:00
+CL-db71a0c2,Hale Dental,praise,0,"2026-06-25 08:15: ""Best content team we've worked with. New patients mention the videos.""",messages,M-a85b127fb1ac,2026-06-25 08:15
+CL-41da6c70,Lakeside Roasters,praise,0,"2026-06-28 15:32: ""Dana at Parkside Lab loved our reels. She'll reach out.""",messages,M-db80d3d2d943,2026-06-28 15:32
+CL-41da6c70,Lakeside Roasters,praise,0,"2026-06-30 11:01: ""Happy hour promo looks great. Approved! Post it.""",messages,M-2ba266fcbffe,2026-06-30 11:01
+CL-46d0243c,Elevate Bridal Boutique,praise,0,"2026-07-04 13:00: ""Sales went up after the reels. You can use this as a review!""",messages,M-3d188a98e085,2026-07-04 13:00
+CL-e417c8fb,Walsh Law Firm,praise,0,"2026-07-08 13:44: ""Three new cases came from your videos this month. Thank you.""",messages,M-9aab35851497,2026-07-08 13:44
+CL-0807ac07,Juniper Wealth Partners,complaint,2,"2026-07-10 20:57: ""This is the second time I ask. meet the advisor is still wrong.""",messages,M-1c761de4f813,2026-07-10 20:57
+CL-40a78905,Glow Builders,complaint,2,"2026-07-15 17:56: ""Did anyone see my message about permit tips? It's not fixed.""",messages,M-09db5425c75d,2026-07-15 17:56
+CL-7c2ca1c4,Maple Chiropractic,leave_intent,6,"2026-07-16 15:45: ""Mike here. We'll pause after this month. Too many rounds of fixes, and my notes keep getting missed. Nothing personal.""",messages,M-b5df09206e23,2026-07-16 15:45
+CL-7c2ca1c4,Maple Chiropractic,complaint,2,"2026-07-21 02:20: ""What to expect visit one still has the same problem. I already told you about this.""",messages,M-3a45a2786a0c,2026-07-21 02:20
+CL-e14662a1,Cedar Builders,complaint,2,"2026-07-23 03:28: ""Did anyone see my message about permit tips? It's not fixed.""",messages,M-029e2ae86d52,2026-07-23 03:28
+CL-cb77f582,The Parkside Lab,praise,0,"2026-07-24 20:14: ""Happy hour promo looks great. Approved! Post it.""",messages,M-95ecfb0692ff,2026-07-24 20:14
+CL-0a1a5b45,Oak Lane,complaint,2,"2026-07-26 03:56: ""Laser hair removal still has the same problem. I already told you about this.""",messages,M-0015a9780a59,2026-07-26 03:56
+CL-5c3fadfb,Horizon Family Therapy,praise,0,"2026-07-26 17:21: ""The videos turned out great. Can we do this every month? What would that cost?""",messages,M-54b730fb5621,2026-07-26 17:21
+CL-e417c8fb,Walsh Law Firm,complaint,2,"2026-07-29 20:24: ""Did anyone see my message about what a consult costs? It's not fixed.""",messages,M-5e06db2e47e8,2026-07-29 20:24
+CL-ddfb4fe5,Apex Medspa,complaint,2,"2026-08-03 12:10: ""Did anyone see my message about membership promo? It's not fixed.""",messages,M-4cfeb55f927e,2026-08-03 12:10
+CL-db71a0c2,Hale Dental,praise,0,"2026-08-09 13:45: ""Thanks team, great session.""",messages,M-ec4c8393ce70,2026-08-09 13:45
+CL-369a5199,Stone Bridge Realty,complaint,2,"2026-08-11 10:02: ""Still not fixed on neighborhood guide. A little frustrated honestly.""",messages,M-a7e29871584d,2026-08-11 10:02
+CL-e417c8fb,Walsh Law Firm,complaint,2,"2026-08-21 23:39: ""Still not fixed on car accident: first 3 steps. A little frustrated honestly.""",messages,M-3ada072ae6f3,2026-08-21 23:39
+CL-0807ac07,Juniper Wealth Partners,complaint,2,"2026-08-28 22:40: ""Did anyone see my message about retirement myths? It's not fixed.""",messages,M-4391549f5c0c,2026-08-28 22:40
+CL-91f93a69,Stonebridge Realty Group,complaint,2,"2026-08-31 14:50: ""Did anyone see my message about market update? It's not fixed.""",messages,M-71afd5c86c3f,2026-08-31 14:50
+CL-7c2ca1c4,Maple Chiropractic,praise,0,"2026-09-03 14:14: ""Thanks team, great session.""",messages,M-ce58d154ea5f,2026-09-03 14:14
+CL-abfeafab,Malik's Auto Spa,complaint,2,"2026-09-06 02:21: ""Price menu still has the same problem. I already told you about this.""",messages,M-f2430c4f07c8,2026-09-06 02:21
+CL-40a78905,Glow Builders,complaint,2,"2026-09-08 20:39: ""Crew day still has the same problem. I already told you about this.""",messages,M-68af526cda7e,2026-09-08 20:39
+CL-0807ac07,Juniper Wealth Partners,complaint,2,"2026-09-09 14:43: ""The videos say ""Juniper WP"" again. I asked for the full name. Not happy.""",messages,M-01c60a2d8032,2026-09-09 14:43
+CL-91f93a69,Stonebridge Realty Group,praise,0,"2026-09-12 11:24: ""Got the videos, thanks. Accounting will handle the invoice.""",messages,M-d94ee033ef93,2026-09-12 11:24
+CL-9acd91da,Jared's Roofing,complaint,2,"2026-09-23 16:52: ""Did anyone see my message about hail claim help? It's not fixed.""",messages,M-c507e453c514,2026-09-23 16:52
+CL-0807ac07,Juniper Wealth Partners,leave_intent,6,"2026-09-28 10:20: ""We would like to talk about our contract and whether we continue.""",messages,M-b37b61f72437,2026-09-28 10:20
+CL-369a5199,Stone Bridge Realty,complaint,2,"2026-09-28 22:11: ""Did anyone see my message about listing tour: oak st? It's not fixed.""",messages,M-88d48510019b,2026-09-28 22:11
+CL-369a5199,Stone Bridge Realty,complaint,2,"2026-10-01 17:07: ""Still not fixed on sold story. A little frustrated honestly.""",messages,M-d0f71078b876,2026-10-01 17:07
+CL-db71a0c2,Hale Dental,complaint,2,"2026-10-03 00:22: ""Implants explained still has the same problem. I already told you about this.""",messages,M-095a9cf6c24c,2026-10-03 00:22
+CL-0807ac07,Juniper Wealth Partners,leave_intent,6,"2026-10-03 14:37: ""Following up. We need to talk about the contract this week.""",messages,M-5abeac1a98c9,2026-10-03 14:37
+CL-0807ac07,Juniper Wealth Partners,lost_request,1,2026-05-02 19:42: 'use the outside shot' on V019 never reached the board,messages,M-53ba704d09b0,2026-05-02 19:42
+CL-e417c8fb,Walsh Law Firm,lost_request,1,2026-05-29 21:31: 'fix name spelling' on V027 never reached the board,messages,M-f07476a53d6b,2026-05-29 21:31
+CL-a65b9793,Haddad Insurance Group,lost_request,1,2026-06-16 21:07: 'remove the prices part' on V081 never reached the board,messages,M-582ab7b76138,2026-06-16 21:07
+CL-0807ac07,Juniper Wealth Partners,lost_request,1,2026-07-02 20:57: 'remove the prices part' on V107 never reached the board,messages,M-e0febbdd1596,2026-07-02 20:57
+CL-e417c8fb,Walsh Law Firm,lost_request,1,2026-07-03 11:09: 'calmer music' on V097 never reached the board,messages,M-3563409d5407,2026-07-03 11:09
+CL-41da6c70,Lakeside Roasters,lost_request,1,2026-07-04 09:36: 'remove the prices part' on V113 never reached the board,messages,M-6479723ebe43,2026-07-04 09:36
+CL-40a78905,Glow Builders,lost_request,1,2026-07-07 17:02: 'remove the prices part' on V114 never reached the board,messages,M-8f1c8176ab4a,2026-07-07 17:02
+CL-7c2ca1c4,Maple Chiropractic,lost_request,1,2026-07-13 19:20: 'cut a stumble' on V133 never reached the board,messages,M-a0448b2813e4,2026-07-13 19:20
+CL-0a1a5b45,Oak Lane,lost_request,1,2026-07-14 19:56: 'add 'walk-ins welcome'' on V131 never reached the board,messages,M-dd324aab0761,2026-07-14 19:56
+CL-e14662a1,Cedar Builders,lost_request,1,2026-07-16 19:28: 'cut a stumble' on V123 never reached the board,messages,M-c8f34ffd6765,2026-07-16 19:28
+CL-e417c8fb,Walsh Law Firm,lost_request,1,2026-07-19 12:24: 'bigger captions' on V151 never reached the board,messages,M-debd152d99bc,2026-07-19 12:24
+CL-0a1a5b45,Oak Lane,lost_request,1,2026-07-19 13:20: 'fix name spelling' on V129 never reached the board,messages,M-97e973ef5fdc,2026-07-19 13:20
+CL-ddfb4fe5,Apex Medspa,lost_request,1,2026-07-24 08:10: 'fix name spelling' on V128 never reached the board,messages,M-46c0afbc6108,2026-07-24 08:10
+CL-7c2ca1c4,Maple Chiropractic,lost_request,1,2026-07-25 18:58: 'use the outside shot' on V135 never reached the board,messages,M-69b52730231a,2026-07-25 18:58
+CL-369a5199,Stone Bridge Realty,lost_request,1,2026-08-02 09:02: 'remove the prices part' on V173 never reached the board,messages,M-bd6a64b23865,2026-08-02 09:02
+CL-69e7c342,Riverbend Barbershop,lost_request,1,2026-08-02 15:16: 'add 'walk-ins welcome'' on V178 never reached the board,messages,M-7495c6dc166e,2026-08-02 15:16
+CL-46d0243c,Elevate Bridal Boutique,lost_request,1,2026-08-02 20:40: 'remove the prices part' on V189 never reached the board,messages,M-77a6ab7e2834,2026-08-02 20:40
+CL-e417c8fb,Walsh Law Firm,lost_request,1,2026-08-16 19:39: 'use the outside shot' on V200 never reached the board,messages,M-8ae3f0fe99f5,2026-08-16 19:39
+CL-0807ac07,Juniper Wealth Partners,lost_request,1,2026-08-18 14:40: 'fix name spelling' on V224 never reached the board,messages,M-1fae4a631ec5,2026-08-18 14:40
+CL-e417c8fb,Walsh Law Firm,lost_request,1,2026-08-19 13:35: 'cut first 3 seconds' on V200 never reached the board,messages,M-b14aa3aa29f5,2026-08-19 13:35
+CL-91f93a69,Stonebridge Realty Group,lost_request,1,2026-08-24 13:50: 'fix name spelling' on V210 never reached the board,messages,M-c67fbd178a8c,2026-08-24 13:50
+CL-cb77f582,The Parkside Lab,lost_request,1,2026-08-25 11:55: 'brand color' on V214 never reached the board,messages,M-af41990ae587,2026-08-25 11:55
+CL-abfeafab,Malik's Auto Spa,lost_request,1,2026-08-25 14:16: 'phone number end card' on V204 never reached the board,messages,M-40414f124cae,2026-08-25 14:16
+CL-40a78905,Glow Builders,lost_request,1,2026-08-26 17:39: 'fix name spelling' on V237 never reached the board,messages,M-c2a724e7ff9e,2026-08-26 17:39
+CL-abfeafab,Malik's Auto Spa,lost_request,1,2026-08-28 20:21: 'fix name spelling' on V204 never reached the board,messages,M-b14c8d21367f,2026-08-28 20:21
+CL-e964e11d,Pecan Athletics,lost_request,1,2026-08-30 11:54: 'brand color' on V242 never reached the board,messages,M-4d18db52d290,2026-08-30 11:54
+CL-69e7c342,Riverbend Barbershop,lost_request,1,2026-09-01 21:02: 'cut first 3 seconds' on V248 never reached the board,messages,M-3cfed5c4432b,2026-09-01 21:02
+CL-0807ac07,Juniper Wealth Partners,lost_request,1,2026-09-01 21:42: 'use the full business name (all videos)' on V296 never reached the board,messages,M-e20641c0b65c,2026-09-01 21:42
+CL-e14662a1,Cedar Builders,lost_request,1,2026-09-05 12:18: 'lower the music' on V251 never reached the board,messages,M-0143f107720c,2026-09-05 12:18
+CL-ddfb4fe5,Apex Medspa,lost_request,1,2026-09-09 20:08: 'phone number end card' on V260 never reached the board,messages,M-7bbdde93b7b1,2026-09-09 20:08
+CL-e14662a1,Cedar Builders,lost_request,1,2026-09-11 10:04: 'brand color' on V252 never reached the board,messages,M-27353d603c9a,2026-09-11 10:04
+CL-5c3fadfb,Horizon Family Therapy,lost_request,1,2026-09-13 16:43: 'lower the music' on V290 never reached the board,messages,M-69df50e82a4d,2026-09-13 16:43
+CL-9acd91da,Jared's Roofing,lost_request,1,2026-09-16 13:52: 'lower the music' on V280 never reached the board,messages,M-cb2df3589fbc,2026-09-16 13:52
+CL-369a5199,Stone Bridge Realty,lost_request,1,2026-09-19 13:07: 'fix name spelling' on V282 never reached the board,messages,M-b97694f926fc,2026-09-19 13:07
+CL-db71a0c2,Hale Dental,lost_request,1,2026-09-19 16:22: 'blur a face' on V272 never reached the board,messages,M-72a0cbc8f015,2026-09-19 16:22
+CL-369a5199,Stone Bridge Realty,lost_request,1,2026-09-23 20:11: 'remove the prices part' on V282 never reached the board,messages,M-ae285984b243,2026-09-23 20:11
+CL-369a5199,Stone Bridge Realty,lost_request,1,2026-09-25 16:17: 'lower the music' on V281 never reached the board,messages,M-ed57203be229,2026-09-25 16:17
+CL-46d0243c,Elevate Bridal Boutique,lost_request,1,2026-09-28 11:31: 'use the outside shot' on V301 never reached the board,messages,M-57b531dc2d15,2026-09-28 11:31
+CL-0a1a5b45,Oak Lane,lost_request,1,2026-09-29 13:51: 'brand color' on V305 never reached the board,messages,M-815a0f206dbd,2026-09-29 13:51
+CL-e964e11d,Pecan Athletics,no_reply,3,2026-08-02 14:03: wrote via Website form (L073) and never got a reply,leads,L073,2026-08-02 14:03
+CL-1c6c0e65,Calm and Collected,no_reply,3,2026-09-01 19:17: wrote via Website form (L088) and never got a reply,leads,L088,2026-09-01 19:17
+CL-0807ac07,Juniper Wealth Partners,no_reply,3,2026-09-28 20:41: wrote via Website form (L098) and never got a reply,leads,L098,2026-09-28 20:41
+CL-91f93a69,Stonebridge Realty Group,overdue,1,INV-1094: 1500.00 42 days late,invoices,INV-1094,2026-08-25
+CL-91f93a69,Stonebridge Realty Group,overdue_30,1,INV-1094 more than 30 days late,invoices,INV-1094,2026-08-25
+CL-9acd91da,Jared's Roofing,overdue,1,INV-1099: 900.00 39 days late,invoices,INV-1099,2026-08-28
+CL-9acd91da,Jared's Roofing,overdue_30,1,INV-1099 more than 30 days late,invoices,INV-1099,2026-08-28
+CL-54e80385,North Texas Founders,overdue,1,INV-1109: 550.00 29 days late,invoices,INV-1109,2026-09-07
+CL-e14662a1,Cedar Builders,overdue,1,INV-1111: 1500.00 28 days late,invoices,INV-1111,2026-09-08
+CL-9fcd3370,TLC Homecare,overdue,1,INV-1118: 1500.00 21 days late,invoices,INV-1118,2026-09-15
+CL-0807ac07,Juniper Wealth Partners,overdue,1,INV-1119: 2500.00 21 days late,invoices,INV-1119,2026-09-15
+CL-5c4e21b5,Bloom Roofing Co,overdue,1,INV-1123: 450.00 18 days late,invoices,INV-1123,2026-09-18
+CL-cb77f582,The Parkside Lab,overdue,1,INV-1124: 900.00 17 days late,invoices,INV-1124,2026-09-19
+CL-369a5199,Stone Bridge Realty,cancellation,1,B148 on 2026-09-23 cancelled,bookings,B148,2026-09-23
+CL-40a78905,Glow Builders,inactive,2,"last completed booking 2026-08-17 (50 days ago), nothing upcoming",bookings,B109,2026-08-17
+CL-7c2ca1c4,Maple Chiropractic,inactive,2,"last completed booking 2026-07-07 (91 days ago), nothing upcoming",bookings,B066,2026-07-07
